@@ -21,7 +21,9 @@ project and can be found in the GNU "FreeSerif" typeface since 2002. Glyph conve
 in this project was performed with a more modern (though not necessarily better)
 algorithm and the outcome extensively reviewed and refined by a professional type designer.
 
-Glyph additions have been made to cover the ranges: [Ethiopic Supplement](https://en.wikipedia.org/wiki/Ethiopic_Supplement),
+At present, the FreeSerif typeface has coverage limited to the [Ethiopic Basic range](https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block))
+under Unicode. Under this effort, glyph additions have been made to cover the ranges:
+[Ethiopic Supplement](https://en.wikipedia.org/wiki/Ethiopic_Supplement),
 [Ethiopic Extended](https://en.wikipedia.org/wiki/Ethiopic_Extended),
 [Ethiopic Extended-A](https://en.wikipedia.org/wiki/Ethiopic_Extended-A),
 and [Ethiopic Extended-B](https://en.wikipedia.org/wiki/Ethiopic_Extended-B),
