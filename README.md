@@ -3,7 +3,7 @@
 This is convesion of the Metafont outlines from the "ethiop" LaTeX package v0.7, 
 developed by Berhanu Beyene, Manfred Kudlek, Olaf Kummer, and Jochen Metzinger.
 Conversion was performed with the [mf2ff.py utility](https://github.com/mf2vec-dev/mf2ff).
-The converted glyphs were refined and kerned by typedesigner Abraham Fikadu. Abraham also
+The converted glyphs were refined and kerned by type designer Abraham Fikadu. Abraham also
 extended the glyph set to cover updates to the Unicode standard for Ethiopic since the
 last release of the ethiop package.
 
@@ -14,3 +14,19 @@ The ethiop archive can be found in CTAN at:
 and original homepage is found at:
 
   [https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html](https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html)
+
+## Relationship to GNU FreeSerif
+The ethiop glyphs were previously ported to TrueType for inclusion in the [GNU FreeFont](https://www.gnu.org/software/freefont/index.html)
+project and can be found in the GNU "FreeSerif" typeface since 2002. Glyph conversion
+in this project was performed with a more modern (though not necessarily better)
+algorithm and the outcome extensively reviewed and refined by a professional type designer.
+
+Glyph additions have been made to cover the ranges: [Ethiopic Supplement](https://en.wikipedia.org/wiki/Ethiopic_Supplement),
+[Ethiopic Extended](https://en.wikipedia.org/wiki/Ethiopic_Extended),
+[Ethiopic Extended-A](https://en.wikipedia.org/wiki/Ethiopic_Extended-A),
+and [Ethiopic Extended-B](https://en.wikipedia.org/wiki/Ethiopic_Extended-B),
+not found in the FreeSerif typeface.  Anchor points for combining marks, and letter pair kerning,
+are other enhancements made to the typeface.
+
+It is a goal of this effort to offer the outcome of this effort back to the GNU FreeSerif
+project as an enhancement as extension of the original work.
