@@ -22,7 +22,7 @@ in this project was performed with a more modern (though not necessarily better)
 algorithm and the outcome extensively reviewed and refined by a professional type designer.
 
 At present, the FreeSerif typeface has coverage limited to Unicode's [Ethiopic Basic range](https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)).
-Under this effort, glyph additions have been made to cover the ranges:
+Under *this* effort, glyph additions have been made to cover the ranges:
 [Ethiopic Supplement](https://en.wikipedia.org/wiki/Ethiopic_Supplement),
 [Ethiopic Extended](https://en.wikipedia.org/wiki/Ethiopic_Extended),
 [Ethiopic Extended-A](https://en.wikipedia.org/wiki/Ethiopic_Extended-A),
@@ -30,5 +30,5 @@ and [Ethiopic Extended-B](https://en.wikipedia.org/wiki/Ethiopic_Extended-B),
 not found in the FreeSerif typeface.  Anchor points for combining marks, and letter pair kerning,
 are other enhancements made to the typeface.
 
-It is a goal of this effort to offer the outcome of this effort back to the GNU FreeSerif
-project as an enhancement as extension of the original work.
+It is a goal of this effort to offer the glyphs enhancements back to the GNU FreeSerif
+project.
