@@ -16,7 +16,9 @@ and original homepage is found at:
   [https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html](https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html)
 
 
+## Sample
 <img src="sources/images/ethiop-gurage-sample.png"/>
+Gebreyesus, Hailemariam. የጫሙት ሽካ. (Yechamut Shika) Addis Ababa: Birhanina Selam Printing Press, 1981 E.C.
 
 ## Relationship to GNU FreeSerif
 The ethiop glyphs were previously ported to TrueType for inclusion in the [GNU FreeFont](https://www.gnu.org/software/freefont/index.html)
