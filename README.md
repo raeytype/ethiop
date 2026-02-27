@@ -18,7 +18,7 @@ and original homepage is found at:
 
 ## Sample
 <img src="sources/images/ethiop-gurage-sample.png"/>
-From: *Gebreyesus, Hailemariam. የጫሙት ሽካ. (Yechamut Shika) Addis Ababa: Birhanina Selam Printing Press, 1981 E.C.*
+From: * *Gebreyesus, Hailemariam. የጫሙት ሽካ. (Yechamut Shika) Addis Ababa: Birhanina Selam Printing Press, 1981 E.C.* *
 
 ## Relationship to GNU FreeSerif
 The ethiop glyphs were previously ported to TrueType for inclusion in the [GNU FreeFont](https://www.gnu.org/software/freefont/index.html)
