@@ -15,6 +15,7 @@ and original homepage is found at:
 
   [https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html](https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html)
 
+
 ## Relationship to GNU FreeSerif
 The ethiop glyphs were previously ported to TrueType for inclusion in the [GNU FreeFont](https://www.gnu.org/software/freefont/index.html)
 project and can be found in the GNU "FreeSerif" typeface since 2002. Glyph conversion
@@ -32,3 +33,8 @@ are other enhancements made to the typeface.
 
 It is a goal of this effort to offer the glyphs enhancements back to the GNU FreeSerif
 project.
+
+
+## License
+The ethiop typeface inherits the [GNU GPLv2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+from the original [LaTeX project](https://ctan.org/tex-archive/language/ethiopia/ethiop) of the same name.
