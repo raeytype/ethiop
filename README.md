@@ -18,13 +18,13 @@ and original homepage is found at:
 
 ## Sample
 <img src="sources/images/ethiop-gurage-sample.png"/>
-From: * *Gebreyesus, Hailemariam. የጫሙት ሽካ. (Yechamut Shika) Addis Ababa: Birhanina Selam Printing Press, 1981 E.C.* *
+From: <i>Gebreyesus, Hailemariam. የጫሙት ሽካ. (Yechamut Shika) Addis Ababa: Birhanina Selam Printing Press, 1981 E.C.</i>
 
 ## Relationship to GNU FreeSerif
 The ethiop glyphs were previously ported to TrueType for inclusion in the [GNU FreeFont](https://www.gnu.org/software/freefont/index.html)
 project and can be found in the GNU "FreeSerif" typeface since 2002. Glyph conversion
 in this project was performed with a more modern (though not necessarily better)
-algorithm and the outcome extensively reviewed and refined by a professional type designer.
+algorithm and the outcome were extensively reviewed and refined by a professional type designer.
 
 At present, the FreeSerif typeface has coverage limited to Unicode's [Ethiopic Basic range](https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)).
 Under *this* effort, glyph additions have been made to cover the ranges:
