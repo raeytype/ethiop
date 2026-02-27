@@ -9,5 +9,4 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Abraham Fikadu <abrahamfikadu77@gmail.com>
 Daniel Yacob <yacob@geez.org>
