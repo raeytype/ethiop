@@ -82,7 +82,7 @@
       <point x="888" y="543" type="line"/>
       <point x="881" y="538"/>
       <point x="878" y="529"/>
-      <point x="879" y="511" type="curve" smooth="yes"/>
+      <point x="879" y="511" type="curve"/>
       <point x="881" y="487"/>
       <point x="902" y="457"/>
       <point x="921" y="455" type="curve"/>
