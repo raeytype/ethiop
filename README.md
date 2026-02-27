@@ -16,6 +16,8 @@ and original homepage is found at:
   [https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html](https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html)
 
 
+<img src="sources/images/ethiop-gurage-sample.png"/>
+
 ## Relationship to GNU FreeSerif
 The ethiop glyphs were previously ported to TrueType for inclusion in the [GNU FreeFont](https://www.gnu.org/software/freefont/index.html)
 project and can be found in the GNU "FreeSerif" typeface since 2002. Glyph conversion
