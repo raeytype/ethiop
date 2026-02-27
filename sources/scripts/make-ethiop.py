@@ -5,7 +5,7 @@
 # exports from FontLab Studio 8.4 or from Google's "fontmake" utility
 # run as per:
 #
-#   fontmake -u Ethiop_main.ufo --overlaps-backend pathops -o ttf
+#   fontmake -u ethiop.ufo --overlaps-backend pathops -o ttf
 #
 #
 from datetime import datetime
