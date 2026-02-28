@@ -149,11 +149,11 @@
     </contour>
     <contour>
       <point x="607" y="179" type="curve" smooth="yes"/>
-      <point x="532.018" y="175.569"/>
-      <point x="537.02" y="61.5238"/>
+      <point x="532" y="176"/>
+      <point x="537" y="62"/>
       <point x="613" y="65" type="curve" smooth="yes"/>
-      <point x="690.023" y="68.5239"/>
-      <point x="685.021" y="182.57"/>
+      <point x="690" y="69"/>
+      <point x="685" y="183"/>
     </contour>
   </outline>
 </glyph>
