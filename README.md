@@ -38,6 +38,9 @@ are other enhancements made to the typeface.
 It is a goal of this effort to offer the glyphs enhancements back to the GNU FreeSerif
 project.
 
+### Sample Glyph Comparisons
+<img src="sources/images/FreeSerif-ethiop-Sample-Comparison.png" width="560"/>
+
 
 ## License
 The ethiop typeface inherits the [GNU GPLv2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
