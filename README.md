@@ -39,7 +39,7 @@ It is a goal of this effort to offer the glyphs enhancements back to the GNU Fre
 project.
 
 ### Sample Glyph Comparisons
-<img src="sources/images/FreeSerif-ethiop-Sample-Comparison.png" width="560"/>
+<img src="sources/images/FreeSerif-ethiop-Sample-Comparison.png" width="760"/>
 
 
 ## License
