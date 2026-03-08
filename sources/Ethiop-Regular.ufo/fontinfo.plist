@@ -3,17 +3,27 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>800</integer>
+  <integer>750</integer>
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
   <string>Copyright (c) 2025-2026,  Raey Type, 1998-2025 Universitaet Hamburg, with Reserved Font Name: &quot;ethiop&quot; and &quot;ethiop Regular&quot;. Released under the GNU GPL v2.0.</string>
   <key>descender</key>
-  <integer>-200</integer>
+  <integer>-250</integer>
   <key>familyName</key>
   <string>ethiop</string>
   <key>guidelines</key>
   <array>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
   <dict>
     <key>angle</key>
     <integer>0</integer>
@@ -137,13 +147,13 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>900</integer>
+  <integer>800</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-300</integer>
+  <integer>-250</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeNameDescription</key>
   <string>This is convesion of the Metafont outlines from the &quot;ethiop&quot; LaTeX package v0.7, developed by Berhanu Beyene, Manfred Kudlek, Olaf Kummer, and Jochen Metzinger. Conversion was performed with the mf2ff.py utility (https://github.com/mf2vec-dev/mf2ff).  The converted glyphs were refined and kerned by typedesigner Abraham Fikadu. Abraham also extended the glyph set to cover updates to the Unicode standard for Ethiopic since the last release of the ethiop package.
 
@@ -551,11 +561,11 @@ Public License instead of this License.</string>
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>800</integer>
+  <integer>750</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-200</integer>
+  <integer>-250</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeOS2VendorID</key>
   <string>RYT</string>
   <key>openTypeOS2WeightClass</key>
@@ -563,9 +573,9 @@ Public License instead of this License.</string>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>789</integer>
+  <integer>787</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>250</integer>
+  <integer>243</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
