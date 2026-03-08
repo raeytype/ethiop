@@ -66,6 +66,8 @@ feature mark {
     markClass u135D <anchor 4 632> @top;
 
   lookup markLTR {
+      pos base u25CC
+          <anchor 396 783> mark @top;
       pos base u1200
           <anchor 231 570> mark @top;
       pos base u1201

@@ -4,1056 +4,1062 @@
 <dict>
   <key>locl_rclt</key>
   <array>
-    <string>uni135D</string>
-    <string>uni135F</string>
-    <string>uni135E</string>
-    <string>uni1308</string>
-    <string>uni1200</string>
-    <string>uni1201</string>
-    <string>uni1202</string>
-    <string>uni1203</string>
-    <string>uni1204</string>
-    <string>uni1205</string>
-    <string>uni1206</string>
-    <string>uni1208</string>
-    <string>uni1209</string>
-    <string>uni120A</string>
-    <string>uni120B</string>
-    <string>uni120C</string>
-    <string>uni120D</string>
-    <string>uni120E</string>
-    <string>uni120F</string>
-    <string>uni1210</string>
-    <string>uni1211</string>
-    <string>uni1212</string>
-    <string>uni1213</string>
-    <string>uni1214</string>
-    <string>uni1215</string>
-    <string>uni1216</string>
-    <string>uni1217</string>
-    <string>uni1218</string>
-    <string>uni1219</string>
-    <string>uni121A</string>
-    <string>uni121B</string>
-    <string>uni121C</string>
-    <string>uni121D</string>
-    <string>uni121E</string>
-    <string>uni121F</string>
-    <string>uni1220</string>
-    <string>uni1221</string>
-    <string>uni1222</string>
-    <string>uni1223</string>
-    <string>uni1224</string>
-    <string>uni1225</string>
-    <string>uni1226</string>
-    <string>uni1227</string>
-    <string>uni1228</string>
-    <string>uni1229</string>
-    <string>uni122A</string>
-    <string>uni122B</string>
-    <string>uni122C</string>
-    <string>uni122D</string>
-    <string>uni122E</string>
-    <string>uni122F</string>
-    <string>uni1230</string>
-    <string>uni1231</string>
-    <string>uni1232</string>
-    <string>uni1233</string>
-    <string>uni1234</string>
-    <string>uni1235</string>
-    <string>uni1236</string>
-    <string>uni1237</string>
-    <string>uni1238</string>
-    <string>uni1239</string>
-    <string>uni123A</string>
-    <string>uni123B</string>
-    <string>uni123C</string>
-    <string>uni123D</string>
-    <string>uni123E</string>
-    <string>uni123F</string>
-    <string>uni1240</string>
-    <string>uni1241</string>
-    <string>uni1242</string>
-    <string>uni1243</string>
-    <string>uni1244</string>
-    <string>uni1245</string>
-    <string>uni1246</string>
-    <string>uni1248</string>
-    <string>uni124A</string>
-    <string>uni124B</string>
-    <string>uni124C</string>
-    <string>uni124D</string>
-    <string>uni1250</string>
-    <string>uni1251</string>
-    <string>uni1252</string>
-    <string>uni1253</string>
-    <string>uni1254</string>
-    <string>uni1255</string>
-    <string>uni1256</string>
-    <string>uni1258</string>
-    <string>uni125A</string>
-    <string>uni125B</string>
-    <string>uni125C</string>
-    <string>uni125D</string>
-    <string>uni1260</string>
-    <string>uni1261</string>
-    <string>uni1262</string>
-    <string>uni1263</string>
-    <string>uni1264</string>
-    <string>uni1265</string>
-    <string>uni1266</string>
-    <string>uni1267</string>
-    <string>uni1268</string>
-    <string>uni1269</string>
-    <string>uni126A</string>
-    <string>uni126B</string>
-    <string>uni126C</string>
-    <string>uni126D</string>
-    <string>uni126E</string>
-    <string>uni126F</string>
-    <string>uni1270</string>
-    <string>uni1271</string>
-    <string>uni1272</string>
-    <string>uni1273</string>
-    <string>uni1274</string>
-    <string>uni1275</string>
-    <string>uni1276</string>
-    <string>uni1277</string>
-    <string>uni1278</string>
-    <string>uni1279</string>
-    <string>uni127A</string>
-    <string>uni127B</string>
-    <string>uni127C</string>
-    <string>uni127D</string>
-    <string>uni127E</string>
-    <string>uni127F</string>
-    <string>uni1280</string>
-    <string>uni1281</string>
-    <string>uni1282</string>
-    <string>uni1283</string>
-    <string>uni1284</string>
-    <string>uni1285</string>
-    <string>uni1286</string>
-    <string>uni1288</string>
-    <string>uni128A</string>
-    <string>uni128B</string>
-    <string>uni128C</string>
-    <string>uni128D</string>
-    <string>uni1290</string>
-    <string>uni1291</string>
-    <string>uni1292</string>
-    <string>uni1293</string>
-    <string>uni1294</string>
-    <string>uni1295</string>
-    <string>uni1296</string>
-    <string>uni1297</string>
-    <string>uni1298</string>
-    <string>uni1299</string>
-    <string>uni129A</string>
-    <string>uni129B</string>
-    <string>uni129C</string>
-    <string>uni129D</string>
-    <string>uni129E</string>
-    <string>uni129F</string>
-    <string>uni12A0</string>
-    <string>uni12A1</string>
-    <string>uni12A2</string>
-    <string>uni12A3</string>
-    <string>uni12A4</string>
-    <string>uni12A5</string>
-    <string>uni12A6</string>
-    <string>uni12A7</string>
-    <string>uni12A8</string>
-    <string>uni12A9</string>
-    <string>uni12AA</string>
-    <string>uni12AB</string>
-    <string>uni12AC</string>
-    <string>uni12AD</string>
-    <string>uni12AE</string>
-    <string>uni12B0</string>
-    <string>uni12B2</string>
-    <string>uni12B3</string>
-    <string>uni12B4</string>
-    <string>uni12B5</string>
-    <string>uni12B8</string>
-    <string>uni12B9</string>
-    <string>uni12BA</string>
-    <string>uni12BB</string>
-    <string>uni12BC</string>
-    <string>uni12BD</string>
-    <string>uni12BE</string>
-    <string>uni12C0</string>
-    <string>uni12C2</string>
-    <string>uni12C3</string>
-    <string>uni12C4</string>
-    <string>uni12C5</string>
-    <string>uni12C8</string>
-    <string>uni12C9</string>
-    <string>uni12CA</string>
-    <string>uni12CB</string>
-    <string>uni12CC</string>
-    <string>uni12CD</string>
-    <string>uni12CE</string>
-    <string>uni12D0</string>
-    <string>uni12D1</string>
-    <string>uni12D2</string>
-    <string>uni12D3</string>
-    <string>uni12D4</string>
-    <string>uni12D5</string>
-    <string>uni12D6</string>
-    <string>uni12D8</string>
-    <string>uni12D9</string>
-    <string>uni12DA</string>
-    <string>uni12DB</string>
-    <string>uni12DC</string>
-    <string>uni12DD</string>
-    <string>uni12DE</string>
-    <string>uni12DF</string>
-    <string>uni12E0</string>
-    <string>uni12E1</string>
-    <string>uni12E2</string>
-    <string>uni12E3</string>
-    <string>uni12E4</string>
-    <string>uni12E5</string>
-    <string>uni12E6</string>
-    <string>uni12E7</string>
-    <string>uni12E8</string>
-    <string>uni12E9</string>
-    <string>uni12EA</string>
-    <string>uni12EB</string>
-    <string>uni12EC</string>
-    <string>uni12ED</string>
-    <string>uni12EE</string>
-    <string>uni12F0</string>
-    <string>uni12F1</string>
-    <string>uni12F2</string>
-    <string>uni12F3</string>
-    <string>uni12F4</string>
-    <string>uni12F5</string>
-    <string>uni12F6</string>
-    <string>uni12F7</string>
-    <string>uni12F8</string>
-    <string>uni12F9</string>
-    <string>uni12FA</string>
-    <string>uni12FB</string>
-    <string>uni12FC</string>
-    <string>uni12FD</string>
-    <string>uni12FE</string>
-    <string>uni12FF</string>
-    <string>uni1300</string>
-    <string>uni1301</string>
-    <string>uni1302</string>
-    <string>uni1303</string>
-    <string>uni1304</string>
-    <string>uni1305</string>
-    <string>uni1306</string>
-    <string>uni1307</string>
-    <string>uni1309</string>
-    <string>uni130A</string>
-    <string>uni130B</string>
-    <string>uni130C</string>
-    <string>uni130D</string>
-    <string>uni130E</string>
-    <string>uni1310</string>
-    <string>uni1312</string>
-    <string>uni1313</string>
-    <string>uni1314</string>
-    <string>uni1315</string>
-    <string>uni1318</string>
-    <string>uni1319</string>
-    <string>uni131A</string>
-    <string>uni131B</string>
-    <string>uni131C</string>
-    <string>uni131D</string>
-    <string>uni131E</string>
-    <string>uni1320</string>
-    <string>uni1321</string>
-    <string>uni1322</string>
-    <string>uni1323</string>
-    <string>uni1324</string>
-    <string>uni1325</string>
-    <string>uni1326</string>
-    <string>uni1327</string>
-    <string>uni1328</string>
-    <string>uni1329</string>
-    <string>uni132A</string>
-    <string>uni132B</string>
-    <string>uni132C</string>
-    <string>uni132D</string>
-    <string>uni132E</string>
-    <string>uni132F</string>
-    <string>uni1330</string>
-    <string>uni1331</string>
-    <string>uni1332</string>
-    <string>uni1333</string>
-    <string>uni1334</string>
-    <string>uni1335</string>
-    <string>uni1336</string>
-    <string>uni1337</string>
-    <string>uni1338</string>
-    <string>uni1339</string>
-    <string>uni133A</string>
-    <string>uni133B</string>
-    <string>uni133C</string>
-    <string>uni133D</string>
-    <string>uni133E</string>
-    <string>uni133F</string>
-    <string>uni1340</string>
-    <string>uni1341</string>
-    <string>uni1342</string>
-    <string>uni1343</string>
-    <string>uni1344</string>
-    <string>uni1345</string>
-    <string>uni1346</string>
-    <string>uni1348</string>
-    <string>uni1349</string>
-    <string>uni134A</string>
-    <string>uni134B</string>
-    <string>uni134C</string>
-    <string>uni134D</string>
-    <string>uni134E</string>
-    <string>uni134F</string>
-    <string>uni1350</string>
-    <string>uni1351</string>
-    <string>uni1352</string>
-    <string>uni1353</string>
-    <string>uni1354</string>
-    <string>uni1355</string>
-    <string>uni1356</string>
-    <string>uni1357</string>
-    <string>uni1358</string>
-    <string>uni1359</string>
-    <string>uni135A</string>
-    <string>uni1361</string>
-    <string>uni1362</string>
-    <string>uni1363</string>
-    <string>uni1364</string>
-    <string>uni1365</string>
-    <string>uni1366</string>
-    <string>uni1367</string>
-    <string>uni1368</string>
-    <string>uni1360</string>
-    <string>uni1390</string>
-    <string>uni1391</string>
-    <string>uni1392</string>
-    <string>uni1393</string>
-    <string>uni1394</string>
-    <string>uni1395</string>
-    <string>uni1396</string>
-    <string>uni1397</string>
-    <string>uni1398</string>
-    <string>uni1399</string>
-    <string>uni1369</string>
-    <string>uni136A</string>
-    <string>uni136B</string>
-    <string>uni136C</string>
-    <string>uni136D</string>
-    <string>uni136E</string>
-    <string>uni136F</string>
-    <string>uni1370</string>
-    <string>uni1371</string>
-    <string>uni1372</string>
-    <string>uni1373</string>
-    <string>uni1374</string>
-    <string>uni1375</string>
-    <string>uni1376</string>
-    <string>uni1377</string>
-    <string>uni1378</string>
-    <string>uni1379</string>
-    <string>uni137A</string>
-    <string>uni137B</string>
-    <string>uni137C</string>
-    <string>uni1207</string>
-    <string>uni1247</string>
-    <string>uni1287</string>
-    <string>uni12AF</string>
-    <string>uni12CF</string>
-    <string>uni12EF</string>
-    <string>uni130F</string>
-    <string>uni131F</string>
-    <string>uni1347</string>
-    <string>uni1380</string>
-    <string>uni1381</string>
-    <string>uni1382</string>
-    <string>uni1383</string>
-    <string>uni1384</string>
-    <string>uni1385</string>
-    <string>uni1386</string>
-    <string>uni1387</string>
-    <string>uni1388</string>
-    <string>uni1389</string>
-    <string>uni138A</string>
-    <string>uni138B</string>
-    <string>uni138C</string>
-    <string>uni138D</string>
-    <string>uni138E</string>
-    <string>uni138F</string>
-    <string>uni2D80</string>
-    <string>uni2D81</string>
-    <string>uni2D82</string>
-    <string>uni2D83</string>
-    <string>uni2D84</string>
-    <string>uni2D85</string>
-    <string>uni2D86</string>
-    <string>uni2D87</string>
-    <string>uni2D88</string>
-    <string>uni2D89</string>
-    <string>uni2D8A</string>
-    <string>uni2D8B</string>
-    <string>uni2D8C</string>
-    <string>uni2D8D</string>
-    <string>uni2D8E</string>
-    <string>uni2D8F</string>
-    <string>uni2D90</string>
-    <string>uni2D91</string>
-    <string>uni2D92</string>
-    <string>uni2D93</string>
-    <string>uni2D94</string>
-    <string>uni2D95</string>
-    <string>uni2D96</string>
-    <string>uni2DA0</string>
-    <string>uni2DA1</string>
-    <string>uni2DA2</string>
-    <string>uni2DA3</string>
-    <string>uni2DA4</string>
-    <string>uni2DA5</string>
-    <string>uni2DA6</string>
-    <string>uni2DA8</string>
-    <string>uni2DA9</string>
-    <string>uni2DAA</string>
-    <string>uni2DAB</string>
-    <string>uni2DAC</string>
-    <string>uni2DAD</string>
-    <string>uni2DAE</string>
-    <string>uni2DB0</string>
-    <string>uni2DB1</string>
-    <string>uni2DB2</string>
-    <string>uni2DB3</string>
-    <string>uni2DB4</string>
-    <string>uni2DB5</string>
-    <string>uni2DB6</string>
-    <string>uni2DB8</string>
-    <string>uni2DB9</string>
-    <string>uni2DBA</string>
-    <string>uni2DBB</string>
-    <string>uni2DBC</string>
-    <string>uni2DBD</string>
-    <string>uni2DBE</string>
-    <string>uni2DC0</string>
-    <string>uni2DC1</string>
-    <string>uni2DC2</string>
-    <string>uni2DC3</string>
-    <string>uni2DC4</string>
-    <string>uni2DC5</string>
-    <string>uni2DC6</string>
-    <string>uni2DC8</string>
-    <string>uni2DC9</string>
-    <string>uni2DCA</string>
-    <string>uni2DCB</string>
-    <string>uni2DCC</string>
-    <string>uni2DCD</string>
-    <string>uni2DCE</string>
-    <string>uni2DD0</string>
-    <string>uni2DD1</string>
-    <string>uni2DD2</string>
-    <string>uni2DD3</string>
-    <string>uni2DD4</string>
-    <string>uni2DD5</string>
-    <string>uni2DD6</string>
-    <string>uni2DD8</string>
-    <string>uni2DD9</string>
-    <string>uni2DDA</string>
-    <string>uni2DDB</string>
-    <string>uni2DDC</string>
-    <string>uni2DDD</string>
-    <string>uni2DDE</string>
-    <string>uniAB01</string>
-    <string>uniAB02</string>
-    <string>uniAB03</string>
-    <string>uniAB04</string>
-    <string>uniAB05</string>
-    <string>uniAB06</string>
-    <string>uniAB09</string>
-    <string>uniAB0A</string>
-    <string>uniAB0B</string>
-    <string>uniAB0C</string>
-    <string>uniAB0D</string>
-    <string>uniAB0E</string>
-    <string>uniAB11</string>
-    <string>uniAB12</string>
-    <string>uniAB13</string>
-    <string>uniAB14</string>
-    <string>uniAB15</string>
-    <string>uniAB16</string>
-    <string>uniAB20</string>
-    <string>uniAB21</string>
-    <string>uniAB22</string>
-    <string>uniAB23</string>
-    <string>uniAB24</string>
-    <string>uniAB25</string>
-    <string>uniAB26</string>
-    <string>uniAB28</string>
-    <string>uniAB29</string>
-    <string>uniAB2A</string>
-    <string>uniAB2B</string>
-    <string>uniAB2C</string>
-    <string>uniAB2D</string>
-    <string>uniAB2E</string>
+    <string>u135D</string>
+    <string>u135F</string>
+    <string>u135E</string>
+    <string>u1308</string>
+    <string>u1200</string>
+    <string>u1201</string>
+    <string>u1202</string>
+    <string>u1203</string>
+    <string>u1204</string>
+    <string>u1205</string>
+    <string>u1206</string>
+    <string>u1208</string>
+    <string>u1209</string>
+    <string>u120A</string>
+    <string>u120B</string>
+    <string>u120C</string>
+    <string>u120D</string>
+    <string>u120E</string>
+    <string>u120F</string>
+    <string>u1210</string>
+    <string>u1211</string>
+    <string>u1212</string>
+    <string>u1213</string>
+    <string>u1214</string>
+    <string>u1215</string>
+    <string>u1216</string>
+    <string>u1217</string>
+    <string>u1218</string>
+    <string>u1219</string>
+    <string>u121A</string>
+    <string>u121B</string>
+    <string>u121C</string>
+    <string>u121D</string>
+    <string>u121E</string>
+    <string>u121F</string>
+    <string>u1220</string>
+    <string>u1221</string>
+    <string>u1222</string>
+    <string>u1223</string>
+    <string>u1224</string>
+    <string>u1225</string>
+    <string>u1226</string>
+    <string>u1227</string>
+    <string>u1228</string>
+    <string>u1229</string>
+    <string>u122A</string>
+    <string>u122B</string>
+    <string>u122C</string>
+    <string>u122D</string>
+    <string>u122E</string>
+    <string>u122F</string>
+    <string>u1230</string>
+    <string>u1231</string>
+    <string>u1232</string>
+    <string>u1233</string>
+    <string>u1234</string>
+    <string>u1235</string>
+    <string>u1236</string>
+    <string>u1237</string>
+    <string>u1238</string>
+    <string>u1239</string>
+    <string>u123A</string>
+    <string>u123B</string>
+    <string>u123C</string>
+    <string>u123D</string>
+    <string>u123E</string>
+    <string>u123F</string>
+    <string>u1240</string>
+    <string>u1241</string>
+    <string>u1242</string>
+    <string>u1243</string>
+    <string>u1244</string>
+    <string>u1245</string>
+    <string>u1246</string>
+    <string>u1248</string>
+    <string>u124A</string>
+    <string>u124B</string>
+    <string>u124C</string>
+    <string>u124D</string>
+    <string>u1250</string>
+    <string>u1251</string>
+    <string>u1252</string>
+    <string>u1253</string>
+    <string>u1254</string>
+    <string>u1255</string>
+    <string>u1256</string>
+    <string>u1258</string>
+    <string>u125A</string>
+    <string>u125B</string>
+    <string>u125C</string>
+    <string>u125D</string>
+    <string>u1260</string>
+    <string>u1261</string>
+    <string>u1262</string>
+    <string>u1263</string>
+    <string>u1264</string>
+    <string>u1265</string>
+    <string>u1266</string>
+    <string>u1267</string>
+    <string>u1268</string>
+    <string>u1269</string>
+    <string>u126A</string>
+    <string>u126B</string>
+    <string>u126C</string>
+    <string>u126D</string>
+    <string>u126E</string>
+    <string>u126F</string>
+    <string>u1270</string>
+    <string>u1271</string>
+    <string>u1272</string>
+    <string>u1273</string>
+    <string>u1274</string>
+    <string>u1275</string>
+    <string>u1276</string>
+    <string>u1277</string>
+    <string>u1278</string>
+    <string>u1279</string>
+    <string>u127A</string>
+    <string>u127B</string>
+    <string>u127C</string>
+    <string>u127D</string>
+    <string>u127E</string>
+    <string>u127F</string>
+    <string>u1280</string>
+    <string>u1281</string>
+    <string>u1282</string>
+    <string>u1283</string>
+    <string>u1284</string>
+    <string>u1285</string>
+    <string>u1286</string>
+    <string>u1288</string>
+    <string>u128A</string>
+    <string>u128B</string>
+    <string>u128C</string>
+    <string>u128D</string>
+    <string>u1290</string>
+    <string>u1291</string>
+    <string>u1292</string>
+    <string>u1293</string>
+    <string>u1294</string>
+    <string>u1295</string>
+    <string>u1296</string>
+    <string>u1297</string>
+    <string>u1298</string>
+    <string>u1299</string>
+    <string>u129A</string>
+    <string>u129B</string>
+    <string>u129C</string>
+    <string>u129D</string>
+    <string>u129E</string>
+    <string>u129F</string>
+    <string>u12A0</string>
+    <string>u12A1</string>
+    <string>u12A2</string>
+    <string>u12A3</string>
+    <string>u12A4</string>
+    <string>u12A5</string>
+    <string>u12A6</string>
+    <string>u12A7</string>
+    <string>u12A8</string>
+    <string>u12A9</string>
+    <string>u12AA</string>
+    <string>u12AB</string>
+    <string>u12AC</string>
+    <string>u12AD</string>
+    <string>u12AE</string>
+    <string>u12B0</string>
+    <string>u12B2</string>
+    <string>u12B3</string>
+    <string>u12B4</string>
+    <string>u12B5</string>
+    <string>u12B8</string>
+    <string>u12B9</string>
+    <string>u12BA</string>
+    <string>u12BB</string>
+    <string>u12BC</string>
+    <string>u12BD</string>
+    <string>u12BE</string>
+    <string>u12C0</string>
+    <string>u12C2</string>
+    <string>u12C3</string>
+    <string>u12C4</string>
+    <string>u12C5</string>
+    <string>u12C8</string>
+    <string>u12C9</string>
+    <string>u12CA</string>
+    <string>u12CB</string>
+    <string>u12CC</string>
+    <string>u12CD</string>
+    <string>u12CE</string>
+    <string>u12D0</string>
+    <string>u12D1</string>
+    <string>u12D2</string>
+    <string>u12D3</string>
+    <string>u12D4</string>
+    <string>u12D5</string>
+    <string>u12D6</string>
+    <string>u12D8</string>
+    <string>u12D9</string>
+    <string>u12DA</string>
+    <string>u12DB</string>
+    <string>u12DC</string>
+    <string>u12DD</string>
+    <string>u12DE</string>
+    <string>u12DF</string>
+    <string>u12E0</string>
+    <string>u12E1</string>
+    <string>u12E2</string>
+    <string>u12E3</string>
+    <string>u12E4</string>
+    <string>u12E5</string>
+    <string>u12E6</string>
+    <string>u12E7</string>
+    <string>u12E8</string>
+    <string>u12E9</string>
+    <string>u12EA</string>
+    <string>u12EB</string>
+    <string>u12EC</string>
+    <string>u12ED</string>
+    <string>u12EE</string>
+    <string>u12F0</string>
+    <string>u12F1</string>
+    <string>u12F2</string>
+    <string>u12F3</string>
+    <string>u12F4</string>
+    <string>u12F5</string>
+    <string>u12F6</string>
+    <string>u12F7</string>
+    <string>u12F8</string>
+    <string>u12F9</string>
+    <string>u12FA</string>
+    <string>u12FB</string>
+    <string>u12FC</string>
+    <string>u12FD</string>
+    <string>u12FE</string>
+    <string>u12FF</string>
+    <string>u1300</string>
+    <string>u1301</string>
+    <string>u1302</string>
+    <string>u1303</string>
+    <string>u1304</string>
+    <string>u1305</string>
+    <string>u1306</string>
+    <string>u1307</string>
+    <string>u1309</string>
+    <string>u130A</string>
+    <string>u130B</string>
+    <string>u130C</string>
+    <string>u130D</string>
+    <string>u130E</string>
+    <string>u1310</string>
+    <string>u1312</string>
+    <string>u1313</string>
+    <string>u1314</string>
+    <string>u1315</string>
+    <string>u1318</string>
+    <string>u1319</string>
+    <string>u131A</string>
+    <string>u131B</string>
+    <string>u131C</string>
+    <string>u131D</string>
+    <string>u131E</string>
+    <string>u1320</string>
+    <string>u1321</string>
+    <string>u1322</string>
+    <string>u1323</string>
+    <string>u1324</string>
+    <string>u1325</string>
+    <string>u1326</string>
+    <string>u1327</string>
+    <string>u1328</string>
+    <string>u1329</string>
+    <string>u132A</string>
+    <string>u132B</string>
+    <string>u132C</string>
+    <string>u132D</string>
+    <string>u132E</string>
+    <string>u132F</string>
+    <string>u1330</string>
+    <string>u1331</string>
+    <string>u1332</string>
+    <string>u1333</string>
+    <string>u1334</string>
+    <string>u1335</string>
+    <string>u1336</string>
+    <string>u1337</string>
+    <string>u1338</string>
+    <string>u1339</string>
+    <string>u133A</string>
+    <string>u133B</string>
+    <string>u133C</string>
+    <string>u133D</string>
+    <string>u133E</string>
+    <string>u133F</string>
+    <string>u1340</string>
+    <string>u1341</string>
+    <string>u1342</string>
+    <string>u1343</string>
+    <string>u1344</string>
+    <string>u1345</string>
+    <string>u1346</string>
+    <string>u1348</string>
+    <string>u1349</string>
+    <string>u134A</string>
+    <string>u134B</string>
+    <string>u134C</string>
+    <string>u134D</string>
+    <string>u134E</string>
+    <string>u134F</string>
+    <string>u1350</string>
+    <string>u1351</string>
+    <string>u1352</string>
+    <string>u1353</string>
+    <string>u1354</string>
+    <string>u1355</string>
+    <string>u1356</string>
+    <string>u1357</string>
+    <string>u1358</string>
+    <string>u1359</string>
+    <string>u135A</string>
+    <string>u1361</string>
+    <string>u1362</string>
+    <string>u1363</string>
+    <string>u1364</string>
+    <string>u1365</string>
+    <string>u1366</string>
+    <string>u1367</string>
+    <string>u1368</string>
+    <string>u1360</string>
+    <string>u1390</string>
+    <string>u1391</string>
+    <string>u1392</string>
+    <string>u1393</string>
+    <string>u1394</string>
+    <string>u1395</string>
+    <string>u1396</string>
+    <string>u1397</string>
+    <string>u1398</string>
+    <string>u1399</string>
+    <string>u1369</string>
+    <string>u136A</string>
+    <string>u136B</string>
+    <string>u136C</string>
+    <string>u136D</string>
+    <string>u136E</string>
+    <string>u136F</string>
+    <string>u1370</string>
+    <string>u1371</string>
+    <string>u1372</string>
+    <string>u1373</string>
+    <string>u1374</string>
+    <string>u1375</string>
+    <string>u1376</string>
+    <string>u1377</string>
+    <string>u1378</string>
+    <string>u1379</string>
+    <string>u137A</string>
+    <string>u137B</string>
+    <string>u137C</string>
+    <string>u1207</string>
+    <string>u1247</string>
+    <string>u1287</string>
+    <string>u12AF</string>
+    <string>u12CF</string>
+    <string>u12EF</string>
+    <string>u130F</string>
+    <string>u131F</string>
+    <string>u1347</string>
+    <string>u1380</string>
+    <string>u1381</string>
+    <string>u1382</string>
+    <string>u1383</string>
+    <string>u1384</string>
+    <string>u1385</string>
+    <string>u1386</string>
+    <string>u1387</string>
+    <string>u1388</string>
+    <string>u1389</string>
+    <string>u138A</string>
+    <string>u138B</string>
+    <string>u138C</string>
+    <string>u138D</string>
+    <string>u138E</string>
+    <string>u138F</string>
+    <string>u2D80</string>
+    <string>u2D81</string>
+    <string>u2D82</string>
+    <string>u2D83</string>
+    <string>u2D84</string>
+    <string>u2D85</string>
+    <string>u2D86</string>
+    <string>u2D87</string>
+    <string>u2D88</string>
+    <string>u2D89</string>
+    <string>u2D8A</string>
+    <string>u2D8B</string>
+    <string>u2D8C</string>
+    <string>u2D8D</string>
+    <string>u2D8E</string>
+    <string>u2D8F</string>
+    <string>u2D90</string>
+    <string>u2D91</string>
+    <string>u2D92</string>
+    <string>u2D93</string>
+    <string>u2D94</string>
+    <string>u2D95</string>
+    <string>u2D96</string>
+    <string>u2DA0</string>
+    <string>u2DA1</string>
+    <string>u2DA2</string>
+    <string>u2DA3</string>
+    <string>u2DA4</string>
+    <string>u2DA5</string>
+    <string>u2DA6</string>
+    <string>u2DA8</string>
+    <string>u2DA9</string>
+    <string>u2DAA</string>
+    <string>u2DAB</string>
+    <string>u2DAC</string>
+    <string>u2DAD</string>
+    <string>u2DAE</string>
+    <string>u2DB0</string>
+    <string>u2DB1</string>
+    <string>u2DB2</string>
+    <string>u2DB3</string>
+    <string>u2DB4</string>
+    <string>u2DB5</string>
+    <string>u2DB6</string>
+    <string>u2DB8</string>
+    <string>u2DB9</string>
+    <string>u2DBA</string>
+    <string>u2DBB</string>
+    <string>u2DBC</string>
+    <string>u2DBD</string>
+    <string>u2DBE</string>
+    <string>u2DC0</string>
+    <string>u2DC1</string>
+    <string>u2DC2</string>
+    <string>u2DC3</string>
+    <string>u2DC4</string>
+    <string>u2DC5</string>
+    <string>u2DC6</string>
+    <string>u2DC8</string>
+    <string>u2DC9</string>
+    <string>u2DCA</string>
+    <string>u2DCB</string>
+    <string>u2DCC</string>
+    <string>u2DCD</string>
+    <string>u2DCE</string>
+    <string>u2DD0</string>
+    <string>u2DD1</string>
+    <string>u2DD2</string>
+    <string>u2DD3</string>
+    <string>u2DD4</string>
+    <string>u2DD5</string>
+    <string>u2DD6</string>
+    <string>u2DD8</string>
+    <string>u2DD9</string>
+    <string>u2DDA</string>
+    <string>u2DDB</string>
+    <string>u2DDC</string>
+    <string>u2DDD</string>
+    <string>u2DDE</string>
+    <string>uAB01</string>
+    <string>uAB02</string>
+    <string>uAB03</string>
+    <string>uAB04</string>
+    <string>uAB05</string>
+    <string>uAB06</string>
+    <string>uAB09</string>
+    <string>uAB0A</string>
+    <string>uAB0B</string>
+    <string>uAB0C</string>
+    <string>uAB0D</string>
+    <string>uAB0E</string>
+    <string>uAB11</string>
+    <string>uAB12</string>
+    <string>uAB13</string>
+    <string>uAB14</string>
+    <string>uAB15</string>
+    <string>uAB16</string>
+    <string>uAB20</string>
+    <string>uAB21</string>
+    <string>uAB22</string>
+    <string>uAB23</string>
+    <string>uAB24</string>
+    <string>uAB25</string>
+    <string>uAB26</string>
+    <string>uAB28</string>
+    <string>uAB29</string>
+    <string>uAB2A</string>
+    <string>uAB2B</string>
+    <string>uAB2C</string>
+    <string>uAB2D</string>
+    <string>uAB2E</string>
   </array>
-  <key>public.kern1.uni1200</key>
+  <key>public.kern1.u1200</key>
   <array>
-    <string>uni1200</string>
-    <string>uni1205</string>
+    <string>u1200</string>
+    <string>u1205</string>
   </array>
-  <key>public.kern1.uni1206</key>
+  <key>public.kern1.u1206</key>
   <array>
-    <string>uni1206</string>
-    <string>uni1207</string>
+    <string>u1206</string>
+    <string>u1207</string>
   </array>
-  <key>public.kern1.uni1208</key>
+  <key>public.kern1.u1208</key>
   <array>
-    <string>uni1208</string>
-    <string>uni120B</string>
-    <string>uni120D</string>
+    <string>u1208</string>
+    <string>u120B</string>
+    <string>u120D</string>
   </array>
-  <key>public.kern1.uni1210</key>
+  <key>public.kern1.u1210</key>
   <array>
-    <string>uni1210</string>
-    <string>uni1213</string>
-    <string>uni1215</string>
+    <string>u1210</string>
+    <string>u1213</string>
+    <string>u1215</string>
   </array>
-  <key>public.kern1.uni12101</key>
+  <key>public.kern1.u12101</key>
   <array>
-    <string>uni1212</string>
-    <string>uni1214</string>
-    <string>uni1216</string>
-    <string>uni1E7E1</string>
-    <string>uni1E7E4</string>
-    <string>uni1E7EB</string>
+    <string>u1212</string>
+    <string>u1214</string>
+    <string>u1216</string>
+    <string>u1E7E1</string>
+    <string>u1E7E4</string>
+    <string>u1E7EB</string>
   </array>
-  <key>public.kern1.uni1217</key>
+  <key>public.kern1.u1217</key>
   <array>
-    <string>uni1217</string>
-    <string>uni1227</string>
+    <string>u1217</string>
+    <string>u1227</string>
   </array>
-  <key>public.kern1.uni121C</key>
+  <key>public.kern1.u121C</key>
   <array>
-    <string>uni121C</string>
-    <string>uni1382</string>
+    <string>u121C</string>
+    <string>u1382</string>
   </array>
-  <key>public.kern1.uni121D</key>
+  <key>public.kern1.u121D</key>
   <array>
-    <string>uni121D</string>
-    <string>uni121E</string>
-    <string>uni2D81</string>
+    <string>u121D</string>
+    <string>u121E</string>
+    <string>u2D81</string>
   </array>
-  <key>public.kern1.uni1230</key>
+  <key>public.kern1.u1230</key>
   <array>
-    <string>uni1230</string>
-    <string>uni1233</string>
-    <string>uni1235</string>
-    <string>uni12A8</string>
-    <string>uni12AB</string>
-    <string>uni12AD</string>
-    <string>uni12B8</string>
-    <string>uni12BB</string>
-    <string>uni12BD</string>
-    <string>uni2DD0</string>
-    <string>uni2DD3</string>
-    <string>uni2DD5</string>
-    <string>uniAB03</string>
-    <string>uniAB05</string>
+    <string>u1230</string>
+    <string>u1233</string>
+    <string>u1235</string>
+    <string>u12A8</string>
+    <string>u12AB</string>
+    <string>u12AD</string>
+    <string>u12B8</string>
+    <string>u12BB</string>
+    <string>u12BD</string>
+    <string>u2DD0</string>
+    <string>u2DD3</string>
+    <string>u2DD5</string>
+    <string>uAB03</string>
+    <string>uAB05</string>
   </array>
-  <key>public.kern1.uni1231</key>
+  <key>public.kern1.u1231</key>
   <array>
-    <string>uni1231</string>
-    <string>uni12A9</string>
-    <string>uni2DD1</string>
-    <string>uniAB01</string>
+    <string>u1231</string>
+    <string>u12A9</string>
+    <string>u2DD1</string>
+    <string>uAB01</string>
   </array>
-  <key>public.kern1.uni1232</key>
+  <key>public.kern1.u1232</key>
   <array>
-    <string>uni1232</string>
-    <string>uni12AA</string>
-    <string>uni12BA</string>
-    <string>uni2DD2</string>
-    <string>uniAB02</string>
+    <string>u1232</string>
+    <string>u12AA</string>
+    <string>u12BA</string>
+    <string>u2DD2</string>
+    <string>uAB02</string>
   </array>
-  <key>public.kern1.uni1234</key>
+  <key>public.kern1.u1234</key>
   <array>
-    <string>uni1234</string>
-    <string>uni12AC</string>
-    <string>uni12B4</string>
-    <string>uni12BC</string>
-    <string>uni12C4</string>
-    <string>uni2DD4</string>
-    <string>uniAB04</string>
+    <string>u1234</string>
+    <string>u12AC</string>
+    <string>u12B4</string>
+    <string>u12BC</string>
+    <string>u12C4</string>
+    <string>u2DD4</string>
+    <string>uAB04</string>
   </array>
-  <key>public.kern1.uni1236</key>
+  <key>public.kern1.u1236</key>
   <array>
-    <string>uni1236</string>
-    <string>uni12AE</string>
-    <string>uni12AF</string>
-    <string>uni12BE</string>
-    <string>uni2D83</string>
-    <string>uni2DD6</string>
-    <string>uniAB06</string>
+    <string>u1236</string>
+    <string>u12AE</string>
+    <string>u12AF</string>
+    <string>u12BE</string>
+    <string>u2D83</string>
+    <string>u2DD6</string>
+    <string>uAB06</string>
   </array>
-  <key>public.kern1.uni1237</key>
+  <key>public.kern1.u1237</key>
   <array>
-    <string>uni1237</string>
-    <string>uni12C3</string>
+    <string>u1237</string>
+    <string>u12C3</string>
   </array>
-  <key>public.kern1.uni1238</key>
+  <key>public.kern1.u1238</key>
   <array>
-    <string>uni1238</string>
-    <string>uni123B</string>
-    <string>uni123D</string>
-    <string>uni2DA3</string>
-    <string>uni2DA5</string>
+    <string>u1238</string>
+    <string>u123B</string>
+    <string>u123D</string>
+    <string>u2DA3</string>
+    <string>u2DA5</string>
   </array>
-  <key>public.kern1.uni123A</key>
+  <key>public.kern1.u123A</key>
   <array>
-    <string>uni123A</string>
-    <string>uni2DA2</string>
+    <string>u123A</string>
+    <string>u2DA2</string>
   </array>
-  <key>public.kern1.uni123C</key>
+  <key>public.kern1.u123C</key>
   <array>
-    <string>uni123C</string>
-    <string>uni2DA4</string>
+    <string>u123C</string>
+    <string>u2DA4</string>
   </array>
-  <key>public.kern1.uni123E</key>
+  <key>public.kern1.u123E</key>
   <array>
-    <string>uni123E</string>
-    <string>uni2D84</string>
-    <string>uni2DA6</string>
+    <string>u123E</string>
+    <string>u2D84</string>
+    <string>u2DA6</string>
   </array>
-  <key>public.kern1.uni123F</key>
+  <key>public.kern1.u123F</key>
   <array>
-    <string>uni123F</string>
-    <string>uni126F</string>
-    <string>uni1327</string>
+    <string>u123F</string>
+    <string>u126F</string>
+    <string>u1327</string>
   </array>
-  <key>public.kern1.uni1240</key>
+  <key>public.kern1.u1240</key>
   <array>
-    <string>uni1240</string>
-    <string>uni1243</string>
-    <string>uni1245</string>
-    <string>uni1250</string>
-    <string>uni1253</string>
-    <string>uni1255</string>
-    <string>uni2DC0</string>
-    <string>uni2DC3</string>
-    <string>uni2DC5</string>
+    <string>u1240</string>
+    <string>u1243</string>
+    <string>u1245</string>
+    <string>u1250</string>
+    <string>u1253</string>
+    <string>u1255</string>
+    <string>u2DC0</string>
+    <string>u2DC3</string>
+    <string>u2DC5</string>
   </array>
-  <key>public.kern1.uni1241</key>
+  <key>public.kern1.u1241</key>
   <array>
-    <string>uni1241</string>
-    <string>uni1242</string>
-    <string>uni1251</string>
-    <string>uni1252</string>
-    <string>uni2DC1</string>
-    <string>uni2DC2</string>
+    <string>u1241</string>
+    <string>u1242</string>
+    <string>u1251</string>
+    <string>u1252</string>
+    <string>u2DC1</string>
+    <string>u2DC2</string>
   </array>
-  <key>public.kern1.uni1244</key>
+  <key>public.kern1.u1244</key>
   <array>
-    <string>uni1244</string>
-    <string>uni124C</string>
-    <string>uni1254</string>
-    <string>uni125C</string>
-    <string>uni2DC4</string>
+    <string>u1244</string>
+    <string>u124C</string>
+    <string>u1254</string>
+    <string>u125C</string>
+    <string>u2DC4</string>
   </array>
-  <key>public.kern1.uni1246</key>
+  <key>public.kern1.u1246</key>
   <array>
-    <string>uni1246</string>
-    <string>uni1247</string>
-    <string>uni1256</string>
-    <string>uni2DC6</string>
+    <string>u1246</string>
+    <string>u1247</string>
+    <string>u1256</string>
+    <string>u2DC6</string>
   </array>
-  <key>public.kern1.uni1248</key>
+  <key>public.kern1.u1248</key>
   <array>
-    <string>uni1248</string>
-    <string>uni1258</string>
-    <string>uni1E7F0</string>
-    <string>uni1E7F1</string>
-    <string>uni1E7F2</string>
+    <string>u1248</string>
+    <string>u1258</string>
+    <string>u1E7F0</string>
+    <string>u1E7F1</string>
+    <string>u1E7F2</string>
   </array>
-  <key>public.kern1.uni124A</key>
+  <key>public.kern1.u124A</key>
   <array>
-    <string>uni124A</string>
-    <string>uni124D</string>
-    <string>uni125A</string>
-    <string>uni125D</string>
+    <string>u124A</string>
+    <string>u124D</string>
+    <string>u125A</string>
+    <string>u125D</string>
   </array>
-  <key>public.kern1.uni124B</key>
+  <key>public.kern1.u124B</key>
   <array>
-    <string>uni124B</string>
-    <string>uni125B</string>
+    <string>u124B</string>
+    <string>u125B</string>
   </array>
-  <key>public.kern1.uni1260</key>
+  <key>public.kern1.u1260</key>
   <array>
-    <string>uni1260</string>
-    <string>uni1263</string>
-    <string>uni1265</string>
+    <string>u1260</string>
+    <string>u1263</string>
+    <string>u1265</string>
   </array>
-  <key>public.kern1.uni1264</key>
+  <key>public.kern1.u1264</key>
   <array>
-    <string>uni1264</string>
-    <string>uni1386</string>
+    <string>u1264</string>
+    <string>u1386</string>
   </array>
-  <key>public.kern1.uni1266</key>
+  <key>public.kern1.u1266</key>
   <array>
-    <string>uni1266</string>
-    <string>uni2D85</string>
+    <string>u1266</string>
+    <string>u2D85</string>
   </array>
-  <key>public.kern1.uni1268</key>
+  <key>public.kern1.u1268</key>
   <array>
-    <string>uni1268</string>
-    <string>uni126B</string>
-    <string>uni126D</string>
+    <string>u1268</string>
+    <string>u126B</string>
+    <string>u126D</string>
   </array>
-  <key>public.kern1.uni1270</key>
+  <key>public.kern1.u1270</key>
   <array>
-    <string>uni1270</string>
-    <string>uni1273</string>
-    <string>uni1275</string>
+    <string>u1270</string>
+    <string>u1273</string>
+    <string>u1275</string>
   </array>
-  <key>public.kern1.uni1276</key>
+  <key>public.kern1.u1276</key>
   <array>
-    <string>uni1276</string>
-    <string>uni127E</string>
-    <string>uni2D86</string>
-    <string>uni2D87</string>
+    <string>u1276</string>
+    <string>u127E</string>
+    <string>u2D86</string>
+    <string>u2D87</string>
   </array>
-  <key>public.kern1.uni1278</key>
+  <key>public.kern1.u1278</key>
   <array>
-    <string>uni1278</string>
-    <string>uni127B</string>
+    <string>u1278</string>
+    <string>u127B</string>
   </array>
-  <key>public.kern1.uni127F</key>
+  <key>public.kern1.u127F</key>
   <array>
-    <string>uni127F</string>
-    <string>uni12D8</string>
-    <string>uni12DB</string>
-    <string>uni12DD</string>
-    <string>uni12DE</string>
-    <string>uni1326</string>
-    <string>uni135A</string>
-    <string>uni2D8B</string>
-    <string>uni2D8F</string>
-    <string>uni2DA8</string>
-    <string>uni2DA9</string>
-    <string>uni2DAA</string>
-    <string>uni2DAC</string>
-    <string>uni2DAD</string>
-    <string>uniAB13</string>
-    <string>uniAB15</string>
-    <string>uniAB16</string>
+    <string>u127F</string>
+    <string>u12D8</string>
+    <string>u12DB</string>
+    <string>u12DD</string>
+    <string>u12DE</string>
+    <string>u1326</string>
+    <string>u135A</string>
+    <string>u2D8B</string>
+    <string>u2D8F</string>
+    <string>u2DA8</string>
+    <string>u2DA9</string>
+    <string>u2DAA</string>
+    <string>u2DAC</string>
+    <string>u2DAD</string>
+    <string>uAB13</string>
+    <string>uAB15</string>
+    <string>uAB16</string>
   </array>
-  <key>public.kern1.uni1285</key>
+  <key>public.kern1.u1285</key>
   <array>
-    <string>uni1285</string>
-    <string>uni1343</string>
+    <string>u1285</string>
+    <string>u1343</string>
   </array>
-  <key>public.kern1.uni1286</key>
+  <key>public.kern1.u1286</key>
   <array>
-    <string>uni1286</string>
-    <string>uni1287</string>
-    <string>uni1296</string>
+    <string>u1286</string>
+    <string>u1287</string>
+    <string>u1296</string>
   </array>
-  <key>public.kern1.uni1295</key>
+  <key>public.kern1.u1295</key>
   <array>
-    <string>uni1295</string>
-    <string>uni129D</string>
+    <string>u1295</string>
+    <string>u129D</string>
   </array>
-  <key>public.kern1.uni129E</key>
+  <key>public.kern1.u129E</key>
   <array>
-    <string>uni129E</string>
-    <string>uni2D89</string>
+    <string>u129E</string>
+    <string>u2D89</string>
   </array>
-  <key>public.kern1.uni12A0</key>
+  <key>public.kern1.u12A0</key>
   <array>
-    <string>uni12A0</string>
-    <string>uni12A3</string>
-    <string>uni12A5</string>
-    <string>uni12A6</string>
-    <string>uni12A7</string>
+    <string>u12A0</string>
+    <string>u12A3</string>
+    <string>u12A5</string>
+    <string>u12A6</string>
+    <string>u12A7</string>
   </array>
-  <key>public.kern1.uni12B0</key>
+  <key>public.kern1.u12B0</key>
   <array>
+    <string>u12B0</string>
+    <string>u12C0</string>
     <string>u1E7F7</string>
-    <string>uni12B0</string>
-    <string>uni12C0</string>
   </array>
-  <key>public.kern1.uni12B2</key>
+  <key>public.kern1.u12B2</key>
   <array>
-    <string>uni12B2</string>
-    <string>uni12C2</string>
+    <string>u12B2</string>
+    <string>u12C2</string>
   </array>
-  <key>public.kern1.uni12B5</key>
+  <key>public.kern1.u12B5</key>
   <array>
-    <string>uni12B5</string>
-    <string>uni12C5</string>
+    <string>u12B5</string>
+    <string>u12C5</string>
   </array>
-  <key>public.kern1.uni12CE</key>
+  <key>public.kern1.u12CE</key>
   <array>
-    <string>uni12CE</string>
-    <string>uni12CF</string>
+    <string>u12CE</string>
+    <string>u12CF</string>
   </array>
-  <key>public.kern1.uni12D6</key>
+  <key>public.kern1.u12D6</key>
   <array>
-    <string>uni12D6</string>
-    <string>uni1346</string>
-    <string>uni1347</string>
+    <string>u12D6</string>
+    <string>u1346</string>
+    <string>u1347</string>
   </array>
-  <key>public.kern1.uni12D9</key>
+  <key>public.kern1.u12D9</key>
   <array>
-    <string>uni12D9</string>
-    <string>uniAB11</string>
+    <string>u12D9</string>
+    <string>uAB11</string>
   </array>
-  <key>public.kern1.uni12DC</key>
+  <key>public.kern1.u12DC</key>
   <array>
-    <string>uni12DC</string>
-    <string>uniAB14</string>
+    <string>u12DC</string>
+    <string>uAB14</string>
   </array>
-  <key>public.kern1.uni12E0</key>
+  <key>public.kern1.u12E0</key>
   <array>
-    <string>uni12E0</string>
-    <string>uni12E3</string>
-    <string>uni12E5</string>
-    <string>uni12E6</string>
-    <string>uni2DB0</string>
-    <string>uni2DB3</string>
-    <string>uni2DB5</string>
-    <string>uni2DB6</string>
+    <string>u12E0</string>
+    <string>u12E3</string>
+    <string>u12E5</string>
+    <string>u12E6</string>
+    <string>u2DB0</string>
+    <string>u2DB3</string>
+    <string>u2DB5</string>
+    <string>u2DB6</string>
   </array>
-  <key>public.kern1.uni12EE</key>
+  <key>public.kern1.u12EE</key>
   <array>
-    <string>uni12EE</string>
-    <string>uni12EF</string>
+    <string>u12EE</string>
+    <string>u12EF</string>
   </array>
-  <key>public.kern1.uni12F0</key>
+  <key>public.kern1.u12F0</key>
   <array>
-    <string>uni12F0</string>
-    <string>uni12F8</string>
-    <string>uni1300</string>
+    <string>u12F0</string>
+    <string>u12F8</string>
+    <string>u1300</string>
   </array>
-  <key>public.kern1.uni12F1</key>
+  <key>public.kern1.u12F1</key>
   <array>
-    <string>uni12F1</string>
-    <string>uni12F9</string>
-    <string>uni1301</string>
-    <string>uniAB09</string>
+    <string>u12F1</string>
+    <string>u12F9</string>
+    <string>u1301</string>
+    <string>uAB09</string>
   </array>
-  <key>public.kern1.uni12F2</key>
+  <key>public.kern1.u12F2</key>
   <array>
-    <string>uni12F2</string>
-    <string>uni12FA</string>
-    <string>uni1302</string>
-    <string>uniAB0A</string>
+    <string>u12F2</string>
+    <string>u12FA</string>
+    <string>u1302</string>
+    <string>uAB0A</string>
   </array>
-  <key>public.kern1.uni12F3</key>
+  <key>public.kern1.u12F3</key>
   <array>
-    <string>uni12F3</string>
-    <string>uni12FB</string>
-    <string>uni1303</string>
-    <string>uniAB0B</string>
+    <string>u12F3</string>
+    <string>u12FB</string>
+    <string>u1303</string>
+    <string>uAB0B</string>
   </array>
-  <key>public.kern1.uni12F4</key>
+  <key>public.kern1.u12F4</key>
   <array>
-    <string>uni12F4</string>
-    <string>uni12FC</string>
-    <string>uniAB0C</string>
+    <string>u12F4</string>
+    <string>u12FC</string>
+    <string>uAB0C</string>
   </array>
-  <key>public.kern1.uni12F5</key>
+  <key>public.kern1.u12F5</key>
   <array>
-    <string>uni12F5</string>
-    <string>uni12FD</string>
-    <string>uni1305</string>
+    <string>u12F5</string>
+    <string>u12FD</string>
+    <string>u1305</string>
   </array>
-  <key>public.kern1.uni12F6</key>
+  <key>public.kern1.u12F6</key>
   <array>
-    <string>uni12F6</string>
-    <string>uni12FE</string>
-    <string>uni1306</string>
-    <string>uni2D8C</string>
-    <string>uni2D8D</string>
-    <string>uniAB0E</string>
+    <string>u12F6</string>
+    <string>u12FE</string>
+    <string>u1306</string>
+    <string>u2D8C</string>
+    <string>u2D8D</string>
+    <string>uAB0E</string>
   </array>
-  <key>public.kern1.uni12F7</key>
+  <key>public.kern1.u12F7</key>
   <array>
-    <string>uni12F7</string>
-    <string>uni12FF</string>
-    <string>uni1307</string>
+    <string>u12F7</string>
+    <string>u12FF</string>
+    <string>u1307</string>
   </array>
-  <key>public.kern1.uni1308</key>
+  <key>public.kern1.u1308</key>
   <array>
-    <string>uni1308</string>
-    <string>uni1318</string>
-    <string>uni131D</string>
-    <string>uni131E</string>
-    <string>uni2DD8</string>
+    <string>u1308</string>
+    <string>u1318</string>
+    <string>u131D</string>
+    <string>u131E</string>
+    <string>u2DD8</string>
   </array>
-  <key>public.kern1.uni1309</key>
+  <key>public.kern1.u1309</key>
   <array>
-    <string>uni1309</string>
-    <string>uni1319</string>
-    <string>uni2DD9</string>
+    <string>u1309</string>
+    <string>u1319</string>
+    <string>u2DD9</string>
   </array>
-  <key>public.kern1.uni130A</key>
+  <key>public.kern1.u130A</key>
   <array>
-    <string>uni130A</string>
-    <string>uni131A</string>
-    <string>uni2DDA</string>
+    <string>u130A</string>
+    <string>u131A</string>
+    <string>u2DDA</string>
   </array>
-  <key>public.kern1.uni130B</key>
+  <key>public.kern1.u130B</key>
   <array>
-    <string>uni130B</string>
-    <string>uni131B</string>
-    <string>uni2DDB</string>
+    <string>u130B</string>
+    <string>u131B</string>
+    <string>u2DDB</string>
   </array>
-  <key>public.kern1.uni130C</key>
+  <key>public.kern1.u130C</key>
   <array>
-    <string>uni130C</string>
-    <string>uni1314</string>
-    <string>uni131C</string>
-    <string>uni2D95</string>
-    <string>uni2DDC</string>
+    <string>u130C</string>
+    <string>u1314</string>
+    <string>u131C</string>
+    <string>u2D95</string>
+    <string>u2DDC</string>
   </array>
-  <key>public.kern1.uni130D</key>
+  <key>public.kern1.u130D</key>
   <array>
-    <string>uni130D</string>
-    <string>uni2DDD</string>
+    <string>u130D</string>
+    <string>u2DDD</string>
   </array>
-  <key>public.kern1.uni1310</key>
+  <key>public.kern1.u1310</key>
   <array>
-    <string>uni1310</string>
-    <string>uni2D93</string>
+    <string>u1310</string>
+    <string>u2D93</string>
   </array>
-  <key>public.kern1.uni1328</key>
+  <key>public.kern1.u1328</key>
   <array>
-    <string>uni1328</string>
-    <string>uniAB20</string>
+    <string>u1328</string>
+    <string>uAB20</string>
   </array>
-  <key>public.kern1.uni132A</key>
+  <key>public.kern1.u132A</key>
   <array>
-    <string>uni132A</string>
-    <string>uni2DBA</string>
-    <string>uniAB22</string>
+    <string>u132A</string>
+    <string>u2DBA</string>
+    <string>uAB22</string>
   </array>
-  <key>public.kern1.uni132B</key>
+  <key>public.kern1.u132B</key>
   <array>
-    <string>uni132B</string>
-    <string>uni2DBB</string>
-    <string>uniAB23</string>
+    <string>u132B</string>
+    <string>u2DBB</string>
+    <string>uAB23</string>
   </array>
-  <key>public.kern1.uni132C</key>
+  <key>public.kern1.u132C</key>
   <array>
-    <string>uni132C</string>
-    <string>uni2DBC</string>
-    <string>uniAB24</string>
+    <string>u132C</string>
+    <string>u2DBC</string>
+    <string>uAB24</string>
   </array>
-  <key>public.kern1.uni132D</key>
+  <key>public.kern1.u132D</key>
   <array>
-    <string>uni132D</string>
-    <string>uni2DBD</string>
-    <string>uniAB25</string>
+    <string>u132D</string>
+    <string>u2DBD</string>
+    <string>uAB25</string>
   </array>
-  <key>public.kern1.uni132E</key>
+  <key>public.kern1.u132E</key>
   <array>
-    <string>uni132E</string>
-    <string>uni2D82</string>
-    <string>uni2D90</string>
-    <string>uni2DBE</string>
-    <string>uniAB26</string>
+    <string>u132E</string>
+    <string>u2D82</string>
+    <string>u2D90</string>
+    <string>u2DBE</string>
+    <string>uAB26</string>
   </array>
-  <key>public.kern1.uni132F</key>
+  <key>public.kern1.u132F</key>
   <array>
-    <string>uni132F</string>
-    <string>uni1337</string>
-    <string>uni133F</string>
+    <string>u132F</string>
+    <string>u1337</string>
+    <string>u133F</string>
   </array>
-  <key>public.kern1.uni1330</key>
+  <key>public.kern1.u1330</key>
   <array>
-    <string>uni1330</string>
-    <string>uni1333</string>
-    <string>uni1338</string>
-    <string>uni133B</string>
-    <string>uniAB28</string>
-    <string>uniAB2B</string>
+    <string>u1330</string>
+    <string>u1333</string>
+    <string>u1338</string>
+    <string>u133B</string>
+    <string>uAB28</string>
+    <string>uAB2B</string>
   </array>
-  <key>public.kern1.uni1332</key>
+  <key>public.kern1.u1332</key>
   <array>
-    <string>uni1332</string>
-    <string>uni133A</string>
-    <string>uniAB2A</string>
+    <string>u1332</string>
+    <string>u133A</string>
+    <string>uAB2A</string>
   </array>
-  <key>public.kern1.uni1334</key>
+  <key>public.kern1.u1334</key>
   <array>
-    <string>uni1334</string>
-    <string>uni133C</string>
-    <string>uniAB2C</string>
+    <string>u1334</string>
+    <string>u133C</string>
+    <string>uAB2C</string>
   </array>
-  <key>public.kern1.uni1335</key>
+  <key>public.kern1.u1335</key>
   <array>
-    <string>uni1335</string>
-    <string>uni133D</string>
-    <string>uniAB2D</string>
+    <string>u1335</string>
+    <string>u133D</string>
+    <string>uAB2D</string>
   </array>
-  <key>public.kern1.uni1336</key>
+  <key>public.kern1.u1336</key>
   <array>
-    <string>uni1336</string>
-    <string>uni133E</string>
-    <string>uniAB2E</string>
+    <string>u1336</string>
+    <string>u133E</string>
+    <string>uAB2E</string>
   </array>
-  <key>public.kern1.uni1350</key>
+  <key>public.kern1.u1350</key>
   <array>
-    <string>uni1350</string>
-    <string>uni1355</string>
+    <string>u1350</string>
+    <string>u1355</string>
   </array>
-  <key>public.kern1.uni1354</key>
+  <key>public.kern1.u1354</key>
   <array>
-    <string>uni1354</string>
-    <string>uni138E</string>
+    <string>u1354</string>
+    <string>u138E</string>
   </array>
-  <key>public.kern1.uni1356</key>
+  <key>public.kern1.u1356</key>
   <array>
-    <string>uni1356</string>
-    <string>uni2D92</string>
+    <string>u1356</string>
+    <string>u2D92</string>
   </array>
-  <key>public.kern1.uni1390</key>
+  <key>public.kern1.u1390</key>
   <array>
-    <string>uni1390</string>
-    <string>uni1391</string>
-    <string>uni1394</string>
-    <string>uni1395</string>
-    <string>uni1396</string>
-    <string>uni1397</string>
-    <string>uni1398</string>
+    <string>u1390</string>
+    <string>u1391</string>
+    <string>u1394</string>
+    <string>u1395</string>
+    <string>u1396</string>
+    <string>u1397</string>
+    <string>u1398</string>
   </array>
-  <key>public.kern1.uni2DC8</key>
+  <key>public.kern1.u2DC8</key>
   <array>
-    <string>uni2DC8</string>
-    <string>uni2DCB</string>
-    <string>uni2DCD</string>
+    <string>u2DC8</string>
+    <string>u2DCB</string>
+    <string>u2DCD</string>
   </array>
-  <key>public.kern2.uni1202</key>
+  <key>public.kern2.u1202</key>
   <array>
-    <string>uni1202</string>
-    <string>uni1203</string>
-    <string>uni1204</string>
+    <string>u1202</string>
+    <string>u1203</string>
+    <string>u1204</string>
   </array>
-  <key>public.kern2.uni1208_2</key>
+  <key>public.kern2.u1208_2</key>
   <array>
-    <string>uni1208</string>
-    <string>uni1209</string>
-    <string>uni120A</string>
-    <string>uni120C</string>
-    <string>uni120D</string>
-    <string>uni120E</string>
+    <string>u1208</string>
+    <string>u1209</string>
+    <string>u120A</string>
+    <string>u120C</string>
+    <string>u120D</string>
+    <string>u120E</string>
   </array>
-  <key>public.kern2.uni1210_2</key>
+  <key>public.kern2.u1210_2</key>
   <array>
+    <string>u1210</string>
+    <string>u1211</string>
+    <string>u1212</string>
+    <string>u1214</string>
+    <string>u1215</string>
+    <string>u1216</string>
     <string>u1E7E1</string>
     <string>u1E7E2</string>
     <string>u1E7E4</string>
@@ -1062,554 +1068,548 @@
     <string>u1E7E9</string>
     <string>u1E7EA</string>
     <string>u1E7EB</string>
-    <string>uni1210</string>
-    <string>uni1211</string>
-    <string>uni1212</string>
-    <string>uni1214</string>
-    <string>uni1215</string>
-    <string>uni1216</string>
   </array>
-  <key>public.kern2.uni1218</key>
+  <key>public.kern2.u1218</key>
   <array>
-    <string>uni1218</string>
-    <string>uni1219</string>
-    <string>uni1380</string>
+    <string>u1218</string>
+    <string>u1219</string>
+    <string>u1380</string>
   </array>
-  <key>public.kern2.uni121A</key>
+  <key>public.kern2.u121A</key>
   <array>
-    <string>uni121A</string>
-    <string>uni121B</string>
-    <string>uni121C</string>
-    <string>uni121F</string>
-    <string>uni1359</string>
-    <string>uni1381</string>
-    <string>uni1382</string>
+    <string>u121A</string>
+    <string>u121B</string>
+    <string>u121C</string>
+    <string>u121F</string>
+    <string>u1359</string>
+    <string>u1381</string>
+    <string>u1382</string>
   </array>
-  <key>public.kern2.uni121D_2</key>
+  <key>public.kern2.u121D_2</key>
   <array>
-    <string>uni121D</string>
-    <string>uni1383</string>
+    <string>u121D</string>
+    <string>u1383</string>
   </array>
-  <key>public.kern2.uni1220</key>
+  <key>public.kern2.u1220</key>
   <array>
-    <string>uni1220</string>
-    <string>uni1221</string>
+    <string>u1220</string>
+    <string>u1221</string>
   </array>
-  <key>public.kern2.uni1222</key>
+  <key>public.kern2.u1222</key>
   <array>
-    <string>uni1222</string>
-    <string>uni1223</string>
-    <string>uni1224</string>
-    <string>uni1227</string>
+    <string>u1222</string>
+    <string>u1223</string>
+    <string>u1224</string>
+    <string>u1227</string>
   </array>
-  <key>public.kern2.uni1228</key>
+  <key>public.kern2.u1228</key>
   <array>
-    <string>uni1228</string>
-    <string>uni122A</string>
-    <string>uni122B</string>
-    <string>uni122C</string>
-    <string>uni122F</string>
-    <string>uni1358</string>
+    <string>u1228</string>
+    <string>u122A</string>
+    <string>u122B</string>
+    <string>u122C</string>
+    <string>u122F</string>
+    <string>u1358</string>
   </array>
-  <key>public.kern2.uni122D</key>
+  <key>public.kern2.u122D</key>
   <array>
-    <string>uni122D</string>
-    <string>uni122E</string>
+    <string>u122D</string>
+    <string>u122E</string>
   </array>
-  <key>public.kern2.uni1230_2</key>
+  <key>public.kern2.u1230_2</key>
   <array>
-    <string>uni1230</string>
-    <string>uni1231</string>
-    <string>uni1232</string>
-    <string>uni1234</string>
-    <string>uni1235</string>
-    <string>uni1236</string>
-    <string>uniAB01</string>
-    <string>uniAB02</string>
-    <string>uniAB04</string>
-    <string>uniAB05</string>
-    <string>uniAB06</string>
+    <string>u1230</string>
+    <string>u1231</string>
+    <string>u1232</string>
+    <string>u1234</string>
+    <string>u1235</string>
+    <string>u1236</string>
+    <string>uAB01</string>
+    <string>uAB02</string>
+    <string>uAB04</string>
+    <string>uAB05</string>
+    <string>uAB06</string>
   </array>
-  <key>public.kern2.uni1233</key>
+  <key>public.kern2.u1233</key>
   <array>
-    <string>uni1233</string>
-    <string>uni1237</string>
-    <string>uniAB03</string>
+    <string>u1233</string>
+    <string>u1237</string>
+    <string>uAB03</string>
   </array>
-  <key>public.kern2.uni1238_2</key>
+  <key>public.kern2.u1238_2</key>
   <array>
-    <string>uni1238</string>
-    <string>uni1239</string>
-    <string>uni123A</string>
-    <string>uni123C</string>
-    <string>uni123D</string>
-    <string>uni123E</string>
+    <string>u1238</string>
+    <string>u1239</string>
+    <string>u123A</string>
+    <string>u123C</string>
+    <string>u123D</string>
+    <string>u123E</string>
   </array>
-  <key>public.kern2.uni123B</key>
+  <key>public.kern2.u123B</key>
   <array>
-    <string>uni123B</string>
-    <string>uni123F</string>
+    <string>u123B</string>
+    <string>u123F</string>
   </array>
-  <key>public.kern2.uni1240_2</key>
+  <key>public.kern2.u1240_2</key>
   <array>
-    <string>uni1240</string>
-    <string>uni1241</string>
-    <string>uni1242</string>
-    <string>uni1244</string>
-    <string>uni1245</string>
-    <string>uni1248</string>
-    <string>uni124A</string>
-    <string>uni124D</string>
-    <string>uni1250</string>
-    <string>uni1251</string>
-    <string>uni1252</string>
-    <string>uni1254</string>
-    <string>uni1258</string>
-    <string>uni125A</string>
-    <string>uni125D</string>
-    <string>uni1E7F0</string>
-    <string>uni1E7F1</string>
-    <string>uni1E7F2</string>
-    <string>uni2DC0</string>
-    <string>uni2DC1</string>
-    <string>uni2DC2</string>
-    <string>uni2DC4</string>
-    <string>uni2DC5</string>
+    <string>u1240</string>
+    <string>u1241</string>
+    <string>u1242</string>
+    <string>u1244</string>
+    <string>u1245</string>
+    <string>u1248</string>
+    <string>u124A</string>
+    <string>u124D</string>
+    <string>u1250</string>
+    <string>u1251</string>
+    <string>u1252</string>
+    <string>u1254</string>
+    <string>u1258</string>
+    <string>u125A</string>
+    <string>u125D</string>
+    <string>u1E7F0</string>
+    <string>u1E7F1</string>
+    <string>u1E7F2</string>
+    <string>u2DC0</string>
+    <string>u2DC1</string>
+    <string>u2DC2</string>
+    <string>u2DC4</string>
+    <string>u2DC5</string>
   </array>
-  <key>public.kern2.uni1243</key>
+  <key>public.kern2.u1243</key>
   <array>
-    <string>uni1243</string>
-    <string>uni1253</string>
-    <string>uni2DC3</string>
+    <string>u1243</string>
+    <string>u1253</string>
+    <string>u2DC3</string>
   </array>
-  <key>public.kern2.uni1246_2</key>
+  <key>public.kern2.u1246_2</key>
   <array>
-    <string>uni1246</string>
-    <string>uni1256</string>
-    <string>uni2DC6</string>
+    <string>u1246</string>
+    <string>u1256</string>
+    <string>u2DC6</string>
   </array>
-  <key>public.kern2.uni124B_2</key>
+  <key>public.kern2.u124B_2</key>
   <array>
-    <string>uni124B</string>
-    <string>uni125B</string>
+    <string>u124B</string>
+    <string>u125B</string>
   </array>
-  <key>public.kern2.uni124C</key>
+  <key>public.kern2.u124C</key>
   <array>
-    <string>uni124C</string>
-    <string>uni125C</string>
+    <string>u124C</string>
+    <string>u125C</string>
   </array>
-  <key>public.kern2.uni1260_2</key>
+  <key>public.kern2.u1260_2</key>
   <array>
-    <string>uni1260</string>
-    <string>uni1261</string>
-    <string>uni1264</string>
-    <string>uni1266</string>
-    <string>uni1384</string>
-    <string>uni1385</string>
-    <string>uni1386</string>
+    <string>u1260</string>
+    <string>u1261</string>
+    <string>u1264</string>
+    <string>u1266</string>
+    <string>u1384</string>
+    <string>u1385</string>
+    <string>u1386</string>
   </array>
-  <key>public.kern2.uni1263</key>
+  <key>public.kern2.u1263</key>
   <array>
-    <string>uni1263</string>
-    <string>uni1267</string>
+    <string>u1263</string>
+    <string>u1267</string>
   </array>
-  <key>public.kern2.uni1265</key>
+  <key>public.kern2.u1265</key>
   <array>
-    <string>uni1265</string>
-    <string>uni1387</string>
+    <string>u1265</string>
+    <string>u1387</string>
   </array>
-  <key>public.kern2.uni1268_2</key>
+  <key>public.kern2.u1268_2</key>
   <array>
-    <string>uni1268</string>
-    <string>uni1269</string>
-    <string>uni126A</string>
-    <string>uni126C</string>
-    <string>uni126E</string>
+    <string>u1268</string>
+    <string>u1269</string>
+    <string>u126A</string>
+    <string>u126C</string>
+    <string>u126E</string>
   </array>
-  <key>public.kern2.uni126B</key>
+  <key>public.kern2.u126B</key>
   <array>
-    <string>uni126B</string>
-    <string>uni126F</string>
+    <string>u126B</string>
+    <string>u126F</string>
   </array>
-  <key>public.kern2.uni1270_2</key>
+  <key>public.kern2.u1270_2</key>
   <array>
-    <string>uni1270</string>
-    <string>uni1271</string>
-    <string>uni1272</string>
-    <string>uni1274</string>
-    <string>uni1275</string>
+    <string>u1270</string>
+    <string>u1271</string>
+    <string>u1272</string>
+    <string>u1274</string>
+    <string>u1275</string>
   </array>
-  <key>public.kern2.uni1276_2</key>
+  <key>public.kern2.u1276_2</key>
   <array>
-    <string>uni1276</string>
-    <string>uni127E</string>
+    <string>u1276</string>
+    <string>u127E</string>
   </array>
-  <key>public.kern2.uni1278_2</key>
+  <key>public.kern2.u1278_2</key>
   <array>
-    <string>uni1278</string>
-    <string>uni1279</string>
-    <string>uni127A</string>
-    <string>uni127C</string>
+    <string>u1278</string>
+    <string>u1279</string>
+    <string>u127A</string>
+    <string>u127C</string>
   </array>
-  <key>public.kern2.uni1286_2</key>
+  <key>public.kern2.u1286_2</key>
   <array>
-    <string>uni1286</string>
-    <string>uni1287</string>
+    <string>u1286</string>
+    <string>u1287</string>
   </array>
-  <key>public.kern2.uni1290</key>
+  <key>public.kern2.u1290</key>
   <array>
-    <string>uni1290</string>
-    <string>uni1291</string>
-    <string>uni1292</string>
-    <string>uni1294</string>
+    <string>u1290</string>
+    <string>u1291</string>
+    <string>u1292</string>
+    <string>u1294</string>
   </array>
-  <key>public.kern2.uni1293</key>
+  <key>public.kern2.u1293</key>
   <array>
-    <string>uni1293</string>
-    <string>uni1296</string>
+    <string>u1293</string>
+    <string>u1296</string>
   </array>
-  <key>public.kern2.uni1295_2</key>
+  <key>public.kern2.u1295_2</key>
   <array>
-    <string>uni1295</string>
-    <string>uni129D</string>
+    <string>u1295</string>
+    <string>u129D</string>
   </array>
-  <key>public.kern2.uni1298</key>
+  <key>public.kern2.u1298</key>
   <array>
-    <string>uni1298</string>
-    <string>uni1299</string>
-    <string>uni129A</string>
-    <string>uni129C</string>
+    <string>u1298</string>
+    <string>u1299</string>
+    <string>u129A</string>
+    <string>u129C</string>
   </array>
-  <key>public.kern2.uni129B</key>
+  <key>public.kern2.u129B</key>
   <array>
-    <string>uni129B</string>
-    <string>uni129E</string>
+    <string>u129B</string>
+    <string>u129E</string>
   </array>
-  <key>public.kern2.uni12A0_2</key>
+  <key>public.kern2.u12A0_2</key>
   <array>
-    <string>uni12A0</string>
-    <string>uni12A1</string>
-    <string>uni12A2</string>
-    <string>uni12A4</string>
-    <string>uni12A5</string>
-    <string>uni12A6</string>
+    <string>u12A0</string>
+    <string>u12A1</string>
+    <string>u12A2</string>
+    <string>u12A4</string>
+    <string>u12A5</string>
+    <string>u12A6</string>
   </array>
-  <key>public.kern2.uni12A7</key>
+  <key>public.kern2.u12A7</key>
   <array>
-    <string>uni12A7</string>
+    <string>u12A7</string>
   </array>
-  <key>public.kern2.uni12A8</key>
+  <key>public.kern2.u12A8</key>
   <array>
-    <string>uni12A8</string>
-    <string>uni12A9</string>
-    <string>uni12AA</string>
-    <string>uni12AC</string>
-    <string>uni12AD</string>
-    <string>uni12AE</string>
-    <string>uni12B0</string>
-    <string>uni12B2</string>
-    <string>uni12B5</string>
-    <string>uni2DC8</string>
-    <string>uni2DC9</string>
-    <string>uni2DCA</string>
-    <string>uni2DCC</string>
-    <string>uni2DCE</string>
+    <string>u12A8</string>
+    <string>u12A9</string>
+    <string>u12AA</string>
+    <string>u12AC</string>
+    <string>u12AD</string>
+    <string>u12AE</string>
+    <string>u12B0</string>
+    <string>u12B2</string>
+    <string>u12B5</string>
+    <string>u2DC8</string>
+    <string>u2DC9</string>
+    <string>u2DCA</string>
+    <string>u2DCC</string>
+    <string>u2DCE</string>
   </array>
-  <key>public.kern2.uni12AB</key>
+  <key>public.kern2.u12AB</key>
   <array>
-    <string>uni12AB</string>
-    <string>uni2DCB</string>
+    <string>u12AB</string>
+    <string>u2DCB</string>
   </array>
-  <key>public.kern2.uni12AF</key>
+  <key>public.kern2.u12AF</key>
   <array>
-    <string>uni12AF</string>
-    <string>uni2DA0</string>
-    <string>uni2DA1</string>
-    <string>uni2DA2</string>
-    <string>uni2DA3</string>
-    <string>uni2DA4</string>
-    <string>uni2DA5</string>
-    <string>uni2DA6</string>
+    <string>u12AF</string>
+    <string>u2DA0</string>
+    <string>u2DA1</string>
+    <string>u2DA2</string>
+    <string>u2DA3</string>
+    <string>u2DA4</string>
+    <string>u2DA5</string>
+    <string>u2DA6</string>
   </array>
-  <key>public.kern2.uni12B4</key>
+  <key>public.kern2.u12B4</key>
   <array>
-    <string>uni12B4</string>
-    <string>uni2D8E</string>
+    <string>u12B4</string>
+    <string>u2D8E</string>
   </array>
-  <key>public.kern2.uni12B8</key>
+  <key>public.kern2.u12B8</key>
   <array>
-    <string>uni12B8</string>
-    <string>uni12B9</string>
-    <string>uni12BA</string>
-    <string>uni12BC</string>
-    <string>uni12BD</string>
-    <string>uni12BE</string>
-    <string>uni12C0</string>
-    <string>uni12C2</string>
-    <string>uni12C4</string>
-    <string>uni12C5</string>
+    <string>u12B8</string>
+    <string>u12B9</string>
+    <string>u12BA</string>
+    <string>u12BC</string>
+    <string>u12BD</string>
+    <string>u12BE</string>
+    <string>u12C0</string>
+    <string>u12C2</string>
+    <string>u12C4</string>
+    <string>u12C5</string>
   </array>
-  <key>public.kern2.uni12BB</key>
+  <key>public.kern2.u12BB</key>
   <array>
-    <string>uni12BB</string>
-    <string>uni12C3</string>
+    <string>u12BB</string>
+    <string>u12C3</string>
   </array>
-  <key>public.kern2.uni12C9</key>
+  <key>public.kern2.u12C9</key>
   <array>
-    <string>uni12C8</string>
-    <string>uni12C9</string>
-    <string>uni12CD</string>
+    <string>u12C8</string>
+    <string>u12C9</string>
+    <string>u12CD</string>
   </array>
-  <key>public.kern2.uni12CA</key>
+  <key>public.kern2.u12CA</key>
   <array>
-    <string>uni12CA</string>
-    <string>uni12CB</string>
-    <string>uni12CC</string>
+    <string>u12CA</string>
+    <string>u12CB</string>
+    <string>u12CC</string>
   </array>
-  <key>public.kern2.uni12D2</key>
+  <key>public.kern2.u12D2</key>
   <array>
-    <string>uni12D2</string>
-    <string>uni12D3</string>
-    <string>uni12D4</string>
+    <string>u12D2</string>
+    <string>u12D3</string>
+    <string>u12D4</string>
   </array>
-  <key>public.kern2.uni12D8</key>
+  <key>public.kern2.u12D8</key>
   <array>
-    <string>uni12D8</string>
-    <string>uni12D9</string>
-    <string>uni12DA</string>
-    <string>uni12DB</string>
-    <string>uni12DC</string>
-    <string>uni12DE</string>
-    <string>uni12DF</string>
-    <string>uniAB11</string>
-    <string>uniAB12</string>
-    <string>uniAB13</string>
-    <string>uniAB14</string>
-    <string>uniAB16</string>
+    <string>u12D8</string>
+    <string>u12D9</string>
+    <string>u12DA</string>
+    <string>u12DB</string>
+    <string>u12DC</string>
+    <string>u12DE</string>
+    <string>u12DF</string>
+    <string>uAB11</string>
+    <string>uAB12</string>
+    <string>uAB13</string>
+    <string>uAB14</string>
+    <string>uAB16</string>
   </array>
-  <key>public.kern2.uni12DD</key>
+  <key>public.kern2.u12DD</key>
   <array>
-    <string>uni12DD</string>
-    <string>uni12E0</string>
-    <string>uni12E1</string>
-    <string>uni12E2</string>
-    <string>uni12E3</string>
-    <string>uni12E4</string>
-    <string>uni12E5</string>
-    <string>uni12E6</string>
-    <string>uni12E7</string>
-    <string>uniAB15</string>
+    <string>u12DD</string>
+    <string>u12E0</string>
+    <string>u12E1</string>
+    <string>u12E2</string>
+    <string>u12E3</string>
+    <string>u12E4</string>
+    <string>u12E5</string>
+    <string>u12E6</string>
+    <string>u12E7</string>
+    <string>uAB15</string>
   </array>
-  <key>public.kern2.uni12E8</key>
+  <key>public.kern2.u12E8</key>
   <array>
-    <string>uni12E8</string>
-    <string>uni12E9</string>
-    <string>uni12EA</string>
-    <string>uni12EC</string>
-    <string>uni12EE</string>
+    <string>u12E8</string>
+    <string>u12E9</string>
+    <string>u12EA</string>
+    <string>u12EC</string>
+    <string>u12EE</string>
   </array>
-  <key>public.kern2.uni12F0_2</key>
+  <key>public.kern2.u12F0_2</key>
   <array>
-    <string>uni12F0</string>
-    <string>uni12F5</string>
-    <string>uni12F7</string>
-    <string>uni12F8</string>
-    <string>uni12FD</string>
-    <string>uni12FF</string>
-    <string>uni1300</string>
-    <string>uni1304</string>
-    <string>uni1305</string>
-    <string>uni1307</string>
-    <string>uniAB0D</string>
+    <string>u12F0</string>
+    <string>u12F5</string>
+    <string>u12F7</string>
+    <string>u12F8</string>
+    <string>u12FD</string>
+    <string>u12FF</string>
+    <string>u1300</string>
+    <string>u1304</string>
+    <string>u1305</string>
+    <string>u1307</string>
+    <string>uAB0D</string>
   </array>
-  <key>public.kern2.uni12F1_2</key>
+  <key>public.kern2.u12F1_2</key>
   <array>
-    <string>uni12F1</string>
-    <string>uni12F2</string>
-    <string>uni12F3</string>
-    <string>uni12F9</string>
-    <string>uni12FA</string>
-    <string>uni12FB</string>
-    <string>uni1301</string>
-    <string>uni1302</string>
-    <string>uni1303</string>
-    <string>uniAB09</string>
-    <string>uniAB0A</string>
-    <string>uniAB0B</string>
+    <string>u12F1</string>
+    <string>u12F2</string>
+    <string>u12F3</string>
+    <string>u12F9</string>
+    <string>u12FA</string>
+    <string>u12FB</string>
+    <string>u1301</string>
+    <string>u1302</string>
+    <string>u1303</string>
+    <string>uAB09</string>
+    <string>uAB0A</string>
+    <string>uAB0B</string>
   </array>
-  <key>public.kern2.uni12F4_2</key>
+  <key>public.kern2.u12F4_2</key>
   <array>
-    <string>uni12F4</string>
-    <string>uni12FC</string>
-    <string>uniAB0C</string>
+    <string>u12F4</string>
+    <string>u12FC</string>
+    <string>uAB0C</string>
   </array>
-  <key>public.kern2.uni12F6_2</key>
+  <key>public.kern2.u12F6_2</key>
   <array>
-    <string>uni12F6</string>
-    <string>uni12FE</string>
-    <string>uni1306</string>
-    <string>uniAB0E</string>
+    <string>u12F6</string>
+    <string>u12FE</string>
+    <string>u1306</string>
+    <string>uAB0E</string>
   </array>
-  <key>public.kern2.uni1308_2</key>
+  <key>public.kern2.u1308_2</key>
   <array>
+    <string>u1308</string>
+    <string>u1309</string>
+    <string>u130A</string>
+    <string>u130C</string>
+    <string>u130E</string>
+    <string>u1310</string>
+    <string>u1312</string>
+    <string>u1315</string>
+    <string>u1318</string>
+    <string>u1319</string>
+    <string>u131A</string>
+    <string>u131C</string>
     <string>u1E7F8</string>
     <string>u1E7F9</string>
-    <string>uni1308</string>
-    <string>uni1309</string>
-    <string>uni130A</string>
-    <string>uni130C</string>
-    <string>uni130E</string>
-    <string>uni1310</string>
-    <string>uni1312</string>
-    <string>uni1315</string>
-    <string>uni1318</string>
-    <string>uni1319</string>
-    <string>uni131A</string>
-    <string>uni131C</string>
-    <string>uni2D93</string>
-    <string>uni2D94</string>
-    <string>uni2D96</string>
-    <string>uni2DD8</string>
-    <string>uni2DD9</string>
-    <string>uni2DDA</string>
-    <string>uni2DDC</string>
+    <string>u2D93</string>
+    <string>u2D94</string>
+    <string>u2D96</string>
+    <string>u2DD8</string>
+    <string>u2DD9</string>
+    <string>u2DDA</string>
+    <string>u2DDC</string>
   </array>
-  <key>public.kern2.uni130B_2</key>
+  <key>public.kern2.u130B_2</key>
   <array>
-    <string>uni130B</string>
-    <string>uni131B</string>
-    <string>uni2DDB</string>
+    <string>u130B</string>
+    <string>u131B</string>
+    <string>u2DDB</string>
   </array>
-  <key>public.kern2.uni130D_2</key>
+  <key>public.kern2.u130D_2</key>
   <array>
+    <string>u130D</string>
     <string>u1E7FA</string>
-    <string>uni130D</string>
-    <string>uni2DDD</string>
+    <string>u2DDD</string>
   </array>
-  <key>public.kern2.uni1314</key>
+  <key>public.kern2.u1314</key>
   <array>
-    <string>uni1314</string>
-    <string>uni2D95</string>
+    <string>u1314</string>
+    <string>u2D95</string>
   </array>
-  <key>public.kern2.uni1320</key>
+  <key>public.kern2.u1320</key>
   <array>
-    <string>uni1320</string>
-    <string>uni1321</string>
-    <string>uni1322</string>
-    <string>uni1324</string>
+    <string>u1320</string>
+    <string>u1321</string>
+    <string>u1322</string>
+    <string>u1324</string>
   </array>
-  <key>public.kern2.uni1328_2</key>
+  <key>public.kern2.u1328_2</key>
   <array>
-    <string>uni1328</string>
-    <string>uni1329</string>
-    <string>uni132A</string>
-    <string>uni132C</string>
-    <string>uni132E</string>
-    <string>uniAB20</string>
-    <string>uniAB21</string>
-    <string>uniAB22</string>
-    <string>uniAB24</string>
-    <string>uniAB26</string>
+    <string>u1328</string>
+    <string>u1329</string>
+    <string>u132A</string>
+    <string>u132C</string>
+    <string>u132E</string>
+    <string>uAB20</string>
+    <string>uAB21</string>
+    <string>uAB22</string>
+    <string>uAB24</string>
+    <string>uAB26</string>
   </array>
-  <key>public.kern2.uni132B_2</key>
+  <key>public.kern2.u132B_2</key>
   <array>
-    <string>uni132B</string>
-    <string>uni132D</string>
-    <string>uni132F</string>
-    <string>uniAB23</string>
-    <string>uniAB25</string>
+    <string>u132B</string>
+    <string>u132D</string>
+    <string>u132F</string>
+    <string>uAB23</string>
+    <string>uAB25</string>
   </array>
-  <key>public.kern2.uni1330_2</key>
+  <key>public.kern2.u1330_2</key>
   <array>
-    <string>uni1330</string>
-    <string>uni1331</string>
-    <string>uni1332</string>
-    <string>uni1334</string>
-    <string>uni1335</string>
-    <string>uni1336</string>
-    <string>uni1338</string>
-    <string>uni1339</string>
-    <string>uni133A</string>
-    <string>uni133C</string>
-    <string>uni133D</string>
-    <string>uni133E</string>
-    <string>uniAB28</string>
-    <string>uniAB29</string>
-    <string>uniAB2A</string>
-    <string>uniAB2C</string>
-    <string>uniAB2D</string>
-    <string>uniAB2E</string>
+    <string>u1330</string>
+    <string>u1331</string>
+    <string>u1332</string>
+    <string>u1334</string>
+    <string>u1335</string>
+    <string>u1336</string>
+    <string>u1338</string>
+    <string>u1339</string>
+    <string>u133A</string>
+    <string>u133C</string>
+    <string>u133D</string>
+    <string>u133E</string>
+    <string>uAB28</string>
+    <string>uAB29</string>
+    <string>uAB2A</string>
+    <string>uAB2C</string>
+    <string>uAB2D</string>
+    <string>uAB2E</string>
   </array>
-  <key>public.kern2.uni1333</key>
+  <key>public.kern2.u1333</key>
   <array>
-    <string>uni1333</string>
-    <string>uni1337</string>
-    <string>uni133B</string>
-    <string>uni133F</string>
-    <string>uniAB2B</string>
+    <string>u1333</string>
+    <string>u1337</string>
+    <string>u133B</string>
+    <string>u133F</string>
+    <string>uAB2B</string>
   </array>
-  <key>public.kern2.uni1342</key>
+  <key>public.kern2.u1342</key>
   <array>
-    <string>uni1342</string>
-    <string>uni1343</string>
-    <string>uni1344</string>
+    <string>u1342</string>
+    <string>u1343</string>
+    <string>u1344</string>
   </array>
-  <key>public.kern2.uni1348</key>
+  <key>public.kern2.u1348</key>
   <array>
-    <string>uni1348</string>
-    <string>uni134A</string>
-    <string>uni134C</string>
-    <string>uni1388</string>
-    <string>uni1389</string>
+    <string>u1348</string>
+    <string>u134A</string>
+    <string>u134C</string>
+    <string>u1388</string>
+    <string>u1389</string>
   </array>
-  <key>public.kern2.uni1349</key>
+  <key>public.kern2.u1349</key>
   <array>
-    <string>uni1349</string>
-    <string>uni134B</string>
-    <string>uni138A</string>
+    <string>u1349</string>
+    <string>u134B</string>
+    <string>u138A</string>
   </array>
-  <key>public.kern2.uni1350_2</key>
+  <key>public.kern2.u1350_2</key>
   <array>
+    <string>u1350</string>
+    <string>u1351</string>
+    <string>u1352</string>
+    <string>u1354</string>
+    <string>u1355</string>
+    <string>u138C</string>
+    <string>u138D</string>
+    <string>u138F</string>
     <string>u1E7FD</string>
     <string>u1E7FE</string>
-    <string>uni1350</string>
-    <string>uni1351</string>
-    <string>uni1352</string>
-    <string>uni1354</string>
-    <string>uni1355</string>
-    <string>uni138C</string>
-    <string>uni138D</string>
-    <string>uni138F</string>
   </array>
-  <key>public.kern2.uni1361</key>
+  <key>public.kern2.u1361</key>
   <array>
-    <string>uni1361</string>
-    <string>uni1362</string>
-    <string>uni1363</string>
-    <string>uni1365</string>
-    <string>uni1366</string>
-    <string>uni1368</string>
-    <string>uni1393</string>
-    <string>uni1399</string>
+    <string>u1361</string>
+    <string>u1362</string>
+    <string>u1363</string>
+    <string>u1365</string>
+    <string>u1366</string>
+    <string>u1368</string>
+    <string>u1393</string>
+    <string>u1399</string>
   </array>
-  <key>public.kern2.uni1390_2</key>
+  <key>public.kern2.u1390_2</key>
   <array>
-    <string>uni1390</string>
-    <string>uni1391</string>
-    <string>uni1394</string>
-    <string>uni1395</string>
-    <string>uni1396</string>
-    <string>uni1397</string>
-    <string>uni1398</string>
+    <string>u1390</string>
+    <string>u1391</string>
+    <string>u1394</string>
+    <string>u1395</string>
+    <string>u1396</string>
+    <string>u1397</string>
+    <string>u1398</string>
   </array>
-  <key>public.kern2.uni2DD0</key>
+  <key>public.kern2.u2DD0</key>
   <array>
-    <string>uni2DD0</string>
-    <string>uni2DD1</string>
-    <string>uni2DD2</string>
-    <string>uni2DD4</string>
-    <string>uni2DD5</string>
-    <string>uni2DD6</string>
+    <string>u2DD0</string>
+    <string>u2DD1</string>
+    <string>u2DD2</string>
+    <string>u2DD4</string>
+    <string>u2DD5</string>
+    <string>u2DD6</string>
   </array>
 </dict>
 </plist>
