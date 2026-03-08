@@ -22,6 +22,26 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
+    <integer>250</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
     <integer>295</integer>
   </dict>
   <dict>
@@ -74,16 +94,6 @@
     <key>y</key>
     <integer>521</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>-9</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
@@ -125,7 +135,7 @@ and original homepage is found at:
 
   https://www2.informatik.uni-hamburg.de/TGI/mitarbeiter/wimis/kummer/ethiop_eng.html</string>
   <key>openTypeNameDesigner</key>
-  <string>Berhanu Beyene, Abraham Fikadu </string>
+  <string>Berhanu Beyene, Abraham Fikadu</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://www.instagram.com/abraham.f9</string>
   <key>openTypeNameLicense</key>
@@ -519,7 +529,6 @@ Public License instead of this License.</string>
   <integer>699</integer>
   <key>openTypeOS2Type</key>
   <array>
-    <integer>2</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
   <integer>800</integer>

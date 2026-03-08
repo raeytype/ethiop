@@ -61,62 +61,62 @@ feature rclt {
 } rclt;
 feature mark {
 # GPOS feature : Mark Positioning
-    markClass uni135E <anchor 0 631> @top;
-    markClass uni135F <anchor -5 628> @top;
-    markClass uni135D <anchor 4 632> @top;
+    markClass u135E <anchor 0 631> @top;
+    markClass u135F <anchor -5 628> @top;
+    markClass u135D <anchor 4 632> @top;
 
   lookup markLTR {
-      pos base uni1200
+      pos base u1200
           <anchor 231 570> mark @top;
-      pos base uni1201
+      pos base u1201
           <anchor 231 570> mark @top;
-      pos base uni1202
+      pos base u1202
           <anchor 268 636> mark @top;
-      pos base uni1203
+      pos base u1203
           <anchor 268 636> mark @top;
-      pos base uni1204
+      pos base u1204
           <anchor 268 636> mark @top;
-      pos base uni1205
+      pos base u1205
           <anchor 250 571> mark @top;
-      pos base uni1206
+      pos base u1206
           <anchor 254 578> mark @top;
-      pos base uni1207
+      pos base u1207
           <anchor 467 566> mark @top;
-      pos base uni128B.alt1
+      pos base u128B.alt1
           <anchor 364 647> mark @top;
-      pos base uni1208
+      pos base u1208
           <anchor 229 667> mark @top;
-      pos base uni1209
+      pos base u1209
           <anchor 224 682> mark @top;
-      pos base uni120A
+      pos base u120A
           <anchor 224 682> mark @top;
-      pos base uni120B
+      pos base u120B
           <anchor 220 676> mark @top;
-      pos base uni120C
+      pos base u120C
           <anchor 220 676> mark @top;
-      pos base uni120D
+      pos base u120D
           <anchor 271 669> mark @top;
-      pos base uni120E
+      pos base u120E
           <anchor 226 670> mark @top;
-      pos base uni2D80
+      pos base u2D80
           <anchor 421 661> mark @top;
-      pos base uni120F
+      pos base u120F
           <anchor 226 670> mark @top;
-      pos base uni1210
+      pos base u1210
           <anchor 432 654> mark @top;
-      pos base uni1211
+      pos base u1211
           <anchor 440 658> mark @top;
-      pos base uni1212
+      pos base u1212
           <anchor 440 658> mark @top;
-      pos base uni1213
+      pos base u1213
           <anchor 434 657> mark @top;
-      pos base uni1214
+      pos base u1214
           <anchor 432 658> mark @top;
-      pos base uni1215
+      pos base u1215
           <anchor 299 727> mark @top;
-      pos base uni1216
+      pos base u1216
           <anchor 432 658> mark @top;
-      pos base uni1217
+      pos base u1217
           <anchor 437 658> mark @top;
       pos base u1E7E8
           <anchor 437 658> mark @top;
@@ -140,161 +140,161 @@ feature mark {
           <anchor 373 750> mark @top;
       pos base u1E7E6
           <anchor 444 700> mark @top;
-      pos base uni1218
+      pos base u1218
           <anchor 478 490> mark @top;
-      pos base uni1219
+      pos base u1219
           <anchor 478 491> mark @top;
-      pos base uni121A
+      pos base u121A
           <anchor 492 682> mark @top;
-      pos base uni121B
+      pos base u121B
           <anchor 492 682> mark @top;
-      pos base uni121C
+      pos base u121C
           <anchor 492 682> mark @top;
-      pos base uni121D
+      pos base u121D
           <anchor 442 680> mark @top;
-      pos base uni121E
+      pos base u121E
           <anchor 433 700> mark @top;
-      pos base uni2D81
+      pos base u2D81
           <anchor 473 700> mark @top;
-      pos base uni1380
+      pos base u1380
           <anchor 477 485> mark @top;
       pos base u1E7ED
           <anchor 492 682> mark @top;
-      pos base uni1381
+      pos base u1381
           <anchor 492 682> mark @top;
-      pos base uni121F
+      pos base u121F
           <anchor 492 682> mark @top;
-      pos base uni1382
+      pos base u1382
           <anchor 492 682> mark @top;
       pos base u1E7EE
           <anchor 492 682> mark @top;
-      pos base uni1383
+      pos base u1383
           <anchor 492 682> mark @top;
-      pos base uni1359
+      pos base u1359
           <anchor 500 801> mark @top;
-      pos base uni1220
+      pos base u1220
           <anchor 417 520> mark @top;
-      pos base uni1221
+      pos base u1221
           <anchor 417 525> mark @top;
-      pos base uni1222
+      pos base u1222
           <anchor 376 635> mark @top;
-      pos base uni1223
+      pos base u1223
           <anchor 376 635> mark @top;
-      pos base uni1224
+      pos base u1224
           <anchor 376 635> mark @top;
-      pos base uni1225
+      pos base u1225
           <anchor 578 635> mark @top;
-      pos base uni1226
+      pos base u1226
           <anchor 377 635> mark @top;
-      pos base uni1227
+      pos base u1227
           <anchor 364 639> mark @top;
-      pos base uni1228
+      pos base u1228
           <anchor 393 637> mark @top;
-      pos base uni1229
+      pos base u1229
           <anchor 303 604> mark @top;
-      pos base uni122A
+      pos base u122A
           <anchor 429 600> mark @top;
-      pos base uni122B
+      pos base u122B
           <anchor 429 600> mark @top;
-      pos base uni122C
+      pos base u122C
           <anchor 402 645> mark @top;
-      pos base uni122D
+      pos base u122D
           <anchor 319 605> mark @top;
-      pos base uni122E
+      pos base u122E
           <anchor 319 630> mark @top;
-      pos base uni2D82
+      pos base u2D82
           <anchor 550 630> mark @top;
-      pos base uni122F
+      pos base u122F
           <anchor 430 700> mark @top;
-      pos base uni1358
+      pos base u1358
           <anchor 393 668> mark @top;
-      pos base uni1230
+      pos base u1230
           <anchor 287 666> mark @top;
-      pos base uni1231
+      pos base u1231
           <anchor 287 666> mark @top;
-      pos base uni1232
+      pos base u1232
           <anchor 287 666> mark @top;
-      pos base uni1233
+      pos base u1233
           <anchor 287 666> mark @top;
-      pos base uni1234
+      pos base u1234
           <anchor 287 666> mark @top;
-      pos base uni1235
+      pos base u1235
           <anchor 226 663> mark @top;
-      pos base uni1236
+      pos base u1236
           <anchor 291 662> mark @top;
-      pos base uni2D83
+      pos base u2D83
           <anchor 499 652> mark @top;
-      pos base uni1237
+      pos base u1237
           <anchor 291 662> mark @top;
-      pos base uniAB01
+      pos base uAB01
           <anchor 282 661> mark @top;
-      pos base uniAB02
+      pos base uAB02
           <anchor 282 661> mark @top;
-      pos base uniAB03
+      pos base uAB03
           <anchor 282 661> mark @top;
-      pos base uniAB04
+      pos base uAB04
           <anchor 282 661> mark @top;
-      pos base uniAB05
+      pos base uAB05
           <anchor 214 647> mark @top;
-      pos base uniAB06
+      pos base uAB06
           <anchor 282 661> mark @top;
-      pos base uni1238
+      pos base u1238
           <anchor 345 690> mark @top;
-      pos base uni1239
+      pos base u1239
           <anchor 345 690> mark @top;
-      pos base uni123A
+      pos base u123A
           <anchor 345 690> mark @top;
-      pos base uni123B
+      pos base u123B
           <anchor 345 690> mark @top;
-      pos base uni123C
+      pos base u123C
           <anchor 345 690> mark @top;
-      pos base uni123D
+      pos base u123D
           <anchor 320 690> mark @top;
-      pos base uni123E
+      pos base u123E
           <anchor 345 690> mark @top;
-      pos base uni123F
+      pos base u123F
           <anchor 345 690> mark @top;
-      pos base uni2D84
+      pos base u2D84
           <anchor 510 690> mark @top;
-      pos base uni2DA0
+      pos base u2DA0
           <anchor 510 690> mark @top;
-      pos base uni2DA1
+      pos base u2DA1
           <anchor 510 690> mark @top;
-      pos base uni2DA2
+      pos base u2DA2
           <anchor 510 690> mark @top;
-      pos base uni2DA3
+      pos base u2DA3
           <anchor 510 690> mark @top;
-      pos base uni2DA4
+      pos base u2DA4
           <anchor 510 690> mark @top;
-      pos base uni2DA5
+      pos base u2DA5
           <anchor 450 690> mark @top;
-      pos base uni2DA6
+      pos base u2DA6
           <anchor 510 690> mark @top;
-      pos base uni1240
+      pos base u1240
           <anchor 345 670> mark @top;
-      pos base uni1241
+      pos base u1241
           <anchor 345 670> mark @top;
-      pos base uni1242
+      pos base u1242
           <anchor 345 665> mark @top;
-      pos base uni1243
+      pos base u1243
           <anchor 445 665> mark @top;
-      pos base uni1244
+      pos base u1244
           <anchor 345 665> mark @top;
-      pos base uni1245
+      pos base u1245
           <anchor 220 730> mark @top;
-      pos base uni1246
+      pos base u1246
           <anchor 345 630> mark @top;
-      pos base uni1247
+      pos base u1247
           <anchor 345 630> mark @top;
-      pos base uni1248
+      pos base u1248
           <anchor 345 665> mark @top;
-      pos base uni124A
+      pos base u124A
           <anchor 345 665> mark @top;
-      pos base uni124B
+      pos base u124B
           <anchor 345 665> mark @top;
-      pos base uni124C
+      pos base u124C
           <anchor 345 665> mark @top;
-      pos base uni124D
+      pos base u124D
           <anchor 345 665> mark @top;
       pos base u1E7F0
           <anchor 345 665> mark @top;
@@ -302,245 +302,245 @@ feature mark {
           <anchor 345 665> mark @top;
       pos base u1E7F2
           <anchor 220 730> mark @top;
-      pos base uni2DC0
+      pos base u2DC0
           <anchor 335 785> mark @top;
-      pos base uni2DC1
+      pos base u2DC1
           <anchor 335 785> mark @top;
-      pos base uni2DC2
+      pos base u2DC2
           <anchor 335 785> mark @top;
-      pos base uni2DC3
+      pos base u2DC3
           <anchor 465 790> mark @top;
-      pos base uni2DC4
+      pos base u2DC4
           <anchor 335 785> mark @top;
-      pos base uni2DC5
+      pos base u2DC5
           <anchor 280 790> mark @top;
-      pos base uni2DC6
+      pos base u2DC6
           <anchor 335 785> mark @top;
-      pos base uni1250
+      pos base u1250
           <anchor 350 700> mark @top;
-      pos base uni1251
+      pos base u1251
           <anchor 350 700> mark @top;
-      pos base uni1252
+      pos base u1252
           <anchor 350 700> mark @top;
-      pos base uni1253
+      pos base u1253
           <anchor 455 700> mark @top;
-      pos base uni1254
+      pos base u1254
           <anchor 350 700> mark @top;
-      pos base uni1255
+      pos base u1255
           <anchor 355 720> mark @top;
-      pos base uni1256
+      pos base u1256
           <anchor 330 750> mark @top;
-      pos base uni1258
+      pos base u1258
           <anchor 350 700> mark @top;
-      pos base uni125A
+      pos base u125A
           <anchor 350 700> mark @top;
-      pos base uni125B
+      pos base u125B
           <anchor 350 700> mark @top;
-      pos base uni125C
+      pos base u125C
           <anchor 350 700> mark @top;
-      pos base uni125D
+      pos base u125D
           <anchor 350 700> mark @top;
-      pos base uni1260
+      pos base u1260
           <anchor 290 640> mark @top;
-      pos base uni1261
+      pos base u1261
           <anchor 290 640> mark @top;
-      pos base uni1262
+      pos base u1262
           <anchor 290 640> mark @top;
-      pos base uni1263
+      pos base u1263
           <anchor 290 640> mark @top;
-      pos base uni1264
+      pos base u1264
           <anchor 290 640> mark @top;
-      pos base uni1265
+      pos base u1265
           <anchor 540 640> mark @top;
-      pos base uni1266
+      pos base u1266
           <anchor 290 640> mark @top;
-      pos base uni2D85
+      pos base u2D85
           <anchor 535 640> mark @top;
-      pos base uni1384
+      pos base u1384
           <anchor 290 640> mark @top;
-      pos base uni1385
+      pos base u1385
           <anchor 290 640> mark @top;
-      pos base uni1267
+      pos base u1267
           <anchor 290 640> mark @top;
-      pos base uni1386
+      pos base u1386
           <anchor 290 640> mark @top;
-      pos base uni1387
+      pos base u1387
           <anchor 535 640> mark @top;
       pos base u1E7F3
           <anchor 290 640> mark @top;
       pos base u1E7F4
           <anchor 290 640> mark @top;
-      pos base uni1268
+      pos base u1268
           <anchor 335 700> mark @top;
-      pos base uni1269
+      pos base u1269
           <anchor 335 700> mark @top;
-      pos base uni126A
+      pos base u126A
           <anchor 335 700> mark @top;
-      pos base uni126B
+      pos base u126B
           <anchor 335 700> mark @top;
-      pos base uni126C
+      pos base u126C
           <anchor 335 700> mark @top;
-      pos base uni126D
+      pos base u126D
           <anchor 500 700> mark @top;
-      pos base uni126E
+      pos base u126E
           <anchor 335 700> mark @top;
-      pos base uni126F
+      pos base u126F
           <anchor 335 700> mark @top;
-      pos base uni1270
+      pos base u1270
           <anchor 370 675> mark @top;
-      pos base uni1271
+      pos base u1271
           <anchor 370 675> mark @top;
-      pos base uni1272
+      pos base u1272
           <anchor 370 675> mark @top;
-      pos base uni1273
+      pos base u1273
           <anchor 450 675> mark @top;
-      pos base uni1274
+      pos base u1274
           <anchor 370 675> mark @top;
-      pos base uni1275
+      pos base u1275
           <anchor 230 740> mark @top;
-      pos base uni1276
+      pos base u1276
           <anchor 370 615> mark @top;
-      pos base uni1277
+      pos base u1277
           <anchor 370 675> mark @top;
-      pos base uni2D86
+      pos base u2D86
           <anchor 370 615> mark @top;
-      pos base uni1278
+      pos base u1278
           <anchor 375 695> mark @top;
-      pos base uni1279
+      pos base u1279
           <anchor 375 695> mark @top;
-      pos base uni127A
+      pos base u127A
           <anchor 375 695> mark @top;
-      pos base uni127B
+      pos base u127B
           <anchor 455 695> mark @top;
-      pos base uni127C
+      pos base u127C
           <anchor 375 695> mark @top;
-      pos base uni127D
+      pos base u127D
           <anchor 330 710> mark @top;
-      pos base uni127E
+      pos base u127E
           <anchor 375 750> mark @top;
-      pos base uni2D87
+      pos base u2D87
           <anchor 375 750> mark @top;
-      pos base uni127F
+      pos base u127F
           <anchor 375 695> mark @top;
-      pos base uni2DA8
+      pos base u2DA8
           <anchor 375 695> mark @top;
-      pos base uni2DA9
+      pos base u2DA9
           <anchor 375 695> mark @top;
-      pos base uni2DAA
+      pos base u2DAA
           <anchor 375 695> mark @top;
-      pos base uni2DAB
+      pos base u2DAB
           <anchor 470 690> mark @top;
-      pos base uni2DAC
+      pos base u2DAC
           <anchor 375 695> mark @top;
-      pos base uni2DAD
+      pos base u2DAD
           <anchor 330 710> mark @top;
-      pos base uni2DAE
+      pos base u2DAE
           <anchor 400 793> mark @top;
-      pos base uni1280
+      pos base u1280
           <anchor 390 675> mark @top;
-      pos base uni1281
+      pos base u1281
           <anchor 390 675> mark @top;
-      pos base uni1282
+      pos base u1282
           <anchor 390 675> mark @top;
-      pos base uni1283
+      pos base u1283
           <anchor 425 675> mark @top;
-      pos base uni1284
+      pos base u1284
           <anchor 390 670> mark @top;
-      pos base uni1285
+      pos base u1285
           <anchor 390 670> mark @top;
-      pos base uni1286
+      pos base u1286
           <anchor 620 610> mark @top;
-      pos base uni1287
+      pos base u1287
           <anchor 620 610> mark @top;
-      pos base uni1288
+      pos base u1288
           <anchor 390 660> mark @top;
-      pos base uni128A
+      pos base u128A
           <anchor 390 660> mark @top;
-      pos base uni128B
+      pos base u128B
           <anchor 390 660> mark @top;
-      pos base uni128C
+      pos base u128C
           <anchor 390 660> mark @top;
-      pos base uni128D
+      pos base u128D
           <anchor 390 660> mark @top;
-      pos base uni1290
+      pos base u1290
           <anchor 115 650> mark @top;
-      pos base uni1291
+      pos base u1291
           <anchor 115 650> mark @top;
-      pos base uni1292
+      pos base u1292
           <anchor 100 650> mark @top;
-      pos base uni1293
+      pos base u1293
           <anchor 295 595> mark @top;
-      pos base uni1294
+      pos base u1294
           <anchor 100 650> mark @top;
-      pos base uni1295
+      pos base u1295
           <anchor 230 610> mark @top;
-      pos base uni1296
+      pos base u1296
           <anchor 355 610> mark @top;
-      pos base uni2D88
+      pos base u2D88
           <anchor 355 610> mark @top;
-      pos base uni1297
+      pos base u1297
           <anchor 355 610> mark @top;
-      pos base uni1298
+      pos base u1298
           <anchor 325 685> mark @top;
-      pos base uni1299
+      pos base u1299
           <anchor 325 685> mark @top;
-      pos base uni129A
+      pos base u129A
           <anchor 325 685> mark @top;
-      pos base uni129B
+      pos base u129B
           <anchor 325 685> mark @top;
-      pos base uni129C
+      pos base u129C
           <anchor 325 685> mark @top;
-      pos base uni129D
+      pos base u129D
           <anchor 310 715> mark @top;
-      pos base uni129E
+      pos base u129E
           <anchor 310 715> mark @top;
-      pos base uni129F
+      pos base u129F
           <anchor 310 715> mark @top;
-      pos base uni2D89
+      pos base u2D89
           <anchor 310 715> mark @top;
-      pos base uni12A0
+      pos base u12A0
           <anchor 170 650> mark @top;
-      pos base uni12A1
+      pos base u12A1
           <anchor 170 650> mark @top;
-      pos base uni12A2
+      pos base u12A2
           <anchor 160 650> mark @top;
-      pos base uni12A3
+      pos base u12A3
           <anchor 140 650> mark @top;
-      pos base uni12A4
+      pos base u12A4
           <anchor 170 650> mark @top;
-      pos base uni12A5
+      pos base u12A5
           <anchor 200 650> mark @top;
-      pos base uni12A6
+      pos base u12A6
           <anchor 170 650> mark @top;
-      pos base uni2D8A
+      pos base u2D8A
           <anchor 370 650> mark @top;
-      pos base uni12A7
+      pos base u12A7
           <anchor 392 680> mark @top;
-      pos base uni12A8
+      pos base u12A8
           <anchor 280 700> mark @top;
-      pos base uni12A9
+      pos base u12A9
           <anchor 280 700> mark @top;
-      pos base uni12AA
+      pos base u12AA
           <anchor 280 700> mark @top;
-      pos base uni12AB
+      pos base u12AB
           <anchor 280 700> mark @top;
-      pos base uni12AC
+      pos base u12AC
           <anchor 280 700> mark @top;
-      pos base uni12AD
+      pos base u12AD
           <anchor 280 700> mark @top;
-      pos base uni12AE
+      pos base u12AE
           <anchor 280 700> mark @top;
-      pos base uni12AF
+      pos base u12AF
           <anchor 500 680> mark @top;
-      pos base uni12B0
+      pos base u12B0
           <anchor 280 700> mark @top;
-      pos base uni12B2
+      pos base u12B2
           <anchor 280 700> mark @top;
-      pos base uni12B3
+      pos base u12B3
           <anchor 280 700> mark @top;
-      pos base uni12B4
+      pos base u12B4
           <anchor 280 700> mark @top;
-      pos base uni12B5
+      pos base u12B5
           <anchor 280 700> mark @top;
       pos base u1E7F5
           <anchor 280 700> mark @top;
@@ -548,257 +548,257 @@ feature mark {
           <anchor 280 700> mark @top;
       pos base u1E7F7
           <anchor 280 700> mark @top;
-      pos base uni2DC8
+      pos base u2DC8
           <anchor 280 770> mark @top;
-      pos base uni2DC9
+      pos base u2DC9
           <anchor 280 770> mark @top;
-      pos base uni2DCA
+      pos base u2DCA
           <anchor 280 770> mark @top;
-      pos base uni2DCB
+      pos base u2DCB
           <anchor 280 770> mark @top;
-      pos base uni2DCC
+      pos base u2DCC
           <anchor 280 770> mark @top;
-      pos base uni2DCD
+      pos base u2DCD
           <anchor 280 770> mark @top;
-      pos base uni2DCE
+      pos base u2DCE
           <anchor 280 770> mark @top;
-      pos base uni12B8
+      pos base u12B8
           <anchor 320 720> mark @top;
-      pos base uni12B9
+      pos base u12B9
           <anchor 320 720> mark @top;
-      pos base uni12BA
+      pos base u12BA
           <anchor 320 720> mark @top;
-      pos base uni12BB
+      pos base u12BB
           <anchor 320 720> mark @top;
-      pos base uni12BC
+      pos base u12BC
           <anchor 320 720> mark @top;
-      pos base uni12BD
+      pos base u12BD
           <anchor 320 720> mark @top;
-      pos base uni12BE
+      pos base u12BE
           <anchor 320 720> mark @top;
-      pos base uni12C0
+      pos base u12C0
           <anchor 320 720> mark @top;
-      pos base uni12C2
+      pos base u12C2
           <anchor 320 720> mark @top;
-      pos base uni12C3
+      pos base u12C3
           <anchor 320 720> mark @top;
-      pos base uni12C4
+      pos base u12C4
           <anchor 320 720> mark @top;
-      pos base uni12C5
+      pos base u12C5
           <anchor 320 720> mark @top;
-      pos base uni2DD0
+      pos base u2DD0
           <anchor 320 810> mark @top;
-      pos base uni2DD1
+      pos base u2DD1
           <anchor 320 810> mark @top;
-      pos base uni2DD2
+      pos base u2DD2
           <anchor 320 810> mark @top;
-      pos base uni2DD3
+      pos base u2DD3
           <anchor 320 810> mark @top;
-      pos base uni2DD4
+      pos base u2DD4
           <anchor 320 810> mark @top;
-      pos base uni2DD5
+      pos base u2DD5
           <anchor 320 810> mark @top;
-      pos base uni2DD6
+      pos base u2DD6
           <anchor 320 810> mark @top;
-      pos base uni12C8
+      pos base u12C8
           <anchor 400 540> mark @top;
-      pos base uni12C9
+      pos base u12C9
           <anchor 400 540> mark @top;
-      pos base uni12CA
+      pos base u12CA
           <anchor 355 620> mark @top;
-      pos base uni12CB
+      pos base u12CB
           <anchor 355 620> mark @top;
-      pos base uni12CC
+      pos base u12CC
           <anchor 355 620> mark @top;
-      pos base uni12CD
+      pos base u12CD
           <anchor 400 540> mark @top;
-      pos base uni12CE
+      pos base u12CE
           <anchor 355 620> mark @top;
-      pos base uni12CF
+      pos base u12CF
           <anchor 560 625> mark @top;
-      pos base uni12D0
+      pos base u12D0
           <anchor 280 610> mark @top;
-      pos base uni12D1
+      pos base u12D1
           <anchor 280 610> mark @top;
-      pos base uni12D2
+      pos base u12D2
           <anchor 300 670> mark @top;
-      pos base uni12D3
+      pos base u12D3
           <anchor 300 670> mark @top;
-      pos base uni12D4
+      pos base u12D4
           <anchor 300 670> mark @top;
-      pos base uni12D5
+      pos base u12D5
           <anchor 280 680> mark @top;
-      pos base uni12D6
+      pos base u12D6
           <anchor 350 670> mark @top;
-      pos base uni12D8
+      pos base u12D8
           <anchor 270 590> mark @top;
-      pos base uni12D9
+      pos base u12D9
           <anchor 270 590> mark @top;
-      pos base uni12DA
+      pos base u12DA
           <anchor 270 590> mark @top;
-      pos base uni12DB
+      pos base u12DB
           <anchor 270 590> mark @top;
-      pos base uni12DC
+      pos base u12DC
           <anchor 270 590> mark @top;
-      pos base uni12DD
+      pos base u12DD
           <anchor 430 590> mark @top;
-      pos base uni12DE
+      pos base u12DE
           <anchor 270 590> mark @top;
-      pos base uni12DF
+      pos base u12DF
           <anchor 270 590> mark @top;
-      pos base uni2D8B
+      pos base u2D8B
           <anchor 500 590> mark @top;
-      pos base uniAB10
+      pos base uAB10
           <anchor 290 740> mark @top;
-      pos base uniAB11
+      pos base uAB11
           <anchor 290 740> mark @top;
-      pos base uniAB12
+      pos base uAB12
           <anchor 290 740> mark @top;
-      pos base uniAB13
+      pos base uAB13
           <anchor 290 740> mark @top;
-      pos base uniAB14
+      pos base uAB14
           <anchor 290 740> mark @top;
-      pos base uniAB15
+      pos base uAB15
           <anchor 410 740> mark @top;
-      pos base uniAB16
+      pos base uAB16
           <anchor 290 740> mark @top;
-      pos base uni12E0
+      pos base u12E0
           <anchor 450 590> mark @top;
-      pos base uni12E1
+      pos base u12E1
           <anchor 450 590> mark @top;
-      pos base uni12E2
+      pos base u12E2
           <anchor 450 590> mark @top;
-      pos base uni12E3
+      pos base u12E3
           <anchor 450 590> mark @top;
-      pos base uni12E4
+      pos base u12E4
           <anchor 450 590> mark @top;
-      pos base uni12E5
+      pos base u12E5
           <anchor 280 710> mark @top;
-      pos base uni12E6
+      pos base u12E6
           <anchor 450 590> mark @top;
-      pos base uni12E7
+      pos base u12E7
           <anchor 450 590> mark @top;
-      pos base uni2DB0
+      pos base u2DB0
           <anchor 500 590> mark @top;
-      pos base uni2DB1
+      pos base u2DB1
           <anchor 500 590> mark @top;
-      pos base uni2DB2
+      pos base u2DB2
           <anchor 500 590> mark @top;
-      pos base uni2DB3
+      pos base u2DB3
           <anchor 500 590> mark @top;
-      pos base uni2DB4
+      pos base u2DB4
           <anchor 500 590> mark @top;
-      pos base uni2DB5
+      pos base u2DB5
           <anchor 280 710> mark @top;
-      pos base uni2DB6
+      pos base u2DB6
           <anchor 500 590> mark @top;
-      pos base uni12E8
+      pos base u12E8
           <anchor 270 630> mark @top;
-      pos base uni12E9
+      pos base u12E9
           <anchor 270 630> mark @top;
-      pos base uni12EA
+      pos base u12EA
           <anchor 270 630> mark @top;
-      pos base uni12EB
+      pos base u12EB
           <anchor 420 660> mark @top;
-      pos base uni12EC
+      pos base u12EC
           <anchor 270 630> mark @top;
-      pos base uni12ED
+      pos base u12ED
           <anchor 350 680> mark @top;
-      pos base uni12EE
+      pos base u12EE
           <anchor 270 630> mark @top;
-      pos base uni12EF
+      pos base u12EF
           <anchor 470 630> mark @top;
-      pos base uni12F0
+      pos base u12F0
           <anchor 360 620> mark @top;
-      pos base uni12F1
+      pos base u12F1
           <anchor 420 620> mark @top;
-      pos base uni12F2
+      pos base u12F2
           <anchor 420 620> mark @top;
-      pos base uni12F3
+      pos base u12F3
           <anchor 420 620> mark @top;
-      pos base uni12F4
+      pos base u12F4
           <anchor 360 630> mark @top;
-      pos base uni12F5
+      pos base u12F5
           <anchor 360 630> mark @top;
-      pos base uni12F6
+      pos base u12F6
           <anchor 390 640> mark @top;
-      pos base uni12F7
+      pos base u12F7
           <anchor 420 620> mark @top;
-      pos base uni2D8C
+      pos base u2D8C
           <anchor 460 640> mark @top;
-      pos base uni12F8
+      pos base u12F8
           <anchor 361 720> mark @top;
-      pos base uni12F9
+      pos base u12F9
           <anchor 394 720> mark @top;
-      pos base uni12FA
+      pos base u12FA
           <anchor 394 720> mark @top;
-      pos base uni12FB
+      pos base u12FB
           <anchor 385 720> mark @top;
-      pos base uni12FC
+      pos base u12FC
           <anchor 360 720> mark @top;
-      pos base uni12FD
+      pos base u12FD
           <anchor 360 720> mark @top;
-      pos base uni12FE
+      pos base u12FE
           <anchor 390 720> mark @top;
-      pos base uni12FF
+      pos base u12FF
           <anchor 395 720> mark @top;
-      pos base uni2D8D
+      pos base u2D8D
           <anchor 460 720> mark @top;
-      pos base uniAB09
+      pos base uAB09
           <anchor 395 720> mark @top;
-      pos base uniAB0A
+      pos base uAB0A
           <anchor 395 720> mark @top;
-      pos base uniAB0B
+      pos base uAB0B
           <anchor 395 720> mark @top;
-      pos base uniAB0C
+      pos base uAB0C
           <anchor 360 720> mark @top;
-      pos base uniAB0D
+      pos base uAB0D
           <anchor 360 720> mark @top;
-      pos base uniAB0E
+      pos base uAB0E
           <anchor 390 720> mark @top;
-      pos base uni1300
+      pos base u1300
           <anchor 390 765> mark @top;
-      pos base uni1301
+      pos base u1301
           <anchor 390 765> mark @top;
-      pos base uni1302
+      pos base u1302
           <anchor 390 765> mark @top;
-      pos base uni1303
+      pos base u1303
           <anchor 390 765> mark @top;
-      pos base uni1304
+      pos base u1304
           <anchor 390 765> mark @top;
-      pos base uni1305
+      pos base u1305
           <anchor 390 765> mark @top;
-      pos base uni1306
+      pos base u1306
           <anchor 390 765> mark @top;
-      pos base uni1307
+      pos base u1307
           <anchor 390 765> mark @top;
-      pos base uni2D8E
+      pos base u2D8E
           <anchor 490 765> mark @top;
-      pos base uni1308
+      pos base u1308
           <anchor 260 660> mark @top;
-      pos base uni1309
+      pos base u1309
           <anchor 260 660> mark @top;
-      pos base uni130A
+      pos base u130A
           <anchor 260 660> mark @top;
-      pos base uni130B
+      pos base u130B
           <anchor 450 660> mark @top;
-      pos base uni130C
+      pos base u130C
           <anchor 260 660> mark @top;
-      pos base uni130D
+      pos base u130D
           <anchor 330 651> mark @top;
-      pos base uni130E
+      pos base u130E
           <anchor 270 700> mark @top;
-      pos base uni130F
+      pos base u130F
           <anchor 270 700> mark @top;
-      pos base uni1310
+      pos base u1310
           <anchor 260 660> mark @top;
-      pos base uni1312
+      pos base u1312
           <anchor 260 660> mark @top;
-      pos base uni1313
+      pos base u1313
           <anchor 260 660> mark @top;
-      pos base uni1314
+      pos base u1314
           <anchor 260 660> mark @top;
-      pos base uni1315
+      pos base u1315
           <anchor 260 660> mark @top;
       pos base u1E7F8
           <anchor 260 660> mark @top;
@@ -806,227 +806,227 @@ feature mark {
           <anchor 260 660> mark @top;
       pos base u1E7FA
           <anchor 330 651> mark @top;
-      pos base uni2DD8
+      pos base u2DD8
           <anchor 280 770> mark @top;
-      pos base uni2DD9
+      pos base u2DD9
           <anchor 280 770> mark @top;
-      pos base uni2DDA
+      pos base u2DDA
           <anchor 280 770> mark @top;
-      pos base uni2DDB
+      pos base u2DDB
           <anchor 420 770> mark @top;
-      pos base uni2DDC
+      pos base u2DDC
           <anchor 290 770> mark @top;
-      pos base uni2DDD
+      pos base u2DDD
           <anchor 360 770> mark @top;
-      pos base uni2DDE
+      pos base u2DDE
           <anchor 290 770> mark @top;
-      pos base uni1318
+      pos base u1318
           <anchor 320 720> mark @top;
-      pos base uni1319
+      pos base u1319
           <anchor 320 720> mark @top;
-      pos base uni131A
+      pos base u131A
           <anchor 320 720> mark @top;
-      pos base uni131B
+      pos base u131B
           <anchor 420 720> mark @top;
-      pos base uni131C
+      pos base u131C
           <anchor 320 720> mark @top;
-      pos base uni131D
+      pos base u131D
           <anchor 320 720> mark @top;
-      pos base uni131E
+      pos base u131E
           <anchor 320 720> mark @top;
-      pos base uni2D93
+      pos base u2D93
           <anchor 320 720> mark @top;
-      pos base uni2D94
+      pos base u2D94
           <anchor 320 720> mark @top;
-      pos base uni131F
+      pos base u131F
           <anchor 320 720> mark @top;
-      pos base uni2D95
+      pos base u2D95
           <anchor 320 720> mark @top;
-      pos base uni2D96
+      pos base u2D96
           <anchor 320 720> mark @top;
-      pos base uni1320
+      pos base u1320
           <anchor 390 500> mark @top;
-      pos base uni1321
+      pos base u1321
           <anchor 390 500> mark @top;
-      pos base uni1322
+      pos base u1322
           <anchor 390 500> mark @top;
-      pos base uni1323
+      pos base u1323
           <anchor 400 590> mark @top;
-      pos base uni1324
+      pos base u1324
           <anchor 390 500> mark @top;
-      pos base uni1325
+      pos base u1325
           <anchor 370 610> mark @top;
-      pos base uni1326
+      pos base u1326
           <anchor 430 550> mark @top;
-      pos base uni1327
+      pos base u1327
           <anchor 400 590> mark @top;
-      pos base uni2D8F
+      pos base u2D8F
           <anchor 660 550> mark @top;
-      pos base uni1328
+      pos base u1328
           <anchor 420 500> mark @top;
-      pos base uni1329
+      pos base u1329
           <anchor 420 500> mark @top;
-      pos base uni132A
+      pos base u132A
           <anchor 420 500> mark @top;
-      pos base uni132B
+      pos base u132B
           <anchor 480 590> mark @top;
-      pos base uni132C
+      pos base u132C
           <anchor 420 500> mark @top;
-      pos base uni132D
+      pos base u132D
           <anchor 460 600> mark @top;
-      pos base uni132E
+      pos base u132E
           <anchor 425 545> mark @top;
-      pos base uni132F
+      pos base u132F
           <anchor 480 590> mark @top;
-      pos base uni2D90
+      pos base u2D90
           <anchor 640 545> mark @top;
-      pos base uni2DB8
+      pos base u2DB8
           <anchor 620 500> mark @top;
-      pos base uni2DB9
+      pos base u2DB9
           <anchor 620 500> mark @top;
-      pos base uni2DBA
+      pos base u2DBA
           <anchor 630 500> mark @top;
-      pos base uni2DBB
+      pos base u2DBB
           <anchor 690 580> mark @top;
-      pos base uni2DBC
+      pos base u2DBC
           <anchor 645 480> mark @top;
-      pos base uni2DBD
+      pos base u2DBD
           <anchor 680 600> mark @top;
-      pos base uni2DBE
+      pos base u2DBE
           <anchor 650 570> mark @top;
-      pos base uniAB20
+      pos base uAB20
           <anchor 430 640> mark @top;
-      pos base uniAB21
+      pos base uAB21
           <anchor 430 640> mark @top;
-      pos base uniAB22
+      pos base uAB22
           <anchor 430 640> mark @top;
-      pos base uniAB23
+      pos base uAB23
           <anchor 480 710> mark @top;
-      pos base uniAB24
+      pos base uAB24
           <anchor 430 640> mark @top;
-      pos base uniAB25
+      pos base uAB25
           <anchor 420 720> mark @top;
-      pos base uniAB26
+      pos base uAB26
           <anchor 430 670> mark @top;
-      pos base uni1330
+      pos base u1330
           <anchor 280 740> mark @top;
-      pos base uni1331
+      pos base u1331
           <anchor 280 740> mark @top;
-      pos base uni1332
+      pos base u1332
           <anchor 280 740> mark @top;
-      pos base uni1333
+      pos base u1333
           <anchor 280 740> mark @top;
-      pos base uni1334
+      pos base u1334
           <anchor 280 740> mark @top;
-      pos base uni1335
+      pos base u1335
           <anchor 280 740> mark @top;
-      pos base uni1336
+      pos base u1336
           <anchor 280 740> mark @top;
-      pos base uni1337
+      pos base u1337
           <anchor 270 740> mark @top;
-      pos base uni2D91
+      pos base u2D91
           <anchor 455 740> mark @top;
-      pos base uni1338
+      pos base u1338
           <anchor 280 610> mark @top;
-      pos base uni1339
+      pos base u1339
           <anchor 280 610> mark @top;
-      pos base uni133A
+      pos base u133A
           <anchor 280 610> mark @top;
-      pos base uni133B
+      pos base u133B
           <anchor 280 610> mark @top;
-      pos base uni133C
+      pos base u133C
           <anchor 280 610> mark @top;
-      pos base uni133D
+      pos base u133D
           <anchor 280 610> mark @top;
-      pos base uni133E
+      pos base u133E
           <anchor 280 610> mark @top;
-      pos base uni133F
+      pos base u133F
           <anchor 280 610> mark @top;
-      pos base uniAB28
+      pos base uAB28
           <anchor 300 730> mark @top;
-      pos base uniAB29
+      pos base uAB29
           <anchor 300 730> mark @top;
-      pos base uniAB2A
+      pos base uAB2A
           <anchor 300 730> mark @top;
-      pos base uniAB2B
+      pos base uAB2B
           <anchor 300 730> mark @top;
-      pos base uniAB2C
+      pos base uAB2C
           <anchor 300 730> mark @top;
-      pos base uniAB2D
+      pos base uAB2D
           <anchor 300 730> mark @top;
-      pos base uniAB2E
+      pos base uAB2E
           <anchor 300 730> mark @top;
-      pos base uni1340
+      pos base u1340
           <anchor 300 620> mark @top;
-      pos base uni1341
+      pos base u1341
           <anchor 300 620> mark @top;
-      pos base uni1342
+      pos base u1342
           <anchor 250 660> mark @top;
-      pos base uni1343
+      pos base u1343
           <anchor 250 660> mark @top;
-      pos base uni1344
+      pos base u1344
           <anchor 250 660> mark @top;
-      pos base uni1345
+      pos base u1345
           <anchor 280 680> mark @top;
-      pos base uni1346
+      pos base u1346
           <anchor 350 660> mark @top;
-      pos base uni1347
+      pos base u1347
           <anchor 480 660> mark @top;
-      pos base uni1348
+      pos base u1348
           <anchor 380 660> mark @top;
-      pos base uni1349
+      pos base u1349
           <anchor 310 650> mark @top;
-      pos base uni134A
+      pos base u134A
           <anchor 380 660> mark @top;
-      pos base uni134B
+      pos base u134B
           <anchor 310 650> mark @top;
-      pos base uni134C
+      pos base u134C
           <anchor 380 660> mark @top;
-      pos base uni134D
+      pos base u134D
           <anchor 320 620> mark @top;
-      pos base uni134E
+      pos base u134E
           <anchor 380 640> mark @top;
-      pos base uni134F
+      pos base u134F
           <anchor 328 650> mark @top;
-      pos base uni1388
+      pos base u1388
           <anchor 350 660> mark @top;
-      pos base uni1389
+      pos base u1389
           <anchor 380 660> mark @top;
-      pos base uni138A
+      pos base u138A
           <anchor 320 650> mark @top;
-      pos base uni138B
+      pos base u138B
           <anchor 320 650> mark @top;
       pos base u1E7FB
           <anchor 390 660> mark @top;
       pos base u1E7FC
           <anchor 390 660> mark @top;
-      pos base uni135A
+      pos base u135A
           <anchor 400 662> mark @top;
-      pos base uni1350
+      pos base u1350
           <anchor 360 660> mark @top;
-      pos base uni1351
+      pos base u1351
           <anchor 360 660> mark @top;
-      pos base uni1352
+      pos base u1352
           <anchor 360 660> mark @top;
-      pos base uni1353
+      pos base u1353
           <anchor 450 650> mark @top;
-      pos base uni1354
+      pos base u1354
           <anchor 370 650> mark @top;
-      pos base uni1355
+      pos base u1355
           <anchor 360 650> mark @top;
-      pos base uni1356
+      pos base u1356
           <anchor 460 650> mark @top;
-      pos base uni2D92
+      pos base u2D92
           <anchor 610 650> mark @top;
-      pos base uni1357
+      pos base u1357
           <anchor 365 650> mark @top;
-      pos base uni138C
+      pos base u138C
           <anchor 365 650> mark @top;
-      pos base uni138D
+      pos base u138D
           <anchor 365 650> mark @top;
-      pos base uni138E
+      pos base u138E
           <anchor 365 650> mark @top;
-      pos base uni138F
+      pos base u138F
           <anchor 360 650> mark @top;
       pos base u1E7FD
           <anchor 360 650> mark @top;
@@ -1038,16 +1038,16 @@ feature mark {
 } mark;
 feature mkmk {
 # GPOS feature : Mark to Mark Positioning
-#    markClass uni135E <anchor 0 631> @top;
-#    markClass uni135F <anchor -5 628> @top;
-#    markClass uni135D <anchor 4 632> @top;
+#    markClass u135E <anchor 0 631> @top;
+#    markClass u135F <anchor -5 628> @top;
+#    markClass u135D <anchor 4 632> @top;
 
   lookup mkmkLTR {
-      pos mark uni135E
+      pos mark u135E
           <anchor 0 813> mark @top;
-      pos mark uni135F
+      pos mark u135F
           <anchor -5 821> mark @top;
-      pos mark uni135D
+      pos mark u135D
           <anchor 4 816> mark @top;
   } mkmkLTR;
 
