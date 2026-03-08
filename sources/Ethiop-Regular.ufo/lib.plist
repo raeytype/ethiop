@@ -25,12 +25,14 @@
     </array>
     <key>slng</key>
     <array>
-      <string>Latn</string>
       <string>Ethi</string>
     </array>
   </dict>
   <key>public.glyphOrder</key>
   <array>
+    <string>.notdef</string>
+    <string>space</string>
+    <string>uni00A0</string>
     <string>u1200</string>
     <string>u1201</string>
     <string>u1202</string>
@@ -556,12 +558,9 @@
     <string>u137A</string>
     <string>u137B</string>
     <string>u137C</string>
-    <string>.notdef</string>
-    <string>space</string>
-    <string>u25CC</string>
-    <string>u00A0</string>
     <string>u2028</string>
     <string>u2029</string>
+    <string>u25CC</string>
   </array>
 </dict>
 </plist>

@@ -52,6 +52,16 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
+    <integer>250</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
     <integer>295</integer>
   </dict>
   <dict>
@@ -553,7 +563,7 @@ Public License instead of this License.</string>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>750</integer>
+  <integer>789</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>250</integer>
   <key>postscriptBlueFuzz</key>
