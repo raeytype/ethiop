@@ -143,7 +143,7 @@
   <key>openTypeHheaDescender</key>
   <integer>-300</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>90</integer>
+  <integer>0</integer>
   <key>openTypeNameDescription</key>
   <string>This is convesion of the Metafont outlines from the &quot;ethiop&quot; LaTeX package v0.7, developed by Berhanu Beyene, Manfred Kudlek, Olaf Kummer, and Jochen Metzinger. Conversion was performed with the mf2ff.py utility (https://github.com/mf2vec-dev/mf2ff).  The converted glyphs were refined and kerned by typedesigner Abraham Fikadu. Abraham also extended the glyph set to cover updates to the Unicode standard for Ethiopic since the last release of the ethiop package.
 
@@ -555,7 +555,7 @@ Public License instead of this License.</string>
   <key>openTypeOS2TypoDescender</key>
   <integer>-200</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>100</integer>
+  <integer>0</integer>
   <key>openTypeOS2VendorID</key>
   <string>RYT</string>
   <key>openTypeOS2WeightClass</key>
