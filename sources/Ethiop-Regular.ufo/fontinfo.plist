@@ -147,7 +147,7 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>800</integer>
+  <integer>750</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
@@ -573,7 +573,7 @@ Public License instead of this License.</string>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>787</integer>
+  <integer>789</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>243</integer>
   <key>postscriptBlueFuzz</key>
