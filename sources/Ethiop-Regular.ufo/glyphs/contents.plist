@@ -6,8 +6,6 @@
   <string>_notdef.glif</string>
   <key>space</key>
   <string>space.glif</string>
-  <key>uni00A0</key>
-  <string>uni00A_0.glif</string>
   <key>u1200</key>
   <string>u1200.glif</string>
   <key>u1201</key>
@@ -1064,5 +1062,7 @@
   <string>uA_B_2D_.glif</string>
   <key>uAB2E</key>
   <string>uA_B_2E_.glif</string>
+  <key>uni00A0</key>
+  <string>uni00A_0.glif</string>
 </dict>
 </plist>
