@@ -3,7 +3,6 @@
   <advance width="818"/>
   <unicode hex="1239"/>
   <anchor x="345" y="690" name="top"/>
-  <anchor x="345" y="690" name="t.u135E"/>
   <outline>
     <contour>
       <point x="544" y="307" type="curve" smooth="yes"/>
