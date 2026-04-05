@@ -32,7 +32,7 @@
   <array>
     <string>.notdef</string>
     <string>space</string>
-    <string>uni00A0</string>
+    <string>u00A0</string>
     <string>u1200</string>
     <string>u1201</string>
     <string>u1202</string>
