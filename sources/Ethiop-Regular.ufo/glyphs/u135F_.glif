@@ -3,6 +3,9 @@
   <unicode hex="135F"/>
   <anchor x="-5" y="821" name="top"/>
   <anchor x="-5" y="628" name="_top"/>
+  <anchor x="-5" y="628" name="_t.u135E"/>
+  <anchor x="-5" y="628" name="_t.u135E_2"/>
+  <anchor x="-5" y="821" name="t.u135E_2"/>
   <outline>
     <contour>
       <point x="-170" y="726" type="line" smooth="yes"/>
