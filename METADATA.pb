@@ -13,6 +13,7 @@ fonts {
   copyright: "Copyright (c) 2025-2026, Raey Type, 1998-2025 Universitaet Hamburg, with Reserved Font Name: "ethiop" and "ethiop Regular". Released under the GNU GPL v2.0."
 }
 subsets: "ethiopic"
+subsets: "latin"
 subsets: "menu"
 soruce {
   repository_url: "https://github.com/raeytype/ethiop"
