@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vlinecomb" format="2">
+  <unicode hex="030D"/>
+  <anchor x="-164" y="460" name="above"/>
+  <outline>
+    <contour>
+      <point x="-140" y="505" type="line"/>
+      <point x="-156" y="505"/>
+      <point x="-174" y="505"/>
+      <point x="-190" y="505" type="curve"/>
+      <point x="-190" y="533"/>
+      <point x="-190" y="679"/>
+      <point x="-190" y="702" type="curve"/>
+      <point x="-168" y="702"/>
+      <point x="-164" y="702"/>
+      <point x="-140" y="702" type="curve"/>
+      <point x="-140" y="679"/>
+      <point x="-140" y="540"/>
+      <point x="-140" y="505" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ezh" format="2">
+  <advance width="530"/>
+  <unicode hex="01B7"/>
+  <outline>
+    <contour>
+      <point x="270" y="620" type="line" smooth="yes"/>
+      <point x="158" y="620"/>
+      <point x="135" y="601"/>
+      <point x="111" y="492" type="curve"/>
+      <point x="87" y="492" type="line"/>
+      <point x="93" y="662" type="line"/>
+      <point x="490" y="662" type="line"/>
+      <point x="355" y="381" type="line"/>
+      <point x="461" y="381"/>
+      <point x="496" y="267"/>
+      <point x="496" y="200" type="curve" smooth="yes"/>
+      <point x="496" y="72"/>
+      <point x="402" y="-14"/>
+      <point x="287" y="-14" type="curve" smooth="yes"/>
+      <point x="174" y="-14"/>
+      <point x="75" y="32"/>
+      <point x="14" y="113" type="curve"/>
+      <point x="32" y="131" type="line"/>
+      <point x="106" y="60"/>
+      <point x="172" y="30"/>
+      <point x="255" y="30" type="curve" smooth="yes"/>
+      <point x="314" y="30"/>
+      <point x="395" y="64"/>
+      <point x="395" y="164" type="curve" smooth="yes"/>
+      <point x="395" y="277"/>
+      <point x="365" y="327"/>
+      <point x="235" y="327" type="curve"/>
+      <point x="373" y="620" type="line"/>
+    </contour>
+  </outline>
+</glyph>

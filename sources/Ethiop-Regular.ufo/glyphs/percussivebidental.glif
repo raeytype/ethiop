@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percussivebidental" format="2">
+  <advance width="500"/>
+  <unicode hex="02AD"/>
+  <outline>
+    <contour>
+      <point x="364" y="211" type="line"/>
+      <point x="124" y="211" type="line" smooth="yes"/>
+      <point x="76" y="211"/>
+      <point x="64" y="147"/>
+      <point x="55" y="101" type="curve"/>
+      <point x="28" y="105" type="line"/>
+      <point x="35" y="272" type="line"/>
+      <point x="453" y="272" type="line"/>
+      <point x="460" y="105" type="line"/>
+      <point x="433" y="101" type="line"/>
+      <point x="424" y="147"/>
+      <point x="412" y="211"/>
+      <point x="364" y="211" type="curve"/>
+    </contour>
+    <contour>
+      <point x="364" y="601" type="line"/>
+      <point x="124" y="601" type="line" smooth="yes"/>
+      <point x="76" y="601"/>
+      <point x="64" y="537"/>
+      <point x="55" y="491" type="curve"/>
+      <point x="28" y="495" type="line"/>
+      <point x="35" y="662" type="line"/>
+      <point x="453" y="662" type="line"/>
+      <point x="460" y="495" type="line"/>
+      <point x="433" y="491" type="line"/>
+      <point x="424" y="537"/>
+      <point x="412" y="601"/>
+      <point x="364" y="601" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

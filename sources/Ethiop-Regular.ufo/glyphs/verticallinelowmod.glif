@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="250"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="150" y="-259" type="line"/>
+      <point x="133" y="-259"/>
+      <point x="116" y="-259"/>
+      <point x="100" y="-259" type="curve"/>
+      <point x="100" y="-231"/>
+      <point x="100" y="-85"/>
+      <point x="100" y="-62" type="curve"/>
+      <point x="122" y="-62"/>
+      <point x="126" y="-62"/>
+      <point x="150" y="-62" type="curve"/>
+      <point x="150" y="-85"/>
+      <point x="150" y="-224"/>
+      <point x="150" y="-259" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

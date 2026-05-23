@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdiagonalstroke" format="2">
+  <advance width="611"/>
+  <unicode hex="023E"/>
+  <outline>
+    <contour>
+      <point x="254" y="620" type="line"/>
+      <point x="200" y="620" type="line" smooth="yes"/>
+      <point x="88" y="620"/>
+      <point x="65" y="601"/>
+      <point x="41" y="492" type="curve"/>
+      <point x="17" y="492" type="line"/>
+      <point x="23" y="662" type="line"/>
+      <point x="500.207" y="662" type="line"/>
+      <point x="539" y="721" type="line"/>
+      <point x="585" y="721" type="line"/>
+      <point x="546.438" y="662" type="line"/>
+      <point x="587" y="662" type="line"/>
+      <point x="593" y="492" type="line"/>
+      <point x="569" y="492" type="line"/>
+      <point x="555.375" y="557.161"/>
+      <point x="542.102" y="590.039"/>
+      <point x="509.847" y="606.016" type="curve"/>
+      <point x="356" y="370.63" type="line"/>
+      <point x="356" y="109" type="line" smooth="yes"/>
+      <point x="356" y="36"/>
+      <point x="370" y="23"/>
+      <point x="452" y="19" type="curve"/>
+      <point x="452" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="19" type="line"/>
+      <point x="243" y="24"/>
+      <point x="254" y="35"/>
+      <point x="254" y="120" type="curve" smooth="yes"/>
+      <point x="254" y="214.57" type="line"/>
+      <point x="85" y="-44" type="line"/>
+      <point x="36" y="-44" type="line"/>
+      <point x="254" y="287.551" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="442.68" type="line"/>
+      <point x="470.569" y="616.925" type="line"/>
+      <point x="453.87" y="619.204"/>
+      <point x="433.968" y="620"/>
+      <point x="410" y="620" type="curve" smooth="yes"/>
+      <point x="356" y="620" type="line"/>
+    </contour>
+  </outline>
+</glyph>

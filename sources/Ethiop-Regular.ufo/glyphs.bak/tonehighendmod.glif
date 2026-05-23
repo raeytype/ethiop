@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonehighendmod" format="2">
+  <advance width="175"/>
+  <unicode hex="02FA"/>
+  <outline>
+    <contour>
+      <point x="163" y="742" type="line"/>
+      <point x="163" y="505" type="line"/>
+      <point x="109" y="505" type="line"/>
+      <point x="109" y="688" type="line"/>
+      <point x="11" y="688" type="line"/>
+      <point x="11" y="742" type="line"/>
+    </contour>
+  </outline>
+</glyph>

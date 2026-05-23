@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candraBinducomb" format="2">
+  <unicode hex="0310"/>
+  <anchor x="-164" y="460" name="above"/>
+  <outline>
+    <component base="dotaccent" xOffset="-323" yOffset="93"/>
+    <component base="breve" xOffset="-326"/>
+  </outline>
+</glyph>

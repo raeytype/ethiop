@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="crossmod" format="2">
+  <advance width="352"/>
+  <unicode hex="02DF"/>
+  <outline>
+    <contour>
+      <point x="145.975" y="653.743" type="line"/>
+      <point x="18.5752" y="749.294" type="line"/>
+      <point x="49.7754" y="772.693" type="line"/>
+      <point x="177.175" y="676.656" type="line"/>
+      <point x="304.575" y="772.693" type="line"/>
+      <point x="335.775" y="749.294" type="line"/>
+      <point x="208.375" y="653.743" type="line"/>
+      <point x="335.775" y="557.706" type="line"/>
+      <point x="304.575" y="534.306" type="line"/>
+      <point x="177.175" y="630.344" type="line"/>
+      <point x="49.7754" y="534.306" type="line"/>
+      <point x="18.5752" y="557.706" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icomb" format="2">
+  <unicode hex="0365"/>
+  <anchor x="-189" y="460" name="above"/>
+  <outline>
+    <contour>
+      <point x="-219" y="675" type="line"/>
+      <point x="-223" y="675"/>
+      <point x="-231" y="674"/>
+      <point x="-237" y="673" type="curve"/>
+      <point x="-237" y="680" type="line"/>
+      <point x="-171" y="703" type="line"/>
+      <point x="-169" y="702" type="line"/>
+      <point x="-169" y="550" type="line" smooth="yes"/>
+      <point x="-169" y="519"/>
+      <point x="-166" y="515"/>
+      <point x="-138" y="513" type="curve"/>
+      <point x="-138" y="507" type="line"/>
+      <point x="-239" y="507" type="line"/>
+      <point x="-239" y="513" type="line"/>
+      <point x="-210" y="515"/>
+      <point x="-205" y="519"/>
+      <point x="-205" y="550" type="curve" smooth="yes"/>
+      <point x="-205" y="649" type="line" smooth="yes"/>
+      <point x="-205" y="668"/>
+      <point x="-209" y="675"/>
+      <point x="-219" y="675" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-191" y="798" type="line"/>
+      <point x="-179" y="798"/>
+      <point x="-169" y="789"/>
+      <point x="-169" y="777" type="curve" smooth="yes"/>
+      <point x="-169" y="764"/>
+      <point x="-179" y="755"/>
+      <point x="-191" y="755" type="curve" smooth="yes"/>
+      <point x="-203" y="755"/>
+      <point x="-213" y="765"/>
+      <point x="-213" y="777" type="curve" smooth="yes"/>
+      <point x="-213" y="789"/>
+      <point x="-203" y="798"/>
+      <point x="-191" y="798" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

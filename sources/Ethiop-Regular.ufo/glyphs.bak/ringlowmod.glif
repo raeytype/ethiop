@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringlowmod" format="2">
+  <advance width="327"/>
+  <unicode hex="02F3"/>
+  <outline>
+    <component base="ring" xOffset="-3" yOffset="-765"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="righttackbelowcomb" format="2">
+  <unicode hex="0319"/>
+  <anchor x="-169" y="0" name="below"/>
+  <outline>
+    <contour>
+      <point x="-254" y="-191" type="line"/>
+      <point x="-254" y="-300" type="line"/>
+      <point x="-308" y="-300" type="line"/>
+      <point x="-308" y="-44" type="line"/>
+      <point x="-254" y="-44" type="line"/>
+      <point x="-254" y="-137" type="line"/>
+      <point x="-71" y="-137" type="line"/>
+      <point x="-71" y="-191" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obar" format="2">
+  <advance width="726"/>
+  <unicode hex="019F"/>
+  <outline>
+    <contour>
+      <point x="688" y="330" type="line"/>
+      <point x="688" y="136"/>
+      <point x="560" y="-14"/>
+      <point x="361" y="-14" type="curve" smooth="yes"/>
+      <point x="162" y="-14"/>
+      <point x="34" y="136"/>
+      <point x="34" y="330" type="curve" smooth="yes"/>
+      <point x="34" y="524"/>
+      <point x="162" y="676"/>
+      <point x="361" y="676" type="curve" smooth="yes"/>
+      <point x="560" y="676"/>
+      <point x="688" y="524"/>
+      <point x="688" y="330" type="curve"/>
+    </contour>
+    <contour>
+      <point x="573.59" y="318" type="line"/>
+      <point x="148.41" y="318" type="line"/>
+      <point x="148.41" y="180"/>
+      <point x="203.836" y="22"/>
+      <point x="361" y="22" type="curve" smooth="yes"/>
+      <point x="522" y="22"/>
+      <point x="573.59" y="194"/>
+      <point x="573.59" y="318" type="curve"/>
+    </contour>
+    <contour>
+      <point x="148.327" y="359" type="line"/>
+      <point x="573.673" y="359" type="line"/>
+      <point x="573.673" y="466"/>
+      <point x="517.349" y="640"/>
+      <point x="361" y="640" type="curve" smooth="yes"/>
+      <point x="204.651" y="640"/>
+      <point x="148.327" y="472"/>
+      <point x="148.327" y="359" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

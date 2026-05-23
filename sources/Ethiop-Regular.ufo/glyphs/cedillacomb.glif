@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="-178" y="0" name="below"/>
+  <outline>
+    <component base="cedilla" xOffset="-333"/>
+  </outline>
+</glyph>
