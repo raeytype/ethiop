@@ -14,6 +14,7 @@ fonts {
 }
 subsets: "ethiopic"
 subsets: "menu"
+subsets: "music"
 soruce {
   repository_url: "https://github.com/raeytype/ethiop"
   commit: ""07cea7709fc64224239e09ac5b978e07e8450a6
