@@ -61,9 +61,9 @@ feature rclt {
 } rclt;
 feature mark {
 # GPOS feature : Mark Positioning
-    markClass u135E <anchor 0 638> @top;
-    markClass u135F <anchor -5 628> @top;
-    markClass u135D <anchor 4 639> @top;
+    markClass u135D <anchor 0 628> @top;
+    markClass u135E <anchor 0 628> @top;
+    markClass u135F <anchor 0 628> @top;
 
   lookup markLTR {
       pos base u1200
@@ -1040,17 +1040,17 @@ feature mark {
 } mark;
 feature mkmk {
 # GPOS feature : Mark to Mark Positioning
-#    markClass u135E <anchor 0 638> @top;
-#    markClass u135F <anchor -5 628> @top;
-#    markClass u135D <anchor 4 639> @top;
+#    markClass u135D <anchor 0 628> @top;
+#    markClass u135E <anchor 0 628> @top;
+#    markClass u135F <anchor 0 628> @top;
 
   lookup mkmkLTR {
-      pos mark u135E
-          <anchor 0 813> mark @top;
-      pos mark u135F
-          <anchor -5 821> mark @top;
       pos mark u135D
-          <anchor 4 816> mark @top;
+          <anchor 0 821> mark @top;
+      pos mark u135E
+          <anchor 0 821> mark @top;
+      pos mark u135F
+          <anchor 0 821> mark @top;
   } mkmkLTR;
 
   lookup mkmkLTR;

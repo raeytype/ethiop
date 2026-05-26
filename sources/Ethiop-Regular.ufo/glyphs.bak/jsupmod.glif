@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="jsupmod" format="2">
-  <advance width="240"/>
-  <unicode hex="02B2"/>
-  <outline>
-    <component base="j" xScale="0.67" yScale="0.67" xOffset="50" yOffset="271"/>
-  </outline>
-</glyph>

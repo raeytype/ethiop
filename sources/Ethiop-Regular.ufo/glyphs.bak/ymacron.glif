@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ymacron" format="2">
-  <advance width="500"/>
-  <unicode hex="0233"/>
-  <anchor x="343" y="0" name="below"/>
-  <outline>
-    <component base="y"/>
-  </outline>
-</glyph>

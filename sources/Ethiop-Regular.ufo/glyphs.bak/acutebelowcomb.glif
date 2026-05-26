@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutebelowcomb" format="2">
-  <unicode hex="0317"/>
-  <anchor x="-169" y="0" name="below"/>
-  <outline>
-    <component base="acute" xOffset="-376" yOffset="-722"/>
-  </outline>
-</glyph>

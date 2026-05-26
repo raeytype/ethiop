@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresis" format="2">
-  <advance width="333"/>
-  <unicode hex="00A8"/>
-  <outline>
-    <component base="dotaccent" xOffset="99"/>
-    <component base="dotaccent" xOffset="-100"/>
-  </outline>
-</glyph>

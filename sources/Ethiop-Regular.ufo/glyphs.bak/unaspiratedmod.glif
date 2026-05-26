@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="unaspiratedmod" format="2">
-  <advance width="333"/>
-  <unicode hex="02ED"/>
-  <outline>
-    <component base="macron" yOffset="18"/>
-    <component base="macron" yOffset="133"/>
-  </outline>
-</glyph>

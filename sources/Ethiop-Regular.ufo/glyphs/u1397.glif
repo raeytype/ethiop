@@ -15,11 +15,11 @@
       <point x="859.581" y="17" type="curve" smooth="yes"/>
       <point x="859.581" y="13" type="line" smooth="yes"/>
       <point x="859.581" y="3"/>
-      <point x="854.581" y="-0.00408681"/>
+      <point x="854.581" y="-0.00410008"/>
       <point x="844.581" y="0" type="curve" smooth="yes"/>
-      <point x="45" y="0.326774" type="line" smooth="yes"/>
-      <point x="35" y="0.330861"/>
-      <point x="30" y="7.32677"/>
+      <point x="45" y="0.3268" type="line" smooth="yes"/>
+      <point x="35" y="0.3309"/>
+      <point x="30" y="7.32681"/>
     </contour>
   </outline>
 </glyph>
