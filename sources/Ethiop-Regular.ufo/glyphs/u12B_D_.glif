@@ -80,8 +80,6 @@
       <point x="166" y="641"/>
       <point x="187" y="625"/>
       <point x="191" y="597" type="curve"/>
-      <point x="264" y="604" type="line"/>
-      <point x="379" y="613" type="line"/>
       <point x="488" y="622" type="line"/>
       <point x="492" y="641"/>
       <point x="506" y="657"/>

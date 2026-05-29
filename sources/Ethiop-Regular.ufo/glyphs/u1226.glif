@@ -88,7 +88,6 @@
       <point x="591" y="552"/>
       <point x="583" y="555" type="curve"/>
       <point x="587" y="567" type="line"/>
-      <point x="606" y="567" type="line"/>
       <point x="681" y="567" type="line" smooth="yes"/>
       <point x="693" y="567"/>
       <point x="699" y="565"/>
