@@ -2,7 +2,6 @@
 <glyph name="u12BB" format="2">
   <advance width="756"/>
   <unicode hex="12BB"/>
-  <anchor x="320" y="720" name="top"/>
   <outline>
     <contour>
       <point x="726" y="1" type="line"/>

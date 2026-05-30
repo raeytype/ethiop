@@ -2,7 +2,6 @@
 <glyph name="u2D8A" format="2">
   <advance width="763"/>
   <unicode hex="2D8A"/>
-  <anchor x="370" y="650" name="top"/>
   <outline>
     <contour>
       <point x="541" y="435" type="line" smooth="yes"/>
@@ -83,7 +82,7 @@
       <point x="49" y="229"/>
       <point x="42" y="234" type="curve"/>
       <point x="45" y="243" type="line"/>
-      <point x="303" y="242" type="line"/>
+      <point x="303" y="243" type="line"/>
     </contour>
   </outline>
 </glyph>

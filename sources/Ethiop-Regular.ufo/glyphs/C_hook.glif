@@ -2,7 +2,6 @@
 <glyph name="Chook" format="2">
   <advance width="811"/>
   <unicode hex="0187"/>
-  <anchor x="355" y="670" name="above"/>
   <outline>
     <contour>
       <point x="363" y="676" type="line"/>

@@ -2,7 +2,6 @@
 <glyph name="u2DB4" format="2">
   <advance width="974"/>
   <unicode hex="2DB4"/>
-  <anchor x="500" y="590" name="top"/>
   <outline>
     <contour>
       <point x="645" y="337" type="line"/>

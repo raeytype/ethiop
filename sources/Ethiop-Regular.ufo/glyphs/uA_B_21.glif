@@ -2,7 +2,6 @@
 <glyph name="uAB21" format="2">
   <advance width="1068"/>
   <unicode hex="AB21"/>
-  <anchor x="430" y="640" name="top"/>
   <outline>
     <contour>
       <point x="785" y="291" type="line"/>

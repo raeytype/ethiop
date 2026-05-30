@@ -2,7 +2,6 @@
 <glyph name="Ereversed" format="2">
   <advance width="611"/>
   <unicode hex="018E"/>
-  <anchor x="299" y="670" name="above"/>
   <outline>
     <contour>
       <point x="144" y="463" type="line"/>

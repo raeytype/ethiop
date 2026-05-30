@@ -4,6 +4,7 @@
   <unicode hex="012A"/>
   <anchor x="169" y="0" name="below"/>
   <outline>
+    <component base="macronmodifier" yOffset="189"/>
     <component base="I"/>
   </outline>
 </glyph>

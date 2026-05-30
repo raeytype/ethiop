@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zigzagabovecomb" format="2">
   <unicode hex="035B"/>
-  <anchor x="-252" y="460" name="above"/>
   <outline>
     <contour>
       <point x="-281" y="744" type="line"/>

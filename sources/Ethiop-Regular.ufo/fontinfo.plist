@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>750</integer>
+  <integer>800</integer>
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
   <string>Copyright (c) 2025-2026,  Raey Type, 1998-2025 Universitaet Hamburg, with Reserved Font Name: &quot;ethiop&quot; and &quot;ethiop Regular&quot;. Released under the GNU GPL v2.0.</string>
   <key>descender</key>
-  <integer>-250</integer>
+  <integer>-200</integer>
   <key>familyName</key>
   <string>ethiop</string>
   <key>guidelines</key>
@@ -83,6 +83,15 @@
     <key>rangeGaspBehavior</key>
       <array>
         <integer>0</integer>
+        <integer>2</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>21</integer>
+  </dict>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
         <integer>1</integer>
         <integer>2</integer>
         <integer>3</integer>
@@ -97,13 +106,13 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>750</integer>
+  <integer>900</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-250</integer>
+  <integer>-300</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>-0</integer>
+  <integer>90</integer>
   <key>openTypeNameDescription</key>
   <string>This is convesion of the Metafont outlines from the &quot;ethiop&quot; LaTeX package v0.7, developed by Berhanu Beyene, Manfred Kudlek, Olaf Kummer, and Jochen Metzinger. Conversion was performed with the mf2ff.py utility (https://github.com/mf2vec-dev/mf2ff).  The converted glyphs were refined and kerned by typedesigner Abraham Fikadu. Abraham also extended the glyph set to cover updates to the Unicode standard for Ethiopic since the last release of the ethiop package.
 
@@ -472,16 +481,16 @@ Public License instead of this License.</string>
   <string>Version 1.000-beta1</string>
   <key>openTypeOS2Panose</key>
   <array>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
+    <integer>2</integer>
+    <integer>2</integer>
+    <integer>6</integer>
+    <integer>3</integer>
+    <integer>5</integer>
+    <integer>4</integer>
+    <integer>5</integer>
+    <integer>2</integer>
+    <integer>3</integer>
+    <integer>4</integer>
   </array>
   <key>openTypeOS2Selection</key>
   <array>
@@ -511,11 +520,11 @@ Public License instead of this License.</string>
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>750</integer>
+  <integer>800</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-250</integer>
+  <integer>-200</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>-0</integer>
+  <integer>100</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>75</integer>
@@ -527,19 +536,23 @@ Public License instead of this License.</string>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>789</integer>
+  <integer>750</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>243</integer>
+  <integer>250</integer>
   <key>postscriptBlueFuzz</key>
-  <integer>1</integer>
+  <integer>-0</integer>
   <key>postscriptBlueScale</key>
   <real>0.039625</real>
   <key>postscriptBlueShift</key>
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-20</integer>
+    <integer>-14</integer>
     <integer>0</integer>
+    <integer>450</integer>
+    <integer>460</integer>
+    <integer>662</integer>
+    <integer>676</integer>
   </array>
   <key>postscriptFontName</key>
   <string>ethiop-Regular</string>
@@ -549,6 +562,29 @@ Public License instead of this License.</string>
   <string>ethiop Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptOtherBlues</key>
+  <array>
+    <integer>-217</integer>
+    <integer>-214</integer>
+  </array>
+  <key>postscriptStemSnapH</key>
+  <array>
+    <integer>30</integer>
+    <integer>38</integer>
+    <integer>44</integer>
+    <integer>54</integer>
+    <integer>60</integer>
+    <integer>73</integer>
+  </array>
+  <key>postscriptStemSnapV</key>
+  <array>
+    <integer>78</integer>
+    <integer>85</integer>
+    <integer>92</integer>
+    <integer>102</integer>
+    <integer>110</integer>
+    <integer>115</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>

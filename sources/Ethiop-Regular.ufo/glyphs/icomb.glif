@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icomb" format="2">
   <unicode hex="0365"/>
-  <anchor x="-189" y="460" name="above"/>
   <outline>
     <contour>
       <point x="-219" y="675" type="line"/>

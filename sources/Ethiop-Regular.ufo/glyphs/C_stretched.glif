@@ -2,7 +2,6 @@
 <glyph name="Cstretched" format="2">
   <advance width="444"/>
   <unicode hex="0297"/>
-  <anchor x="244" y="667" name="above"/>
   <outline>
     <contour>
       <point x="25" y="428" type="line" smooth="yes"/>

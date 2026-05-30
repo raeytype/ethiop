@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowheadrightbelowcomb" format="2">
   <unicode hex="0355"/>
-  <anchor x="-224" y="0" name="below"/>
 </glyph>

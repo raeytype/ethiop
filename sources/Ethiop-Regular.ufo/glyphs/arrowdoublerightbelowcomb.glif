@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowdoublerightbelowcomb" format="2">
   <unicode hex="0362"/>
-  <anchor x="-257" y="1" name="below"/>
   <outline>
     <contour>
       <point x="-286" y="-156" type="line"/>

@@ -2,7 +2,6 @@
 <glyph name="uAB20" format="2">
   <advance width="1038"/>
   <unicode hex="AB20"/>
-  <anchor x="430" y="640" name="top"/>
   <outline>
     <contour>
       <point x="1008" y="77" type="curve" smooth="yes"/>

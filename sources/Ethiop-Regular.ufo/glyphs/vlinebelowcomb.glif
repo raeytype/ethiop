@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="vlinebelowcomb" format="2">
   <unicode hex="0329"/>
-  <anchor x="-221" y="0" name="below"/>
   <outline>
     <contour>
       <point x="-197" y="-259" type="line"/>

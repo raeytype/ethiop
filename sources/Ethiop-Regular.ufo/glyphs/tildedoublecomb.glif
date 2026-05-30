@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildedoublecomb" format="2">
   <unicode hex="0360"/>
-  <anchor x="-252" y="510" name="above"/>
   <outline>
     <contour>
       <point x="-89" y="685" type="line"/>

@@ -2,7 +2,6 @@
 <glyph name="Ohorn" format="2">
   <advance width="722"/>
   <unicode hex="01A0"/>
-  <anchor x="358" y="-2" name="below"/>
   <outline>
     <contour>
       <point x="574" y="328" type="line"/>

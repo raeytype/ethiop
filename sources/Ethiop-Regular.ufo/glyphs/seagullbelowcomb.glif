@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seagullbelowcomb" format="2">
   <unicode hex="033C"/>
-  <anchor x="-190" y="0" name="below"/>
   <outline>
     <contour>
       <point x="-121" y="-43" type="line"/>

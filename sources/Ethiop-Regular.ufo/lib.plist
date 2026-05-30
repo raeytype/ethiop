@@ -1206,9 +1206,9 @@
     <string>circumflex</string>
     <string>caron</string>
     <string>verticallinemod</string>
-    <string>macronmod</string>
-    <string>acutemod</string>
-    <string>gravemod</string>
+    <string>macronmodifier</string>
+    <string>acutemodifier</string>
+    <string>gravemodifier</string>
     <string>verticallinelowmod</string>
     <string>macronlowmod</string>
     <string>gravelowmod</string>
@@ -1299,7 +1299,7 @@
     <string>dotbelowcomb</string>
     <string>dieresisbelowcomb</string>
     <string>ringbelowcomb</string>
-    <string>commaaccentcomb</string>
+    <string>commasubnosp</string>
     <string>cedillacomb</string>
     <string>ogonekcomb</string>
     <string>vlinebelowcomb</string>
@@ -1373,6 +1373,11 @@
     <string>tcomb</string>
     <string>vcomb</string>
     <string>xcomb</string>
+    <string>guillemotleft</string>
+    <string>guilsinglright</string>
+    <string>guilsinglleft</string>
+    <string>aslash</string>
+    <string>tslash</string>
   </array>
 </dict>
 </plist>

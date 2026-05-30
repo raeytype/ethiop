@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="overlinecomb" format="2">
   <unicode hex="0305"/>
-  <anchor x="-255" y="471" name="abovegk"/>
   <outline>
     <contour>
       <point x="-489" y="601" type="line"/>

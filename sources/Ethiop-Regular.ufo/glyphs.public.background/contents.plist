@@ -500,8 +500,8 @@
   <string>acutedblmiddlemod.glif</string>
   <key>acutelowmod</key>
   <string>acutelowmod.glif</string>
-  <key>acutemod</key>
-  <string>acutemod.glif</string>
+  <key>acutemodifier</key>
+  <string>acutemodifier.glif</string>
   <key>acutetonecomb</key>
   <string>acutetonecomb.glif</string>
   <key>adblgrave</key>
@@ -580,6 +580,8 @@
   <string>asciicircum.glif</string>
   <key>asciitilde</key>
   <string>asciitilde.glif</string>
+  <key>aslash</key>
+  <string>aslash.glif</string>
   <key>asterisk</key>
   <string>asterisk.glif</string>
   <key>asteriskbelowcomb</key>
@@ -692,12 +694,12 @@
   <string>commaabovecomb.glif</string>
   <key>commaaboverightcomb</key>
   <string>commaaboverightcomb.glif</string>
-  <key>commaaccentcomb</key>
-  <string>commaaccentcomb.glif</string>
   <key>commareversedabovecomb</key>
   <string>commareversedabovecomb.glif</string>
   <key>commareversedmod</key>
   <string>commareversedmod.glif</string>
+  <key>commasubnosp</key>
+  <string>commasubnosp.glif</string>
   <key>commaturnedabovecomb</key>
   <string>commaturnedabovecomb.glif</string>
   <key>commaturnedmod</key>
@@ -936,8 +938,8 @@
   <string>gravelowmod.glif</string>
   <key>gravemiddlemod</key>
   <string>gravemiddlemod.glif</string>
-  <key>gravemod</key>
-  <string>gravemod.glif</string>
+  <key>gravemodifier</key>
+  <string>gravemodifier.glif</string>
   <key>gravetonecomb</key>
   <string>gravetonecomb.glif</string>
   <key>greater</key>
@@ -946,8 +948,14 @@
   <string>gscript-ipa.glif</string>
   <key>gstroke</key>
   <string>gstroke.glif</string>
+  <key>guillemotleft</key>
+  <string>guillemotleft.glif</string>
   <key>guillemotright</key>
   <string>guillemotright.glif</string>
+  <key>guilsinglleft</key>
+  <string>guilsinglleft.glif</string>
+  <key>guilsinglright</key>
+  <string>guilsinglright.glif</string>
   <key>h</key>
   <string>h.glif</string>
   <key>handtailfishhookturned</key>
@@ -1106,8 +1114,8 @@
   <string>macroncomb.glif</string>
   <key>macronlowmod</key>
   <string>macronlowmod.glif</string>
-  <key>macronmod</key>
-  <string>macronmod.glif</string>
+  <key>macronmodifier</key>
+  <string>macronmodifier.glif</string>
   <key>mcomb</key>
   <string>mcomb.glif</string>
   <key>mhook</key>
@@ -1480,6 +1488,8 @@
   <string>tretroflexhook.glif</string>
   <key>ts</key>
   <string>ts.glif</string>
+  <key>tslash</key>
+  <string>tslash.glif</string>
   <key>tturned</key>
   <string>tturned.glif</string>
   <key>two</key>

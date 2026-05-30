@@ -2,7 +2,6 @@
 <glyph name="alpha-ipa" format="2">
   <advance width="500"/>
   <unicode hex="0251"/>
-  <anchor x="255" y="456" name="above"/>
   <outline>
     <contour>
       <point x="479" y="36" type="line"/>

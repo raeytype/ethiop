@@ -4,6 +4,7 @@
   <unicode hex="012B"/>
   <anchor x="137" y="-4" name="below"/>
   <outline>
+    <component base="macronmodifier" xOffset="-30" yOffset="-17"/>
     <component base="dotlessi"/>
   </outline>
 </glyph>

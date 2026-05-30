@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slashlongcomb" format="2">
   <unicode hex="0338"/>
-  <anchor x="-189" y="252" name="middle"/>
   <outline>
     <contour>
       <point x="-360" y="-112" type="line"/>

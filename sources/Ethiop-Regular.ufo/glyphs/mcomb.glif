@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mcomb" format="2">
   <unicode hex="036B"/>
-  <anchor x="-211" y="460" name="above"/>
   <outline>
     <contour>
       <point x="-382" y="678" type="line"/>

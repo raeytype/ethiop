@@ -2,7 +2,6 @@
 <glyph name="oe" format="2">
   <advance width="709"/>
   <unicode hex="0153"/>
-  <anchor x="380" y="456" name="above"/>
   <outline>
     <contour>
       <point x="419" y="277" type="line"/>

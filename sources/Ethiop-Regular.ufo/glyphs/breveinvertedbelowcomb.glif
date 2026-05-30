@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvertedbelowcomb" format="2">
   <unicode hex="032F"/>
-  <anchor x="-210" y="0" name="below"/>
   <outline>
     <contour>
       <point x="-101" y="-220" type="line"/>

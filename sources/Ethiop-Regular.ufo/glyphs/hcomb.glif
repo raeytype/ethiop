@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcomb" format="2">
   <unicode hex="036A"/>
-  <anchor x="-206" y="459" name="above"/>
   <outline>
     <contour>
       <point x="-244" y="653" type="line"/>

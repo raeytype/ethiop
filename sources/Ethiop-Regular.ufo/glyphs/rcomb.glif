@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcomb" format="2">
   <unicode hex="036C"/>
-  <anchor x="-187" y="460" name="above"/>
   <outline>
     <contour>
       <point x="-138" y="662" type="line"/>

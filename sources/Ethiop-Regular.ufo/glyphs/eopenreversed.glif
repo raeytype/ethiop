@@ -2,7 +2,6 @@
 <glyph name="eopenreversed" format="2">
   <advance width="426"/>
   <unicode hex="025C"/>
-  <anchor x="207" y="461" name="above"/>
   <outline>
     <contour>
       <point x="27" y="108" type="line"/>
