@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
-  <anchor x="-173" y="460" name="above"/>
+  <anchor x="-173" y="460" name="_above"/>
   <outline>
     <component base="tilde" xOffset="-333" yOffset="-11"/>
   </outline>

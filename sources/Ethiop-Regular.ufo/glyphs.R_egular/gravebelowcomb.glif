@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravebelowcomb" format="2">
+  <anchor x="-169" y="0" name="below"/>
+  <outline>
+    <component base="grave" xOffset="-302" yOffset="-721"/>
+  </outline>
+</glyph>

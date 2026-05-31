@@ -676,7 +676,7 @@
     <string>acute</string>
     <string>micro</string>
     <string>paragraph</string>
-    <string>periodcentered</string>
+    <string>middot</string>
     <string>cedilla</string>
     <string>onesuperior</string>
     <string>ordmasculine</string>
@@ -1192,7 +1192,7 @@
     <string>ysupmod</string>
     <string>primemod</string>
     <string>primedblmod</string>
-    <string>commaturnedmod</string>
+    <string>quoteleftmod</string>
     <string>apostrophemod</string>
     <string>commareversedmod</string>
     <string>ringhalfrightmod</string>
@@ -1378,6 +1378,51 @@
     <string>guilsinglleft</string>
     <string>aslash</string>
     <string>tslash</string>
+    <string>quoteright</string>
+    <string>iogonekdotless</string>
+    <string>Wgrave</string>
+    <string>wgrave</string>
+    <string>Wacute</string>
+    <string>wacute</string>
+    <string>Wdieresis</string>
+    <string>wdieresis</string>
+    <string>quoteleft</string>
+    <string>quotesinglbase</string>
+    <string>quotereversed</string>
+    <string>quotedblleft</string>
+    <string>quotedblright</string>
+    <string>quotedblbase</string>
+    <string>quotedblreversed</string>
+    <string>dagger</string>
+    <string>daggerdbl</string>
+    <string>bullet</string>
+    <string>triangularbullet</string>
+    <string>onedotenleader</string>
+    <string>twodotenleader</string>
+    <string>ellipsis</string>
+    <string>hyphenationpoint</string>
+    <string>lefttorightembed</string>
+    <string>righttoleftembed</string>
+    <string>popdirectionalformatting</string>
+    <string>lefttorightoverride</string>
+    <string>righttoleftoverride</string>
+    <string>narrownobreakspace</string>
+    <string>perthousand</string>
+    <string>pertenthousandsign</string>
+    <string>minute</string>
+    <string>second</string>
+    <string>millisecond</string>
+    <string>primereversed</string>
+    <string>secondreversed</string>
+    <string>millisecondreversed</string>
+    <string>Germandbls</string>
+    <string>Ygrave</string>
+    <string>ygrave</string>
+    <string>endash</string>
+    <string>emdash</string>
+    <string>Euro</string>
+    <string>trademark</string>
+    <string>minus</string>
   </array>
 </dict>
 </plist>

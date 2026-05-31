@@ -2,4 +2,7 @@
 <glyph name="apostrophemod" format="2">
   <advance width="333"/>
   <unicode hex="02BC"/>
+  <outline>
+    <component base="quoteleftmod"/>
+  </outline>
 </glyph>

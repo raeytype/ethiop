@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb" format="2">
+  <anchor x="-162" y="468" name="abovecyr"/>
+  <outline>
+    <component base="breve" xScale="-1" yScale="-1" xOffset="-1" yOffset="1171"/>
+  </outline>
+</glyph>

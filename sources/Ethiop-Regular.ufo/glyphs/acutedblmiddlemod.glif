@@ -2,4 +2,8 @@
 <glyph name="acutedblmiddlemod" format="2">
   <advance width="437"/>
   <unicode hex="02F6"/>
+  <outline>
+    <component base="acutemodifier" xOffset="101" yOffset="-228"/>
+    <component base="acutemodifier" xOffset="-74" yOffset="-226"/>
+  </outline>
 </glyph>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="vcomb" format="2">
   <unicode hex="036E"/>
+  <anchor x="-226" y="460" name="above"/>
   <outline>
     <contour>
       <point x="-129" y="698" type="line"/>

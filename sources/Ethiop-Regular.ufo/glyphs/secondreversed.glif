@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="secondreversed" format="2">
+  <advance width="411"/>
+  <unicode hex="2036"/>
+  <outline>
+    <component base="primereversed" xOffset="167"/>
+    <component base="primereversed" xOffset="-23"/>
+  </outline>
+</glyph>

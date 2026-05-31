@@ -2,4 +2,6 @@
 <glyph name="apostrophedblmod" format="2">
   <advance width="444"/>
   <unicode hex="02EE"/>
+  <outline>
+  </outline>
 </glyph>

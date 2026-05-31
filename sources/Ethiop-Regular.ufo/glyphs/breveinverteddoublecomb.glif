@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinverteddoublecomb" format="2">
   <unicode hex="0361"/>
+  <anchor x="-261" y="477" name="above"/>
   <outline>
     <contour>
       <point x="286" y="534" type="line"/>

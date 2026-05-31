@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildeverticalcomb" format="2">
   <unicode hex="033E"/>
+  <anchor x="-258" y="612" name="abovecyr"/>
   <outline>
     <contour>
       <point x="-261" y="716" type="line"/>

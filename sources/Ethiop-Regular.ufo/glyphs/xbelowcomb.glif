@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="xbelowcomb" format="2">
   <unicode hex="0353"/>
+  <anchor x="-251" y="0" name="below"/>
 </glyph>

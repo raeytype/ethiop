@@ -2,6 +2,9 @@
 <glyph name="b" format="2">
   <advance width="500"/>
   <unicode hex="0062"/>
+  <anchor x="249" y="0" name="below"/>
+  <anchor x="271" y="670" name="above"/>
+  <anchor x="246" y="234" name="middle"/>
   <outline>
     <contour>
       <point x="153" y="681" type="line"/>
@@ -26,8 +29,8 @@
       <point x="9" y="624"/>
       <point x="3" y="623" type="curve"/>
       <point x="3" y="639" type="line"/>
-      <point x="52" y="651"/>
-      <point x="100" y="665"/>
+      <point x="51.6621" y="651.105"/>
+      <point x="100.032" y="665.49"/>
       <point x="148" y="683" type="curve"/>
     </contour>
     <contour>

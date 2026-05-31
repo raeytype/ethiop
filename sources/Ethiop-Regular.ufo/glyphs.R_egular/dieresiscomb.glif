@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+  <anchor x="-168" y="463" name="abovegk"/>
+  <outline>
+    <component base="dieresis" xOffset="-333"/>
+  </outline>
+</glyph>

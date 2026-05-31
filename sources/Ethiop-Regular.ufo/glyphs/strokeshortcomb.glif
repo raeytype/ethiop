@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="strokeshortcomb" format="2">
   <unicode hex="0335"/>
+  <anchor x="-241" y="220" name="middle"/>
   <outline>
     <contour>
       <point x="-353" y="244" type="line"/>

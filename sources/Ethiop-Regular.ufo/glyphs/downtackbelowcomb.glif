@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="downtackbelowcomb" format="2">
   <unicode hex="031E"/>
+  <anchor x="-209" y="0" name="below"/>
   <outline>
     <contour>
       <point x="-237" y="-116" type="line"/>

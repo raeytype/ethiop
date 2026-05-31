@@ -3,6 +3,9 @@
   <advance width="722"/>
   <unicode hex="0055"/>
   <anchor x="372" y="0" name="below"/>
+  <anchor x="374" y="326" name="middle"/>
+  <anchor x="434" y="0" name="ogonek"/>
+  <anchor x="380" y="670" name="above"/>
   <outline>
     <contour>
       <point x="206" y="233" type="line" smooth="yes"/>

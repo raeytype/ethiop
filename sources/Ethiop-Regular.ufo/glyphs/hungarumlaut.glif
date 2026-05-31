@@ -2,4 +2,8 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="382"/>
   <unicode hex="02DD"/>
+  <outline>
+    <component base="acutemodifier" xOffset="60"/>
+    <component base="acutemodifier" xOffset="-96"/>
+  </outline>
 </glyph>

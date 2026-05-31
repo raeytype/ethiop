@@ -2,4 +2,5 @@
 <glyph name="alphaturned" format="2">
   <advance width="507"/>
   <unicode hex="0252"/>
+  <anchor x="255" y="456" name="above"/>
 </glyph>

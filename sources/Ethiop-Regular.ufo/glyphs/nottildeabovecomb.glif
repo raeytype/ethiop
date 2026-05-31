@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nottildeabovecomb" format="2">
   <unicode hex="034A"/>
+  <anchor x="-190" y="460" name="above"/>
   <outline>
     <contour>
       <point x="-72" y="649" type="line"/>

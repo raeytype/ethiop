@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaboverightcomb" format="2">
   <unicode hex="0315"/>
+  <anchor x="-6" y="456" name="topright"/>
   <outline>
     <contour>
       <point x="56" y="572" type="line"/>

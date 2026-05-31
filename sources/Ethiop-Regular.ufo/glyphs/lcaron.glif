@@ -4,5 +4,6 @@
   <unicode hex="013E"/>
   <outline>
     <component base="l"/>
+    <component base="apostrophemod" xOffset="161" yOffset="-83"/>
   </outline>
 </glyph>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecomb" format="2">
   <unicode hex="0364"/>
+  <anchor x="-203" y="460" name="above"/>
   <outline>
     <contour>
       <point x="-261" y="623" type="line"/>

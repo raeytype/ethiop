@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="millisecondreversed" format="2">
+  <advance width="611"/>
+  <unicode hex="2037"/>
+  <outline>
+    <component base="primereversed" xOffset="367"/>
+    <component base="primereversed" xOffset="177"/>
+    <component base="primereversed" xOffset="-15"/>
+  </outline>
+</glyph>

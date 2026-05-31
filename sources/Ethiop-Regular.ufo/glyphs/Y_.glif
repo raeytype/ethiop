@@ -2,6 +2,10 @@
 <glyph name="Y" format="2">
   <advance width="722"/>
   <unicode hex="0059"/>
+  <anchor x="365" y="0" name="below"/>
+  <anchor x="369" y="326" name="middle"/>
+  <anchor x="494" y="1" name="ogonek"/>
+  <anchor x="355" y="670" name="above"/>
   <outline>
     <contour>
       <point x="703" y="662" type="line"/>
@@ -29,7 +33,7 @@
       <point x="302" y="662" type="line"/>
       <point x="302" y="643" type="line"/>
       <point x="261" y="640"/>
-      <point x="231" y="635"/>
+      <point x="231" y="634.667"/>
       <point x="231" y="613" type="curve" smooth="yes"/>
       <point x="231" y="602"/>
       <point x="237" y="585"/>

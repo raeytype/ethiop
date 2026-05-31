@@ -2,4 +2,7 @@
 <glyph name="gravemiddlemod" format="2">
   <advance width="261"/>
   <unicode hex="02F4"/>
+  <outline>
+    <component base="gravemodifier" yOffset="-226"/>
+  </outline>
 </glyph>

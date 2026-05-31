@@ -2,6 +2,7 @@
 <glyph name="Eopen" format="2">
   <advance width="518"/>
   <unicode hex="0190"/>
+  <anchor x="272" y="674" name="above"/>
   <outline>
     <contour>
       <point x="158" y="530" type="line"/>

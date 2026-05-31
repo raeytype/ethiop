@@ -2,6 +2,7 @@
 <glyph name="uAB16" format="2">
   <advance width="608"/>
   <unicode hex="AB16"/>
+  <anchor x="290" y="740" name="top"/>
   <outline>
     <contour>
       <point x="63" y="82" type="curve" smooth="yes"/>

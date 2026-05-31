@@ -2,6 +2,7 @@
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
   <anchor x="-168" y="462" name="abovegk"/>
+  <anchor x="-164" y="491" name="above"/>
   <outline>
     <component base="dotaccent" xOffset="-333"/>
   </outline>

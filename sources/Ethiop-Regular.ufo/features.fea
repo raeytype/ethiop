@@ -41,6 +41,20 @@ feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
 
+lookup latnSoftDot {
+# @CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb ];
+# @CombiningNonTopAccents = [cedillacomb ogonekcomb ];
+	sub [i j iogonek]' @latn_CombiningTopAccents by [dotlessi dotlessi iogonekdotless];
+	sub [i j iogonek]' @latn_CombiningNonTopAccents @latn_CombiningTopAccents by [dotlessi dotlessi iogonekdotless];
+} latnSoftDot;
+#> feature
+#< feature
+
+lookup ccmp_latn_decomposeLowercaseIJ {
+	sub i' @latn_CombiningTopAccents by dotlessi;
+	sub j' @latn_CombiningTopAccents by dotlessj;
+} ccmp_latn_decomposeLowercaseIJ;
+
   script ethi; # Ethiopic
   # ignore sub @ccmp @ccmp' @ccmp;
   # åignore sub @ccmp' @ccmp;
@@ -63,9 +77,10 @@ feature rclt {
 } rclt;
 feature mark {
 # GPOS feature : Mark Positioning
-    markClass u135D <anchor 0 628> @top;
     markClass u135E <anchor 0 628> @top;
     markClass u135F <anchor 0 628> @top;
+    markClass u135D <anchor 0 628> @top;
+    markClass gravecomb <anchor -166 456> @above;
 
   lookup markLTR {
       pos base u1200
@@ -1036,22 +1051,288 @@ feature mark {
           <anchor 360 650> mark @top;
       pos base u25CC
           <anchor 396 783> mark @top;
+      pos base A
+          <anchor 355 670> mark @above;
+      pos base B
+          <anchor 313 670> mark @above;
+      pos base C
+          <anchor 355 670> mark @above;
+      pos base D
+          <anchor 355 670> mark @above;
+      pos base E
+          <anchor 310 670> mark @above;
+      pos base F
+          <anchor 297 670> mark @above;
+      pos base G
+          <anchor 364 670> mark @above;
+      pos base H
+          <anchor 358 670> mark @above;
+      pos base I
+          <anchor 167 670> mark @above;
+      pos base J
+          <anchor 236 670> mark @above;
+      pos base K
+          <anchor 355 670> mark @above;
+      pos base L
+          <anchor 332 670> mark @above;
+      pos base M
+          <anchor 428 670> mark @above;
+      pos base N
+          <anchor 338 670> mark @above;
+      pos base O
+          <anchor 362 674> mark @above;
+      pos base P
+          <anchor 299 670> mark @above;
+      pos base Q
+          <anchor 370 670> mark @above;
+      pos base R
+          <anchor 297 670> mark @above;
+      pos base S
+          <anchor 271 670> mark @above;
+      pos base T
+          <anchor 306 670> mark @above;
+      pos base U
+          <anchor 380 670> mark @above;
+      pos base V
+          <anchor 383 670> mark @above;
+      pos base W
+          <anchor 472 670> mark @above;
+      pos base X
+          <anchor 355 670> mark @above;
+      pos base Y
+          <anchor 355 670> mark @above;
+      pos base Z
+          <anchor 302 670> mark @above;
+      pos base a
+          <anchor 226 458> mark @above;
+      pos base b
+          <anchor 271 670> mark @above;
+      pos base c
+          <anchor 244 460> mark @above;
+      pos base d
+          <anchor 233 670> mark @above;
+      pos base e
+          <anchor 236 458> mark @above;
+      pos base f
+          <anchor 246 670> mark @above;
+      pos base g
+          <anchor 256 461> mark @above;
+      pos base h
+          <anchor 272 670> mark @above;
+      pos base i
+          <anchor 132 678> mark @above;
+      pos base j
+          <anchor 148 670> mark @above;
+      pos base k
+          <anchor 265 670> mark @above;
+      pos base l
+          <anchor 135 670> mark @above;
+      pos base m
+          <anchor 400 463> mark @above;
+      pos base n
+          <anchor 253 463> mark @above;
+      pos base o
+          <anchor 249 456> mark @above;
+      pos base p
+          <anchor 268 463> mark @above;
+      pos base q
+          <anchor 248 463> mark @above;
+      pos base r
+          <anchor 190 463> mark @above;
+      pos base s
+          <anchor 191 463> mark @above;
+      pos base t
+          <anchor 148 587> mark @above;
+      pos base u
+          <anchor 236 458> mark @above;
+      pos base v
+          <anchor 260 463> mark @above;
+      pos base w
+          <anchor 367 463> mark @above;
+      pos base x
+          <anchor 235 463> mark @above;
+      pos base y
+          <anchor 250 458> mark @above;
+      pos base z
+          <anchor 237 463> mark @above;
+      pos base ae
+          <anchor 336 458> mark @above;
+      pos base oslash
+          <anchor 249 456> mark @above;
+      pos base Aogonek
+          <anchor 355 670> mark @above;
+      pos base aogonek
+          <anchor 230 463> mark @above;
+      pos base Eogonek
+          <anchor 305 670> mark @above;
+      pos base eogonek
+          <anchor 234 463> mark @above;
+      pos base Iogonek
+          <anchor 165 670> mark @above;
+      pos base iogonek
+          <anchor 134 670> mark @above;
+      pos base oe
+          <anchor 380 456> mark @above;
+      pos base Uogonek
+          <anchor 385 670> mark @above;
+      pos base uogonek
+          <anchor 220 463> mark @above;
+      pos base Oopen
+          <anchor 301 674> mark @above;
+      pos base Chook
+          <anchor 355 670> mark @above;
+      pos base chook
+          <anchor 225 460> mark @above;
+      pos base Ereversed
+          <anchor 299 670> mark @above;
+      pos base Eopen
+          <anchor 272 674> mark @above;
+      pos base Istroke
+          <anchor 169 670> mark @above;
+      pos base yr
+          <anchor 357 670> mark @above;
+      pos base eturned
+          <anchor 230 461> mark @above;
+      pos base Oogonek
+          <anchor 360 670> mark @above;
+      pos base oogonek
+          <anchor 250 463> mark @above;
+      pos base dotlessj
+          <anchor 136 461> mark @above;
+      pos base aturned
+          <anchor 220 456> mark @above;
+      pos base alpha-ipa
+          <anchor 255 456> mark @above;
+      pos base alphaturned
+          <anchor 255 456> mark @above;
+      pos base oopen
+          <anchor 220 460> mark @above;
+      pos base ereversed-ipa
+          <anchor 230 461> mark @above;
+      pos base schwa
+          <anchor 230 461> mark @above;
+      pos base eopen
+          <anchor 219 461> mark @above;
+      pos base eopenreversed
+          <anchor 207 461> mark @above;
+      pos base Ismall
+          <anchor 143 461> mark @above;
+      pos base obarred
+          <anchor 249 456> mark @above;
+      pos base ubar
+          <anchor 248 458> mark @above;
+      pos base glottalstop
+          <anchor 193 676> mark @above;
+      pos base pharyngealvoicedfricative
+          <anchor 258 676> mark @above;
+      pos base Cstretched
+          <anchor 244 667> mark @above;
+      pos base glottalstopstroke
+          <anchor 193 676> mark @above;
+      pos base glottalstopstrokereversed
+          <anchor 258 676> mark @above;
+      pos base circumflexcomb
+          <anchor -164 460> mark @above;
+      pos base tildecomb
+          <anchor -173 460> mark @above;
+      pos base hookabovecomb
+          <anchor -164 460> mark @above;
+      pos base ringcomb
+          <anchor -164 460> mark @above;
+      pos base caroncomb
+          <anchor -164 460> mark @above;
+      pos base vlinecomb
+          <anchor -164 460> mark @above;
+      pos base dblvlinecomb
+          <anchor -134 460> mark @above;
+      pos base dblgravecomb
+          <anchor -164 460> mark @above;
+      pos base candraBinducomb
+          <anchor -164 460> mark @above;
+      pos base commaturnedabovecomb
+          <anchor -164 460> mark @above;
+      pos base commaabovecomb
+          <anchor -185 480> mark @above;
+      pos base commareversedabovecomb
+          <anchor -164 482> mark @above;
+      pos base xabovecomb
+          <anchor -183 460> mark @above;
+      pos base dbloverlinecomb
+          <anchor -244 460> mark @above;
+      pos base perispomenicomb
+          <anchor -71 460> mark @above;
+      pos base koroniscomb
+          <anchor -164 460> mark @above;
+      pos base dialytikatonoscomb
+          <anchor -203 460> mark @above;
+      pos base bridgecomb
+          <anchor -236 460> mark @above;
+      pos base nottildeabovecomb
+          <anchor -190 460> mark @above;
+      pos base homotheticabovecomb
+          <anchor -206 463> mark @above;
+      pos base almostequaltoabovecomb
+          <anchor -205 460> mark @above;
+      pos base arrowheadrightabovecomb
+          <anchor -183 460> mark @above;
+      pos base lefthalfringabovecomb
+          <anchor -167 460> mark @above;
+      pos base fermatacomb
+          <anchor -164 460> mark @above;
+      pos base righthalfringabovecomb
+          <anchor -205 460> mark @above;
+      pos base zigzagabovecomb
+          <anchor -252 460> mark @above;
+      pos base doublebrevecomb
+          <anchor -252 501> mark @above;
+      pos base doublemacroncomb
+          <anchor -252 506> mark @above;
+      pos base tildedoublecomb
+          <anchor -252 510> mark @above;
+      pos base breveinverteddoublecomb
+          <anchor -261 477> mark @above;
+      pos base acomb
+          <anchor -224 460> mark @above;
+      pos base ecomb
+          <anchor -203 460> mark @above;
+      pos base icomb
+          <anchor -189 460> mark @above;
+      pos base ocomb
+          <anchor -247 460> mark @above;
+      pos base ucomb
+          <anchor -220 460> mark @above;
+      pos base ccomb
+          <anchor -236 460> mark @above;
+      pos base dcomb
+          <anchor -220 460> mark @above;
+      pos base hcomb
+          <anchor -206 459> mark @above;
+      pos base mcomb
+          <anchor -211 460> mark @above;
+      pos base rcomb
+          <anchor -187 460> mark @above;
+      pos base tcomb
+          <anchor -221 460> mark @above;
+      pos base vcomb
+          <anchor -226 460> mark @above;
+      pos base xcomb
+          <anchor -227 460> mark @above;
   } markLTR;
 
   lookup markLTR;
 } mark;
 feature mkmk {
 # GPOS feature : Mark to Mark Positioning
-#    markClass u135D <anchor 0 628> @top;
 #    markClass u135E <anchor 0 628> @top;
 #    markClass u135F <anchor 0 628> @top;
+#    markClass u135D <anchor 0 628> @top;
 
   lookup mkmkLTR {
-      pos mark u135D
-          <anchor 0 821> mark @top;
       pos mark u135E
           <anchor 0 821> mark @top;
       pos mark u135F
+          <anchor 0 821> mark @top;
+      pos mark u135D
           <anchor 0 821> mark @top;
   } mkmkLTR;
 

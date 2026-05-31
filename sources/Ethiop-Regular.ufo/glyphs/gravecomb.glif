@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="-166" y="456" name="above"/>
+  <anchor x="-166" y="456" name="_above"/>
   <outline>
     <component base="grave" xOffset="-333"/>
   </outline>

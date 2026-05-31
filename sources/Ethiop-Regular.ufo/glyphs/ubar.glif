@@ -2,6 +2,7 @@
 <glyph name="ubar" format="2">
   <advance width="512"/>
   <unicode hex="0289"/>
+  <anchor x="248" y="458" name="above"/>
   <outline>
     <contour>
       <point x="491" y="50" type="line"/>

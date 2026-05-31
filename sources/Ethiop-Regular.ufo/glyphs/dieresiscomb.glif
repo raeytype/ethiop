@@ -2,6 +2,9 @@
 <glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
   <anchor x="-168" y="463" name="abovegk"/>
+  <anchor x="-169" y="480" name="above_goth"/>
+  <anchor x="-166" y="480" name="abovecyr"/>
+  <anchor x="-164" y="482" name="above"/>
   <outline>
     <component base="dieresis" xOffset="-333"/>
   </outline>
